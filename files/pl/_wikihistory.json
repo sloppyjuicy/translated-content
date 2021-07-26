@@ -5830,2879 +5830,6 @@
       "drm404"
     ]
   },
-  "Web/JavaScript": {
-    "modified": "2020-03-12T19:36:18.888Z",
-    "contributors": [
-      "SphinxKnight",
-      "SuperMaksio",
-      "JWPB",
-      "mitelak",
-      "Errorino",
-      "mptak",
-      "asbud",
-      "Miras",
-      "teoli",
-      "Rokuzo",
-      "safjanowski",
-      "ggolebio",
-      "ethertank",
-      "kartofelek007",
-      "grzegorz",
-      "Mgjbot",
-      "Ptak82",
-      "Wilq32",
-      "Internauta1024A",
-      "Verruckt",
-      "gandalf",
-      "Marcoos",
-      "Ruby",
-      "Dria"
-    ]
-  },
-  "Web/JavaScript/A_re-introduction_to_JavaScript": {
-    "modified": "2020-03-12T19:47:50.546Z",
-    "contributors": [
-      "kanapka94",
-      "edgyFAT",
-      "xbravadox",
-      "r0v",
-      "joanna-by",
-      "Poftorek",
-      "JKarkosza"
-    ]
-  },
-  "Web/JavaScript/About_JavaScript": {
-    "modified": "2020-03-12T19:46:50.697Z",
-    "contributors": [
-      "pa-uli-na"
-    ]
-  },
-  "Web/JavaScript/Closures": {
-    "modified": "2020-06-02T12:29:00.476Z",
-    "contributors": [
-      "PaulinaLL",
-      "iwonapiotrowska",
-      "pawelk92",
-      "dkarski",
-      "JWPB",
-      "kasiejro",
-      "mat-bi",
-      "Jakubem",
-      "Bx.",
-      "dodekx",
-      "lboratynski",
-      "ppuzio",
-      "kosanr1",
-      "ewape"
-    ]
-  },
-  "Web/JavaScript/EventLoop": {
-    "modified": "2020-03-12T19:42:17.470Z",
-    "contributors": [
-      "Qba91",
-      "przemdz",
-      "mieszczans",
-      "kpastuszka",
-      "cocafin"
-    ]
-  },
-  "Web/JavaScript/Guide": {
-    "modified": "2020-03-12T19:38:33.908Z",
-    "contributors": [
-      "malu",
-      "fscholz",
-      "teoli",
-      "splewako",
-      "gieerzetka",
-      "rakowaty"
-    ]
-  },
-  "Web/JavaScript/Guide/Control_flow_and_error_handling": {
-    "modified": "2020-03-12T19:43:07.742Z",
-    "contributors": [
-      "Konrad007",
-      "AndrzejSala",
-      "lukasz-jakub-adamczuk",
-      "Mateusz",
-      "maciejmarczak"
-    ]
-  },
-  "Web/JavaScript/Guide/Details_of_the_Object_Model": {
-    "modified": "2019-01-16T16:02:28.093Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Diablownik",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Guide/Expressions_and_Operators": {
-    "modified": "2019-01-16T15:45:03.435Z",
-    "contributors": [
-      "teoli",
-      "Ptak82",
-      "Re set",
-      "Internauta1024A",
-      "Mgjbot"
-    ]
-  },
-  "Web/JavaScript/Guide/Functions": {
-    "modified": "2020-03-12T19:42:14.765Z",
-    "contributors": [
-      "quart",
-      "andbroz",
-      "konradovsky",
-      "przemokon",
-      "pm093",
-      "thekyeZ",
-      "marekjedrzejewski"
-    ]
-  },
-  "Web/JavaScript/Guide/Grammar_and_types": {
-    "modified": "2020-03-12T19:42:17.279Z",
-    "contributors": [
-      "danrakh",
-      "Konrad007",
-      "cybor0",
-      "lukasz-jakub-adamczuk",
-      "Miras",
-      "AndrzejSala",
-      "xolir",
-      "dolphugly",
-      "KamilDuda01",
-      "marekjedrzejewski"
-    ]
-  },
-  "Web/JavaScript/Guide/Introduction": {
-    "modified": "2020-03-12T19:41:24.970Z",
-    "contributors": [
-      "Alka",
-      "xolir",
-      "Mlodyemoka"
-    ]
-  },
-  "Web/JavaScript/Guide/Iterators_and_Generators": {
-    "modified": "2020-03-12T19:45:59.758Z",
-    "contributors": [
-      "ThinCan",
-      "CreateWWW",
-      "starsep",
-      "labs4apps"
-    ]
-  },
-  "Web/JavaScript/Guide/Loops_and_iteration": {
-    "modified": "2020-03-12T19:42:57.032Z",
-    "contributors": [
-      "Patryk-Holody",
-      "SphinxKnight",
-      "AndrzejSala",
-      "thekyeZ"
-    ]
-  },
-  "Web/JavaScript/Guide/Regular_Expressions": {
-    "modified": "2019-01-16T15:31:49.852Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Diablownik",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Guide/Working_with_Objects": {
-    "modified": "2019-01-16T16:04:02.144Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Sheppy"
-    ]
-  },
-  "Web/JavaScript/Inheritance_and_the_prototype_chain": {
-    "modified": "2020-03-12T19:43:36.110Z",
-    "contributors": [
-      "hyvyys",
-      "binarysailor",
-      "RudyPL",
-      "mat-bi",
-      "vonsko",
-      "labs4apps",
-      "pceuropa"
-    ]
-  },
-  "Web/JavaScript/Language_Resources": {
-    "modified": "2019-01-16T16:04:32.529Z",
-    "contributors": [
-      "teoli",
-      "Diablownik",
-      "Ptak82",
-      "Mgjbot"
-    ]
-  },
-  "Web/JavaScript/Reference": {
-    "modified": "2020-03-12T19:37:41.078Z",
-    "contributors": [
-      "asbud",
-      "teoli",
-      "Mgjbot",
-      "Internauta1024A",
-      "Diablownik",
-      "Ptak82",
-      "Takenbot",
-      "gandalf",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/About": {
-    "modified": "2020-10-29T15:16:04.046Z",
-    "contributors": [
-      "michalmarchewczyk",
-      "asbud",
-      "teoli",
-      "Mgjbot",
-      "Odder",
-      "WalkerPL",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Classes": {
-    "modified": "2020-10-29T06:45:58.471Z",
-    "contributors": [
-      "michalmarchewczyk",
-      "Ojdana11",
-      "freszyk",
-      "MichalKarbownik",
-      "artmiron",
-      "labs4apps",
-      "gavinhungry"
-    ]
-  },
-  "Web/JavaScript/Reference/Classes/Private_class_fields": {
-    "modified": "2020-10-22T08:52:10.875Z",
-    "contributors": [
-      "michalmarchewczyk"
-    ]
-  },
-  "Web/JavaScript/Reference/Classes/Public_class_fields": {
-    "modified": "2020-10-15T22:35:06.679Z",
-    "contributors": [
-      "michalmarchewczyk"
-    ]
-  },
-  "Web/JavaScript/Reference/Classes/constructor": {
-    "modified": "2020-10-15T21:53:33.839Z",
-    "contributors": [
-      "michalmarchewczyk",
-      "Anonymous",
-      "km4",
-      "devMike"
-    ]
-  },
-  "Web/JavaScript/Reference/Classes/extends": {
-    "modified": "2020-10-15T22:35:04.841Z",
-    "contributors": [
-      "michalmarchewczyk"
-    ]
-  },
-  "Web/JavaScript/Reference/Classes/static": {
-    "modified": "2020-10-21T19:35:52.117Z",
-    "contributors": [
-      "michalmarchewczyk",
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors": {
-    "modified": "2020-03-12T19:45:52.052Z",
-    "contributors": [
-      "devMike",
-      "Sheppy"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Invalid_array_length": {
-    "modified": "2020-03-12T19:49:38.261Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Invalid_date": {
-    "modified": "2020-11-22T22:16:46.988Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/JSON_bad_parse": {
-    "modified": "2020-03-12T19:49:40.890Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Missing_colon_after_property_id": {
-    "modified": "2020-03-12T19:47:17.965Z",
-    "contributors": [
-      "BrittleHeart"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Missing_curly_after_function_body": {
-    "modified": "2020-11-22T22:43:32.569Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Missing_initializer_in_const": {
-    "modified": "2020-03-12T19:49:39.699Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Missing_parenthesis_after_argument_list": {
-    "modified": "2020-11-22T22:32:16.181Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Missing_semicolon_before_statement": {
-    "modified": "2020-03-31T15:55:43.969Z",
-    "contributors": [
-      "kepka7044",
-      "Comandorekk"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/More_arguments_needed": {
-    "modified": "2020-03-12T19:46:20.545Z",
-    "contributors": [
-      "krzmig",
-      "saulgajda"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Not_a_function": {
-    "modified": "2020-03-12T19:46:20.885Z",
-    "contributors": [
-      "Vvitek"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Not_defined": {
-    "modified": "2020-03-12T19:45:53.813Z",
-    "contributors": [
-      "saulgajda",
-      "szopenkrk"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Property_access_denied": {
-    "modified": "2020-10-26T12:04:59.811Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Unexpected_type": {
-    "modified": "2020-03-12T19:46:02.310Z",
-    "contributors": [
-      "devMike"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions": {
-    "modified": "2020-03-12T19:45:21.066Z",
-    "contributors": [
-      "wilfreddesert"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions/Arrow_functions": {
-    "modified": "2020-10-15T21:59:06.310Z",
-    "contributors": [
-      "piotrjanczak",
-      "jangromko",
-      "ppuzio"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions/Default_parameters": {
-    "modified": "2020-10-15T22:15:13.631Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions/arguments": {
-    "modified": "2019-01-16T15:45:04.595Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Diablownik",
-      "Marcoos",
-      "Sheppy",
-      "telendt",
-      "Internauta1024A",
-      "Ptak82",
-      "Bamber"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions/arguments/callee": {
-    "modified": "2019-01-16T15:40:18.334Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Diablownik",
-      "Ptak82",
-      "Marcoos",
-      "gandalf"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions/arguments/length": {
-    "modified": "2019-01-16T15:41:27.370Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Marcoos",
-      "Diablownik",
-      "Internauta1024A",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions/get": {
-    "modified": "2020-03-12T19:45:32.396Z",
-    "contributors": [
-      "Rednaxela700",
-      "pawelk92",
-      "lukaszewczak",
-      "pkubowicz",
-      "broslukasz"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions/set": {
-    "modified": "2020-10-15T22:11:19.769Z",
-    "contributors": [
-      "jedzej"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects": {
-    "modified": "2020-03-12T19:37:39.285Z",
-    "contributors": [
-      "mitelak",
-      "asbud",
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array": {
-    "modified": "2020-03-03T12:48:14.352Z",
-    "contributors": [
-      "1MrHous1",
-      "SurmaAa",
-      "wbamberg",
-      "stuniel",
-      "SlaWitDev",
-      "krawieck",
-      "Tidu",
-      "RadekRo",
-      "zpantalyku",
-      "teoli",
-      "splewako",
-      "mirekczechxmm",
-      "KrzysztofKruk",
-      "Chrisraven",
-      "Ptak82",
-      "tybulewicz",
-      "Staszyna",
-      "Internauta1024A",
-      "Mgjbot",
-      "gandalf",
-      "VooEak",
-      "Marcoos",
-      "Anonymous"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/Reduce": {
-    "modified": "2019-11-09T19:25:57.362Z",
-    "contributors": [
-      "apiczkens",
-      "the0ffh",
-      "sqeeswy",
-      "kamce",
-      "thigrand"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/ReduceRight": {
-    "modified": "2020-10-15T22:28:04.989Z",
-    "contributors": [
-      "martraw",
-      "mayacode"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/concat": {
-    "modified": "2019-03-23T23:47:21.906Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Marcoos",
-      "Staszyna",
-      "Internauta1024A",
-      "Sheppy",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/copyWithin": {
-    "modified": "2020-10-26T11:54:47.946Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/entries": {
-    "modified": "2020-10-15T22:07:30.753Z",
-    "contributors": [
-      "kucharzgotuje"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/every": {
-    "modified": "2019-03-23T23:49:40.637Z",
-    "contributors": [
-      "tomabr",
-      "teoli",
-      "Mgjbot",
-      "telendt",
-      "Marcoos",
-      "Ptak82",
-      "Sheppy",
-      "Internauta1024A"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/fill": {
-    "modified": "2019-03-23T22:50:50.966Z",
-    "contributors": [
-      "emero",
-      "PawelPapuli",
-      "SphinxKnight",
-      "quim"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/filter": {
-    "modified": "2019-03-18T20:34:27.512Z",
-    "contributors": [
-      "KamilaWalkowiak",
-      "romprzy",
-      "kanapka94",
-      "tues",
-      "zpantalyku",
-      "krzosik",
-      "robadev",
-      "alexfluger",
-      "teoli",
-      "michail_w",
-      "Krzysiek6",
-      "Mgjbot",
-      "Marcoos",
-      "telendt",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/find": {
-    "modified": "2020-09-25T21:17:08.283Z",
-    "contributors": [
-      "jangromko",
-      "SphinxKnight",
-      "TeoTN",
-      "gpluta",
-      "kdex",
-      "svantetic",
-      "karol-f",
-      "thigrand"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/findIndex": {
-    "modified": "2019-03-23T22:07:32.543Z",
-    "contributors": [
-      "Snieezy"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/flat": {
-    "modified": "2020-10-15T22:19:13.003Z",
-    "contributors": [
-      "KonradLinkowski",
-      "raszta"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/forEach": {
-    "modified": "2019-09-23T06:35:11.871Z",
-    "contributors": [
-      "OJezu",
-      "zibra",
-      "teoli",
-      "Mgjbot",
-      "ethertank",
-      "Robson",
-      "telendt",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/from": {
-    "modified": "2019-03-23T22:31:40.624Z",
-    "contributors": [
-      "kdex",
-      "Maciej_Grycz",
-      "kamce",
-      "aquz"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/includes": {
-    "modified": "2020-10-15T21:41:30.374Z",
-    "contributors": [
-      "Nux",
-      "wbamberg",
-      "DzikiChrzan"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/indexOf": {
-    "modified": "2019-03-23T23:46:42.451Z",
-    "contributors": [
-      "teoli",
-      "telendt",
-      "Ptak82",
-      "Mgjbot",
-      "Sheppy"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/isArray": {
-    "modified": "2019-03-23T22:54:42.353Z",
-    "contributors": [
-      "kwarpechowski",
-      "tomabr"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/join": {
-    "modified": "2019-03-23T23:48:50.993Z",
-    "contributors": [
-      "teoli",
-      "Diablownik",
-      "Mgjbot",
-      "Internauta1024A",
-      "Staszyna",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/keys": {
-    "modified": "2019-03-23T22:15:56.755Z",
-    "contributors": [
-      "buoto"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/lastIndexOf": {
-    "modified": "2019-03-23T23:47:29.921Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "telendt",
-      "Marcoos",
-      "Sheppy",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/length": {
-    "modified": "2019-03-23T23:47:25.247Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Diablownik",
-      "Internauta1024A",
-      "Ptak82",
-      "Sheppy"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/map": {
-    "modified": "2019-03-23T23:49:38.387Z",
-    "contributors": [
-      "michalwarda",
-      "halicki",
-      "cojack",
-      "Miras",
-      "nix1",
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "tybulewicz",
-      "Internauta1024A"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/of": {
-    "modified": "2020-10-15T22:10:00.043Z",
-    "contributors": [
-      "mat-bi"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/pop": {
-    "modified": "2019-03-23T23:47:25.069Z",
-    "contributors": [
-      "asikora",
-      "teoli",
-      "Mgjbot",
-      "Diablownik",
-      "Internauta1024A",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/push": {
-    "modified": "2019-03-23T23:47:25.462Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "telendt",
-      "Internauta1024A"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/reverse": {
-    "modified": "2019-03-23T23:47:24.313Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Marcoos",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/shift": {
-    "modified": "2019-06-30T05:28:38.117Z",
-    "contributors": [
-      "Krysik",
-      "teoli",
-      "tomecko",
-      "Mgjbot",
-      "telendt",
-      "Internauta1024A",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/slice": {
-    "modified": "2019-03-23T23:47:22.485Z",
-    "contributors": [
-      "malu",
-      "teoli",
-      "michalmarkowski",
-      "Mgjbot",
-      "Ptak82",
-      "telendt",
-      "Internauta1024A",
-      "Sheppy"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/some": {
-    "modified": "2019-03-23T23:49:40.896Z",
-    "contributors": [
-      "getup10g",
-      "Bjornskjald",
-      "alexfluger",
-      "teoli",
-      "Mgjbot",
-      "Internauta1024A",
-      "Ptak82",
-      "tybulewicz"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/sort": {
-    "modified": "2019-03-23T23:47:26.710Z",
-    "contributors": [
-      "Bx.",
-      "el-dide",
-      "teoli",
-      "Mgjbot",
-      "tybulewicz",
-      "Internauta1024A",
-      "Diablownik",
-      "Sheppy",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/splice": {
-    "modified": "2019-03-23T23:47:26.002Z",
-    "contributors": [
-      "emero",
-      "Wayofthesin",
-      "kaczor1984",
-      "achwedyk",
-      "teoli",
-      "Mgjbot",
-      "telendt",
-      "Ptak82",
-      "Internauta1024A",
-      "Sheppy"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/toLocaleString": {
-    "modified": "2020-11-11T13:31:59.409Z",
-    "contributors": [
-      "szczerski",
-      "kwarpechowski"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/toSource": {
-    "modified": "2019-03-23T23:49:50.954Z",
-    "contributors": [
-      "teoli",
-      "Diablownik",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/toString": {
-    "modified": "2019-03-23T23:47:24.621Z",
-    "contributors": [
-      "kwarpechowski",
-      "teoli",
-      "Mgjbot",
-      "Diablownik",
-      "Internauta1024A",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/unshift": {
-    "modified": "2019-03-23T23:47:27.035Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Internauta1024A",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/values": {
-    "modified": "2020-10-15T22:00:51.518Z",
-    "contributors": [
-      "kasztan"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/ArrayBuffer": {
-    "modified": "2019-03-23T22:14:05.315Z",
-    "contributors": [
-      "drm404"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/BigInt": {
-    "modified": "2020-10-15T22:27:46.176Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/BigInt/asIntN": {
-    "modified": "2020-10-15T22:29:22.063Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/BigInt/asUintN": {
-    "modified": "2020-10-15T22:29:21.176Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/BigInt/toString": {
-    "modified": "2020-10-15T22:29:27.321Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/BigInt/valueOf": {
-    "modified": "2020-10-15T22:30:01.749Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Boolean": {
-    "modified": "2019-03-23T23:51:54.713Z",
-    "contributors": [
-      "kanapka94",
-      "wbamberg",
-      "teoli",
-      "Diablownik",
-      "Internauta1024A",
-      "Ptak82",
-      "Mgjbot",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Boolean/toSource": {
-    "modified": "2019-03-23T23:58:05.520Z",
-    "contributors": [
-      "teoli",
-      "Witia",
-      "Mgjbot",
-      "Ptak82",
-      "telendt",
-      "Takenbot",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Boolean/toString": {
-    "modified": "2019-03-23T23:58:09.826Z",
-    "contributors": [
-      "teoli",
-      "Witia",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Boolean/valueOf": {
-    "modified": "2019-03-23T23:58:19.030Z",
-    "contributors": [
-      "teoli",
-      "Witia",
-      "Mgjbot",
-      "Ptak82",
-      "Takenbot",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/DataView": {
-    "modified": "2020-10-15T21:57:36.691Z",
-    "contributors": [
-      "meron1122"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date": {
-    "modified": "2019-06-11T10:18:58.847Z",
-    "contributors": [
-      "wojexe",
-      "dkoprowski",
-      "wbamberg",
-      "teoli",
-      "Witia",
-      "Internauta1024A",
-      "telendt",
-      "Mgjbot",
-      "Ptak82",
-      "Jfkpl",
-      "VooEak",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/UTC": {
-    "modified": "2019-03-23T23:58:12.265Z",
-    "contributors": [
-      "teoli",
-      "Witia",
-      "Mgjbot",
-      "telendt",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getDate": {
-    "modified": "2019-03-18T20:39:59.605Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "telendt",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getDay": {
-    "modified": "2019-03-23T23:47:14.453Z",
-    "contributors": [
-      "dloranc",
-      "teoli",
-      "Mgjbot",
-      "telendt",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getFullYear": {
-    "modified": "2019-03-23T23:58:09.308Z",
-    "contributors": [
-      "teoli",
-      "Witia",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getHours": {
-    "modified": "2019-03-23T23:58:08.740Z",
-    "contributors": [
-      "teoli",
-      "Witia",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getMilliseconds": {
-    "modified": "2019-03-23T23:58:07.015Z",
-    "contributors": [
-      "teoli",
-      "Witia",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getMinutes": {
-    "modified": "2019-03-23T23:58:11.611Z",
-    "contributors": [
-      "teoli",
-      "Niewiado",
-      "ethertank",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getMonth": {
-    "modified": "2019-03-23T23:58:11.021Z",
-    "contributors": [
-      "teoli",
-      "Niewiado",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getSeconds": {
-    "modified": "2019-03-23T23:58:07.116Z",
-    "contributors": [
-      "dloranc",
-      "teoli",
-      "Niewiado",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getTime": {
-    "modified": "2019-03-23T23:58:10.392Z",
-    "contributors": [
-      "teoli",
-      "Niewiado",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getTimezoneOffset": {
-    "modified": "2019-03-23T23:58:10.620Z",
-    "contributors": [
-      "teoli",
-      "Niewiado",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getUTCDate": {
-    "modified": "2019-03-18T20:40:45.398Z",
-    "contributors": [
-      "kdragowski",
-      "Vrq",
-      "teoli",
-      "Niewiado",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getUTCDay": {
-    "modified": "2019-03-23T23:58:06.532Z",
-    "contributors": [
-      "teoli",
-      "Niewiado",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getUTCFullYear": {
-    "modified": "2019-03-23T23:58:11.153Z",
-    "contributors": [
-      "teoli",
-      "Niewiado",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getUTCHours": {
-    "modified": "2019-03-23T23:58:11.930Z",
-    "contributors": [
-      "teoli",
-      "Niewiado",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getUTCMilliseconds": {
-    "modified": "2019-03-23T23:58:11.828Z",
-    "contributors": [
-      "teoli",
-      "Niewiado",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getUTCMinutes": {
-    "modified": "2019-03-23T23:58:11.716Z",
-    "contributors": [
-      "teoli",
-      "Niewiado",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getUTCMonth": {
-    "modified": "2019-03-23T23:58:09.067Z",
-    "contributors": [
-      "teoli",
-      "Niewiado",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getUTCSeconds": {
-    "modified": "2019-03-23T23:58:13.586Z",
-    "contributors": [
-      "teoli",
-      "Niewiado",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getYear": {
-    "modified": "2019-03-23T23:58:08.162Z",
-    "contributors": [
-      "teoli",
-      "Niewiado",
-      "Mgjbot",
-      "Ptak82",
-      "Internauta1024A"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/now": {
-    "modified": "2019-03-23T23:51:17.289Z",
-    "contributors": [
-      "mibac",
-      "teoli",
-      "Diablownik",
-      "ethertank",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/parse": {
-    "modified": "2019-03-18T20:39:59.791Z",
-    "contributors": [
-      "teoli",
-      "Niewiado",
-      "Mgjbot",
-      "Internauta1024A",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setDate": {
-    "modified": "2019-03-18T20:39:59.968Z",
-    "contributors": [
-      "teoli",
-      "Niewiado",
-      "Internauta1024A",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setFullYear": {
-    "modified": "2019-03-23T23:58:07.348Z",
-    "contributors": [
-      "teoli",
-      "gandalf",
-      "Internauta1024A",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setHours": {
-    "modified": "2019-08-28T16:11:14.990Z",
-    "contributors": [
-      "radamuspl",
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setMilliseconds": {
-    "modified": "2019-03-23T23:43:30.096Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setMinutes": {
-    "modified": "2019-03-23T23:43:25.746Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setMonth": {
-    "modified": "2019-03-23T23:43:31.314Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setSeconds": {
-    "modified": "2019-03-23T23:43:26.818Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setTime": {
-    "modified": "2019-03-23T23:43:26.218Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setUTCDate": {
-    "modified": "2019-03-23T23:43:19.551Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setUTCFullYear": {
-    "modified": "2019-03-23T23:43:22.591Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setUTCHours": {
-    "modified": "2019-03-23T23:43:27.771Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setUTCMilliseconds": {
-    "modified": "2019-03-23T23:43:32.840Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setUTCMinutes": {
-    "modified": "2019-03-23T23:43:24.515Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setUTCMonth": {
-    "modified": "2019-03-23T23:43:31.194Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setUTCSeconds": {
-    "modified": "2019-03-23T23:43:28.708Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/setYear": {
-    "modified": "2019-03-23T23:43:29.991Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/toGMTString": {
-    "modified": "2019-03-23T23:43:24.162Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/toJSON": {
-    "modified": "2020-10-15T22:09:56.845Z",
-    "contributors": [
-      "chlebek"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString": {
-    "modified": "2019-03-18T20:39:59.044Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/toLocaleString": {
-    "modified": "2019-03-18T20:39:59.243Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/toLocaleTimeString": {
-    "modified": "2019-03-23T23:43:29.100Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/toSource": {
-    "modified": "2019-03-23T23:43:26.646Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/toString": {
-    "modified": "2019-03-23T23:46:38.804Z",
-    "contributors": [
-      "teoli",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/toUTCString": {
-    "modified": "2019-03-23T23:43:28.172Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/valueOf": {
-    "modified": "2019-03-23T23:43:28.602Z",
-    "contributors": [
-      "teoli",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Error": {
-    "modified": "2020-10-15T21:37:48.928Z",
-    "contributors": [
-      "ZiomaleQ",
-      "mitelak",
-      "fscholz"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Error/Stack": {
-    "modified": "2020-10-15T22:30:56.297Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Error/columnNumber": {
-    "modified": "2019-03-23T22:50:40.876Z",
-    "contributors": [
-      "teoli",
-      "fscholz"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Error/fileName": {
-    "modified": "2020-10-15T22:30:02.676Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Error/lineNumber": {
-    "modified": "2020-10-15T22:30:02.665Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Error/message": {
-    "modified": "2019-03-23T22:51:09.554Z",
-    "contributors": [
-      "fscholz",
-      "adam-tokarski"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Error/name": {
-    "modified": "2019-03-23T22:51:10.374Z",
-    "contributors": [
-      "fscholz",
-      "adam-tokarski"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Error/toSource": {
-    "modified": "2020-10-15T22:32:18.167Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Error/toString": {
-    "modified": "2020-10-15T22:32:18.562Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/EvalError": {
-    "modified": "2020-10-15T22:33:25.487Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Function": {
-    "modified": "2019-03-23T22:57:36.964Z",
-    "contributors": [
-      "pkubowicz",
-      "thigrand",
-      "teoli"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Function/apply": {
-    "modified": "2019-03-23T22:26:19.022Z",
-    "contributors": [
-      "jangromko",
-      "pceuropa"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Function/arguments": {
-    "modified": "2019-03-23T23:51:16.714Z",
-    "contributors": [
-      "teoli",
-      "Diablownik",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Function/bind": {
-    "modified": "2020-11-29T17:45:12.082Z",
-    "contributors": [
-      "derekqq",
-      "RobertGelu"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Function/caller": {
-    "modified": "2019-03-23T23:54:03.104Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Marcoos",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Function/displayName": {
-    "modified": "2019-03-23T22:33:56.919Z",
-    "contributors": [
-      "teoli",
-      "sefel"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Function/length": {
-    "modified": "2019-03-23T23:53:59.423Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Internauta1024A"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Function/toString": {
-    "modified": "2019-03-23T23:54:00.212Z",
-    "contributors": [
-      "teoli",
-      "ethertank",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Infinity": {
-    "modified": "2020-03-12T19:37:41.172Z",
-    "contributors": [
-      "gaazkam",
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Takenbot",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/JSON": {
-    "modified": "2020-10-15T22:24:07.363Z",
-    "contributors": [
-      "krupinskij"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math": {
-    "modified": "2019-11-16T16:52:10.805Z",
-    "contributors": [
-      "Iicytower",
-      "teoli",
-      "Mgjbot",
-      "Balon",
-      "Ptak82",
-      "Faxe",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/E": {
-    "modified": "2019-03-23T23:47:55.039Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/LN10": {
-    "modified": "2019-03-23T23:47:54.538Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/LN2": {
-    "modified": "2019-03-23T23:47:52.019Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/LOG10E": {
-    "modified": "2019-03-23T23:47:59.792Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/LOG2E": {
-    "modified": "2019-03-23T23:47:53.913Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/PI": {
-    "modified": "2019-03-23T23:47:56.906Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/SQRT1_2": {
-    "modified": "2019-03-23T23:47:57.323Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/SQRT2": {
-    "modified": "2019-03-23T23:47:59.037Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/abs": {
-    "modified": "2019-03-23T23:47:55.610Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/acos": {
-    "modified": "2019-03-23T23:47:58.749Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/asin": {
-    "modified": "2019-03-23T23:47:52.375Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/atan": {
-    "modified": "2019-03-23T23:47:58.908Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/atan2": {
-    "modified": "2019-03-23T23:48:00.596Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Takenbot",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/ceil": {
-    "modified": "2019-03-23T23:47:58.042Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/cos": {
-    "modified": "2019-03-23T23:48:06.241Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/exp": {
-    "modified": "2019-03-23T23:48:06.373Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Takenbot",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/floor": {
-    "modified": "2019-03-23T23:48:01.006Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Takenbot",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/log": {
-    "modified": "2019-03-23T23:48:08.846Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/max": {
-    "modified": "2019-03-23T23:48:02.936Z",
-    "contributors": [
-      "ppasieka",
-      "teoli",
-      "safjanowski",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/min": {
-    "modified": "2019-03-23T23:48:05.366Z",
-    "contributors": [
-      "SphinxKnight",
-      "zdolny",
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Takenbot",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/pow": {
-    "modified": "2019-03-23T23:48:05.015Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/random": {
-    "modified": "2020-10-15T21:17:12.658Z",
-    "contributors": [
-      "Sqrcz",
-      "kanapka94",
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/round": {
-    "modified": "2019-03-23T23:48:04.166Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/sign": {
-    "modified": "2019-03-23T23:13:52.324Z",
-    "contributors": [
-      "SphinxKnight",
-      "teoli",
-      "PawelDudek"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/sin": {
-    "modified": "2019-03-23T23:48:09.765Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/sqrt": {
-    "modified": "2019-03-23T23:48:04.728Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/tan": {
-    "modified": "2019-03-23T23:48:02.693Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/NaN": {
-    "modified": "2020-03-12T19:37:38.834Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Takenbot",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number": {
-    "modified": "2019-03-23T23:50:26.634Z",
-    "contributors": [
-      "Piterunihongo",
-      "teoli",
-      "fscholz",
-      "Diablownik",
-      "Chrisraven",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos",
-      "VooEak"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/EPSILON": {
-    "modified": "2020-10-15T22:24:18.127Z",
-    "contributors": [
-      "krupinskij"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/MAX_VALUE": {
-    "modified": "2019-03-23T23:46:06.341Z",
-    "contributors": [
-      "teoli",
-      "Ptak82",
-      "Mgjbot",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/MIN_VALUE": {
-    "modified": "2019-03-23T23:47:03.042Z",
-    "contributors": [
-      "teoli",
-      "Ptak82",
-      "Mgjbot",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/NEGATIVE_INFINITY": {
-    "modified": "2019-03-23T23:47:08.730Z",
-    "contributors": [
-      "teoli",
-      "Diablownik",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/NaN": {
-    "modified": "2019-03-23T23:45:44.372Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/POSITIVE_INFINITY": {
-    "modified": "2019-03-23T23:47:06.877Z",
-    "contributors": [
-      "teoli",
-      "Ptak82",
-      "Diablownik",
-      "Mgjbot"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/isInteger": {
-    "modified": "2020-10-15T21:56:18.899Z",
-    "contributors": [
-      "PaG",
-      "morthan"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/isNaN": {
-    "modified": "2020-10-15T22:24:16.707Z",
-    "contributors": [
-      "krupinskij"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/toExponential": {
-    "modified": "2019-03-23T23:47:01.823Z",
-    "contributors": [
-      "teoli",
-      "Diablownik",
-      "Mgjbot",
-      "Internauta1024A",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/toFixed": {
-    "modified": "2019-03-23T23:24:37.690Z",
-    "contributors": [
-      "teoli",
-      "Diablownik",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/toLocaleString": {
-    "modified": "2020-10-15T21:57:55.583Z",
-    "contributors": [
-      "narghar",
-      "eLGi"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/toPrecision": {
-    "modified": "2019-03-23T23:46:55.576Z",
-    "contributors": [
-      "teoli",
-      "Diablownik",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/toString": {
-    "modified": "2019-03-23T23:49:39.505Z",
-    "contributors": [
-      "teoli",
-      "Diablownik",
-      "Mgjbot",
-      "Internauta1024A",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object": {
-    "modified": "2019-03-23T23:51:13.882Z",
-    "contributors": [
-      "JacobDesight",
-      "teoli",
-      "fscholz",
-      "Diablownik",
-      "Ptak82",
-      "Mgjbot",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/assign": {
-    "modified": "2019-08-15T08:41:27.590Z",
-    "contributors": [
-      "oddehh",
-      "tkitynski",
-      "belfz",
-      "kkowalczuk",
-      "drzazga",
-      "JacobDesight"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/constructor": {
-    "modified": "2019-03-23T23:50:18.166Z",
-    "contributors": [
-      "teoli",
-      "Sheppy",
-      "Wookieb",
-      "Marcoos",
-      "Mgjbot",
-      "Ptak82",
-      "Takenbot"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/freeze": {
-    "modified": "2020-10-15T21:49:25.848Z",
-    "contributors": [
-      "PiosDamian",
-      "Arkej",
-      "kdex",
-      "piecioshka",
-      "aquz"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyDescriptor": {
-    "modified": "2020-10-15T21:51:58.332Z",
-    "contributors": [
-      "fscholz",
-      "piecioshka",
-      "andersz-artur",
-      "mateusz-pietruch"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty": {
-    "modified": "2020-10-15T21:37:23.621Z",
-    "contributors": [
-      "JB1905",
-      "kanapka94",
-      "s1awek",
-      "dianafa"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/proto": {
-    "modified": "2019-03-23T22:15:34.204Z",
-    "contributors": [
-      "JacobDesight"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/seal": {
-    "modified": "2019-03-23T22:50:09.394Z",
-    "contributors": [
-      "arturkulig",
-      "piecioshka",
-      "MichalZalecki",
-      "mhadas"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/toLocaleString": {
-    "modified": "2019-03-23T23:44:51.103Z",
-    "contributors": [
-      "kwarpechowski",
-      "teoli",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/toSource": {
-    "modified": "2019-03-23T23:53:51.317Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Takenbot",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/toString": {
-    "modified": "2019-03-23T23:48:38.071Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/valueOf": {
-    "modified": "2019-03-23T23:50:47.663Z",
-    "contributors": [
-      "teoli",
-      "ethertank",
-      "Mgjbot",
-      "Internauta1024A",
-      "Ptak82",
-      "Takenbot",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Promise": {
-    "modified": "2020-11-11T08:51:14.847Z",
-    "contributors": [
-      "r2kode",
-      "mich_cz",
-      "SkillGG",
-      "szopenkrk"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Proxy": {
-    "modified": "2020-10-15T22:01:30.452Z",
-    "contributors": [
-      "0ctothorp",
-      "andrzejkrecicki"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Proxy/Proxy": {
-    "modified": "2020-10-15T22:01:32.237Z",
-    "contributors": [
-      "andrzejkrecicki"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/apply": {
-    "modified": "2020-10-15T22:18:47.930Z",
-    "contributors": [
-      "magmast"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/RangeError": {
-    "modified": "2019-03-23T22:51:19.492Z",
-    "contributors": [
-      "adam-tokarski"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/RegExp": {
-    "modified": "2019-03-23T23:59:43.766Z",
-    "contributors": [
-      "wbamberg",
-      "lunesco",
-      "kisiiel",
-      "morthan",
-      "tomash18r",
-      "teoli",
-      "Nux",
-      "Mysz",
-      "Ptak82",
-      "Mgjbot",
-      "Marcoos",
-      "VooEak"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/RegExp/exec": {
-    "modified": "2019-03-23T23:47:09.516Z",
-    "contributors": [
-      "kowal.alek",
-      "teoli",
-      "Ptak82",
-      "Mgjbot",
-      "Bedi"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/RegExp/global": {
-    "modified": "2019-03-23T23:47:12.777Z",
-    "contributors": [
-      "teoli",
-      "Diablownik",
-      "Internauta1024A",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/RegExp/ignoreCase": {
-    "modified": "2019-03-23T23:47:14.670Z",
-    "contributors": [
-      "teoli",
-      "Diablownik",
-      "Internauta1024A",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/RegExp/lastMatch": {
-    "modified": "2020-10-15T22:02:47.225Z",
-    "contributors": [
-      "xShadow"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/RegExp/source": {
-    "modified": "2019-03-23T23:44:52.062Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/RegExp/test": {
-    "modified": "2019-03-23T23:47:41.762Z",
-    "contributors": [
-      "teoli",
-      "Chrisraven",
-      "Ptak82",
-      "Nux",
-      "Mgjbot"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/RegExp/toSource": {
-    "modified": "2019-03-23T23:47:09.941Z",
-    "contributors": [
-      "teoli",
-      "Ptak82",
-      "Mgjbot"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/RegExp/toString": {
-    "modified": "2019-03-23T23:47:08.946Z",
-    "contributors": [
-      "teoli",
-      "Ptak82",
-      "Mgjbot"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Set": {
-    "modified": "2019-03-23T22:07:58.875Z",
-    "contributors": [
-      "PiosDamian",
-      "klusaktomasz"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Set/add": {
-    "modified": "2019-03-23T22:07:51.409Z",
-    "contributors": [
-      "klusaktomasz"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Set/clear": {
-    "modified": "2019-03-23T22:08:01.977Z",
-    "contributors": [
-      "klusaktomasz"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Set/delete": {
-    "modified": "2020-10-15T21:56:04.971Z",
-    "contributors": [
-      "trusohamn",
-      "klusaktomasz"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String": {
-    "modified": "2020-12-07T03:40:21.998Z",
-    "contributors": [
-      "SphinxKnight",
-      "matipicia",
-      "wbamberg",
-      "teoli",
-      "grzegorz",
-      "Ptak82",
-      "Internauta1024A",
-      "Mgjbot",
-      "JasonSpiro",
-      "VooEak"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/anchor": {
-    "modified": "2019-03-23T23:48:21.565Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Diablownik",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/big": {
-    "modified": "2019-03-23T23:48:11.354Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Internauta1024A"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/bold": {
-    "modified": "2019-03-23T23:48:19.144Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/charAt": {
-    "modified": "2019-03-23T23:48:20.523Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/charCodeAt": {
-    "modified": "2019-03-23T23:48:21.451Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/concat": {
-    "modified": "2019-05-14T05:09:36.210Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/fontcolor": {
-    "modified": "2019-03-23T23:47:08.399Z",
-    "contributors": [
-      "teoli",
-      "Ptak82",
-      "Mgjbot"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/fontsize": {
-    "modified": "2019-03-23T23:47:17.415Z",
-    "contributors": [
-      "teoli",
-      "Ptak82",
-      "Mgjbot"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/fromCharCode": {
-    "modified": "2019-03-23T23:48:13.561Z",
-    "contributors": [
-      "tomasz-janicki",
-      "teoli",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/italics": {
-    "modified": "2019-03-23T23:48:17.339Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/link": {
-    "modified": "2019-03-23T23:48:15.378Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/search": {
-    "modified": "2019-03-23T23:48:27.010Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/slice": {
-    "modified": "2019-09-04T05:49:33.261Z",
-    "contributors": [
-      "huberts",
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/small": {
-    "modified": "2019-03-24T00:07:45.142Z",
-    "contributors": [
-      "teoli",
-      "Krzysiek6",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/strike": {
-    "modified": "2019-03-23T23:48:13.069Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/sub": {
-    "modified": "2019-03-23T23:48:16.934Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/substr": {
-    "modified": "2019-03-23T23:59:55.346Z",
-    "contributors": [
-      "dzek69",
-      "KonradKubiec",
-      "teoli",
-      "Julien.stuby",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/substring": {
-    "modified": "2019-03-18T20:35:08.725Z",
-    "contributors": [
-      "Rafiki",
-      "teoli",
-      "Mgjbot",
-      "Nux",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/sup": {
-    "modified": "2019-03-18T21:16:52.805Z",
-    "contributors": [
-      "teoli",
-      "Ptak82",
-      "Mgjbot"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/toLowerCase": {
-    "modified": "2019-03-23T23:48:17.530Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Diablownik",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/toSource": {
-    "modified": "2019-03-23T23:45:16.121Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/toString": {
-    "modified": "2019-03-23T23:48:31.894Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/toUpperCase": {
-    "modified": "2019-03-23T23:48:18.924Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Diablownik",
-      "Internauta1024A",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/valueOf": {
-    "modified": "2019-03-23T23:48:27.633Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Symbol": {
-    "modified": "2020-10-15T22:02:20.124Z",
-    "contributors": [
-      "kjarmicki"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/SyntaxError": {
-    "modified": "2020-10-15T22:30:06.264Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/decodeURI": {
-    "modified": "2020-03-12T19:37:41.064Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Diablownik",
-      "Internauta1024A",
-      "Ptak82",
-      "VooEak"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/decodeURIComponent": {
-    "modified": "2020-03-12T19:37:32.361Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "VooEak"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/encodeURI": {
-    "modified": "2020-03-12T19:37:30.589Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Quest-88",
-      "Ptak82",
-      "VooEak"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/encodeURIComponent": {
-    "modified": "2020-03-12T19:37:35.220Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Quest-88",
-      "Ptak82",
-      "VooEak"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/isFinite": {
-    "modified": "2020-03-12T19:37:33.636Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Diablownik",
-      "Internauta1024A",
-      "Marcoos",
-      "Ptak82",
-      "VooEak"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/isNaN": {
-    "modified": "2020-03-12T19:37:31.060Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Marcoos",
-      "Sheppy",
-      "Ptak82",
-      "Internauta1024A",
-      "Takenbot"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/null": {
-    "modified": "2020-03-12T19:45:50.208Z",
-    "contributors": [
-      "JacobDesight"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/parseFloat": {
-    "modified": "2020-03-12T19:37:26.647Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Internauta1024A",
-      "Marcoos",
-      "Staszyna",
-      "Sheppy",
-      "Ptak82",
-      "VooEak"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/parseInt": {
-    "modified": "2020-03-12T19:37:29.845Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Marcoos",
-      "Ptak82",
-      "VooEak"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/undefined": {
-    "modified": "2020-03-12T19:37:31.553Z",
-    "contributors": [
-      "itsfaint",
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Lexical_grammar": {
-    "modified": "2019-03-23T23:46:42.565Z",
-    "contributors": [
-      "teoli",
-      "Sheppy",
-      "ElKreciko",
-      "Mgjbot",
-      "Internauta1024A",
-      "Marcoos",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators": {
-    "modified": "2020-03-12T19:36:59.316Z",
-    "contributors": [
-      "ewelinakrawczak",
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Bedi",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Comma_Operator": {
-    "modified": "2020-08-18T11:17:02.737Z",
-    "contributors": [
-      "CodyKobe",
-      "teoli",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Conditional_Operator": {
-    "modified": "2020-03-12T19:36:21.149Z",
-    "contributors": [
-      "teoli",
-      "bronek",
-      "Mgjbot",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Destructuring_assignment": {
-    "modified": "2020-12-07T05:10:17.259Z",
-    "contributors": [
-      "LukaszFormela",
-      "Saalin",
-      "danielrakoczy",
-      "kdex",
-      "grzim"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Grouping": {
-    "modified": "2020-10-15T22:13:17.987Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Nullish_coalescing_operator": {
-    "modified": "2020-10-15T22:31:22.874Z",
-    "contributors": [
-      "brightdogs"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Object_initializer": {
-    "modified": "2020-03-12T19:44:27.454Z",
-    "contributors": [
-      "mateuszkrzak",
-      "JacobDesight",
-      "bouzlibop"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Operator_Precedence": {
-    "modified": "2020-07-11T12:40:07.488Z",
-    "contributors": [
-      "Emploxard",
-      "jangromko",
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Internauta1024A"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Property_Accessors": {
-    "modified": "2020-03-12T19:36:58.666Z",
-    "contributors": [
-      "JacobDesight",
-      "teoli",
-      "ethertank",
-      "zarat",
-      "Mgjbot",
-      "Abc",
-      "Internauta1024A",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Spread_syntax": {
-    "modified": "2020-10-15T22:13:18.819Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/delete": {
-    "modified": "2020-03-12T19:37:39.689Z",
-    "contributors": [
-      "gebi",
-      "teoli",
-      "Internauta1024A",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/function": {
-    "modified": "2019-03-23T23:48:46.411Z",
-    "contributors": [
-      "Miras",
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/function*": {
-    "modified": "2020-10-15T22:17:45.458Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/in": {
-    "modified": "2019-03-23T23:45:55.097Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/new": {
-    "modified": "2020-10-26T06:11:51.853Z",
-    "contributors": [
-      "szymonb",
-      "michal100032",
-      "SphinxKnight",
-      "teoli",
-      "splewako",
-      "Mgjbot",
-      "Diablownik",
-      "Ptak82"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/new.target": {
-    "modified": "2020-03-12T19:45:06.300Z",
-    "contributors": [
-      "ssuperczynski"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/super": {
-    "modified": "2020-10-15T22:29:09.089Z",
-    "contributors": [
-      "michalmarchewczyk",
-      "jabedek"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/typeof": {
-    "modified": "2019-03-23T23:48:37.240Z",
-    "contributors": [
-      "9739654",
-      "Moniaesz",
-      "Maciej_Grycz",
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Sheppy"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/void": {
-    "modified": "2019-03-23T23:48:45.984Z",
-    "contributors": [
-      "jamOne-",
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/yield": {
-    "modified": "2020-03-12T19:45:57.099Z",
-    "contributors": [
-      "labs4apps"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/yield*": {
-    "modified": "2020-03-12T19:45:54.936Z",
-    "contributors": [
-      "108adams",
-      "labs4apps"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements": {
-    "modified": "2020-10-15T21:14:48.479Z",
-    "contributors": [
-      "SphinxKnight",
-      "teoli",
-      "splewako",
-      "Gompka",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/Empty": {
-    "modified": "2020-10-15T22:33:29.682Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/async_function": {
-    "modified": "2020-10-15T22:24:48.218Z",
-    "contributors": [
-      "drm404"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/block": {
-    "modified": "2020-10-15T21:16:48.113Z",
-    "contributors": [
-      "pawelk92",
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/break": {
-    "modified": "2019-01-16T15:52:46.901Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/class": {
-    "modified": "2020-10-15T22:23:12.456Z",
-    "contributors": [
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/const": {
-    "modified": "2019-01-16T15:50:46.419Z",
-    "contributors": [
-      "teoli",
-      "Internauta1024A",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/continue": {
-    "modified": "2020-10-15T22:21:31.132Z",
-    "contributors": [
-      "Xupi",
-      "JB1905",
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/debugger": {
-    "modified": "2020-03-12T19:46:20.726Z",
-    "contributors": [
-      "antoni"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/do...while": {
-    "modified": "2019-01-16T15:52:54.601Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/export": {
-    "modified": "2019-01-16T15:46:36.049Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Diablownik",
-      "Ptak82",
-      "Internauta1024A"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/for": {
-    "modified": "2019-01-16T15:52:32.477Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik",
-      "Kjj2"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/for...in": {
-    "modified": "2020-10-15T22:24:07.320Z",
-    "contributors": [
-      "whpac",
-      "jangromko"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/function": {
-    "modified": "2019-01-16T15:52:26.032Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/function*": {
-    "modified": "2020-03-12T19:45:57.895Z",
-    "contributors": [
-      "AndrzejSala",
-      "labs4apps"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/if...else": {
-    "modified": "2019-01-16T15:55:18.475Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/import": {
-    "modified": "2019-01-16T15:46:37.420Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Diablownik",
-      "Ptak82",
-      "Internauta1024A"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/label": {
-    "modified": "2019-01-16T15:52:24.751Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/return": {
-    "modified": "2019-01-16T15:53:40.686Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/switch": {
-    "modified": "2020-10-15T21:17:02.196Z",
-    "contributors": [
-      "1MrHous1",
-      "SphinxKnight",
-      "teoli",
-      "Rokuzo",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/var": {
-    "modified": "2019-01-16T15:49:48.835Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Diablownik"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/while": {
-    "modified": "2019-03-23T23:49:29.695Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "Marcoos"
-    ]
-  },
-  "Web/JavaScript/Shells": {
-    "modified": "2020-03-12T19:48:00.854Z",
-    "contributors": [
-      "PiotrMuskalski"
-    ]
-  },
   "Web/MathML": {
     "modified": "2019-03-24T00:03:16.756Z",
     "contributors": [
@@ -10745,6 +7872,175 @@
       "Witia"
     ]
   },
+  "orphaned/Web/JavaScript": {
+    "modified": "2020-03-12T19:36:18.888Z",
+    "contributors": [
+      "SphinxKnight",
+      "SuperMaksio",
+      "JWPB",
+      "mitelak",
+      "Errorino",
+      "mptak",
+      "asbud",
+      "Miras",
+      "teoli",
+      "Rokuzo",
+      "safjanowski",
+      "ggolebio",
+      "ethertank",
+      "kartofelek007",
+      "grzegorz",
+      "Mgjbot",
+      "Ptak82",
+      "Wilq32",
+      "Internauta1024A",
+      "Verruckt",
+      "gandalf",
+      "Marcoos",
+      "Ruby",
+      "Dria"
+    ]
+  },
+  "orphaned/Web/JavaScript/A_re-introduction_to_JavaScript": {
+    "modified": "2020-03-12T19:47:50.546Z",
+    "contributors": [
+      "kanapka94",
+      "edgyFAT",
+      "xbravadox",
+      "r0v",
+      "joanna-by",
+      "Poftorek",
+      "JKarkosza"
+    ]
+  },
+  "orphaned/Web/JavaScript/About_JavaScript": {
+    "modified": "2020-03-12T19:46:50.697Z",
+    "contributors": [
+      "pa-uli-na"
+    ]
+  },
+  "orphaned/Web/JavaScript/Closures": {
+    "modified": "2020-06-02T12:29:00.476Z",
+    "contributors": [
+      "PaulinaLL",
+      "iwonapiotrowska",
+      "pawelk92",
+      "dkarski",
+      "JWPB",
+      "kasiejro",
+      "mat-bi",
+      "Jakubem",
+      "Bx.",
+      "dodekx",
+      "lboratynski",
+      "ppuzio",
+      "kosanr1",
+      "ewape"
+    ]
+  },
+  "orphaned/Web/JavaScript/EventLoop": {
+    "modified": "2020-03-12T19:42:17.470Z",
+    "contributors": [
+      "Qba91",
+      "przemdz",
+      "mieszczans",
+      "kpastuszka",
+      "cocafin"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide": {
+    "modified": "2020-03-12T19:38:33.908Z",
+    "contributors": [
+      "malu",
+      "fscholz",
+      "teoli",
+      "splewako",
+      "gieerzetka",
+      "rakowaty"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Control_flow_and_error_handling": {
+    "modified": "2020-03-12T19:43:07.742Z",
+    "contributors": [
+      "Konrad007",
+      "AndrzejSala",
+      "lukasz-jakub-adamczuk",
+      "Mateusz",
+      "maciejmarczak"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Details_of_the_Object_Model": {
+    "modified": "2019-01-16T16:02:28.093Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Diablownik",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Expressions_and_Operators": {
+    "modified": "2019-01-16T15:45:03.435Z",
+    "contributors": [
+      "teoli",
+      "Ptak82",
+      "Re set",
+      "Internauta1024A",
+      "Mgjbot"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Functions": {
+    "modified": "2020-03-12T19:42:14.765Z",
+    "contributors": [
+      "quart",
+      "andbroz",
+      "konradovsky",
+      "przemokon",
+      "pm093",
+      "thekyeZ",
+      "marekjedrzejewski"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Grammar_and_types": {
+    "modified": "2020-03-12T19:42:17.279Z",
+    "contributors": [
+      "danrakh",
+      "Konrad007",
+      "cybor0",
+      "lukasz-jakub-adamczuk",
+      "Miras",
+      "AndrzejSala",
+      "xolir",
+      "dolphugly",
+      "KamilDuda01",
+      "marekjedrzejewski"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Introduction": {
+    "modified": "2020-03-12T19:41:24.970Z",
+    "contributors": [
+      "Alka",
+      "xolir",
+      "Mlodyemoka"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Iterators_and_Generators": {
+    "modified": "2020-03-12T19:45:59.758Z",
+    "contributors": [
+      "ThinCan",
+      "CreateWWW",
+      "starsep",
+      "labs4apps"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Loops_and_iteration": {
+    "modified": "2020-03-12T19:42:57.032Z",
+    "contributors": [
+      "Patryk-Holody",
+      "SphinxKnight",
+      "AndrzejSala",
+      "thekyeZ"
+    ]
+  },
   "orphaned/Web/JavaScript/Guide/Obsolete_Pages/Przewodnik_po_języku_JavaScript_1.5/Dodawanie_obiektom_nowej_funkcjonalności.": {
     "modified": "2019-03-24T00:08:07.633Z",
     "contributors": [
@@ -11113,6 +8409,45 @@
       "Takenbot"
     ]
   },
+  "orphaned/Web/JavaScript/Guide/Regular_Expressions": {
+    "modified": "2019-01-16T15:31:49.852Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Diablownik",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Working_with_Objects": {
+    "modified": "2019-01-16T16:04:02.144Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Sheppy"
+    ]
+  },
+  "orphaned/Web/JavaScript/Inheritance_and_the_prototype_chain": {
+    "modified": "2020-03-12T19:43:36.110Z",
+    "contributors": [
+      "hyvyys",
+      "binarysailor",
+      "RudyPL",
+      "mat-bi",
+      "vonsko",
+      "labs4apps",
+      "pceuropa"
+    ]
+  },
+  "orphaned/Web/JavaScript/Language_Resources": {
+    "modified": "2019-01-16T16:04:32.529Z",
+    "contributors": [
+      "teoli",
+      "Diablownik",
+      "Ptak82",
+      "Mgjbot"
+    ]
+  },
   "orphaned/Web/JavaScript/Na_początek": {
     "modified": "2019-03-23T23:54:32.221Z",
     "contributors": [
@@ -11121,6 +8456,506 @@
       "Mgjbot",
       "Ptak82",
       "Internauta1024A"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference": {
+    "modified": "2020-03-12T19:37:41.078Z",
+    "contributors": [
+      "asbud",
+      "teoli",
+      "Mgjbot",
+      "Internauta1024A",
+      "Diablownik",
+      "Ptak82",
+      "Takenbot",
+      "gandalf",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/About": {
+    "modified": "2020-10-29T15:16:04.046Z",
+    "contributors": [
+      "michalmarchewczyk",
+      "asbud",
+      "teoli",
+      "Mgjbot",
+      "Odder",
+      "WalkerPL",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Classes": {
+    "modified": "2020-10-29T06:45:58.471Z",
+    "contributors": [
+      "michalmarchewczyk",
+      "Ojdana11",
+      "freszyk",
+      "MichalKarbownik",
+      "artmiron",
+      "labs4apps",
+      "gavinhungry"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Classes/Private_class_fields": {
+    "modified": "2020-10-22T08:52:10.875Z",
+    "contributors": [
+      "michalmarchewczyk"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Classes/Public_class_fields": {
+    "modified": "2020-10-15T22:35:06.679Z",
+    "contributors": [
+      "michalmarchewczyk"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Classes/constructor": {
+    "modified": "2020-10-15T21:53:33.839Z",
+    "contributors": [
+      "michalmarchewczyk",
+      "Anonymous",
+      "km4",
+      "devMike"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Classes/extends": {
+    "modified": "2020-10-15T22:35:04.841Z",
+    "contributors": [
+      "michalmarchewczyk"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Classes/static": {
+    "modified": "2020-10-21T19:35:52.117Z",
+    "contributors": [
+      "michalmarchewczyk",
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors": {
+    "modified": "2020-03-12T19:45:52.052Z",
+    "contributors": [
+      "devMike",
+      "Sheppy"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Invalid_array_length": {
+    "modified": "2020-03-12T19:49:38.261Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Invalid_date": {
+    "modified": "2020-11-22T22:16:46.988Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/JSON_bad_parse": {
+    "modified": "2020-03-12T19:49:40.890Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Missing_colon_after_property_id": {
+    "modified": "2020-03-12T19:47:17.965Z",
+    "contributors": [
+      "BrittleHeart"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Missing_curly_after_function_body": {
+    "modified": "2020-11-22T22:43:32.569Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Missing_initializer_in_const": {
+    "modified": "2020-03-12T19:49:39.699Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Missing_parenthesis_after_argument_list": {
+    "modified": "2020-11-22T22:32:16.181Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Missing_semicolon_before_statement": {
+    "modified": "2020-03-31T15:55:43.969Z",
+    "contributors": [
+      "kepka7044",
+      "Comandorekk"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/More_arguments_needed": {
+    "modified": "2020-03-12T19:46:20.545Z",
+    "contributors": [
+      "krzmig",
+      "saulgajda"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Not_a_function": {
+    "modified": "2020-03-12T19:46:20.885Z",
+    "contributors": [
+      "Vvitek"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Not_defined": {
+    "modified": "2020-03-12T19:45:53.813Z",
+    "contributors": [
+      "saulgajda",
+      "szopenkrk"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Property_access_denied": {
+    "modified": "2020-10-26T12:04:59.811Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Unexpected_type": {
+    "modified": "2020-03-12T19:46:02.310Z",
+    "contributors": [
+      "devMike"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions": {
+    "modified": "2020-03-12T19:45:21.066Z",
+    "contributors": [
+      "wilfreddesert"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions/Arrow_functions": {
+    "modified": "2020-10-15T21:59:06.310Z",
+    "contributors": [
+      "piotrjanczak",
+      "jangromko",
+      "ppuzio"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions/Default_parameters": {
+    "modified": "2020-10-15T22:15:13.631Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions/arguments": {
+    "modified": "2019-01-16T15:45:04.595Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Diablownik",
+      "Marcoos",
+      "Sheppy",
+      "telendt",
+      "Internauta1024A",
+      "Ptak82",
+      "Bamber"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions/arguments/callee": {
+    "modified": "2019-01-16T15:40:18.334Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Diablownik",
+      "Ptak82",
+      "Marcoos",
+      "gandalf"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions/arguments/length": {
+    "modified": "2019-01-16T15:41:27.370Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Marcoos",
+      "Diablownik",
+      "Internauta1024A",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions/get": {
+    "modified": "2020-03-12T19:45:32.396Z",
+    "contributors": [
+      "Rednaxela700",
+      "pawelk92",
+      "lukaszewczak",
+      "pkubowicz",
+      "broslukasz"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions/set": {
+    "modified": "2020-10-15T22:11:19.769Z",
+    "contributors": [
+      "jedzej"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects": {
+    "modified": "2020-03-12T19:37:39.285Z",
+    "contributors": [
+      "mitelak",
+      "asbud",
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array": {
+    "modified": "2020-03-03T12:48:14.352Z",
+    "contributors": [
+      "1MrHous1",
+      "SurmaAa",
+      "wbamberg",
+      "stuniel",
+      "SlaWitDev",
+      "krawieck",
+      "Tidu",
+      "RadekRo",
+      "zpantalyku",
+      "teoli",
+      "splewako",
+      "mirekczechxmm",
+      "KrzysztofKruk",
+      "Chrisraven",
+      "Ptak82",
+      "tybulewicz",
+      "Staszyna",
+      "Internauta1024A",
+      "Mgjbot",
+      "gandalf",
+      "VooEak",
+      "Marcoos",
+      "Anonymous"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/Reduce": {
+    "modified": "2019-11-09T19:25:57.362Z",
+    "contributors": [
+      "apiczkens",
+      "the0ffh",
+      "sqeeswy",
+      "kamce",
+      "thigrand"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/ReduceRight": {
+    "modified": "2020-10-15T22:28:04.989Z",
+    "contributors": [
+      "martraw",
+      "mayacode"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/concat": {
+    "modified": "2019-03-23T23:47:21.906Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Marcoos",
+      "Staszyna",
+      "Internauta1024A",
+      "Sheppy",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/copyWithin": {
+    "modified": "2020-10-26T11:54:47.946Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/entries": {
+    "modified": "2020-10-15T22:07:30.753Z",
+    "contributors": [
+      "kucharzgotuje"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/every": {
+    "modified": "2019-03-23T23:49:40.637Z",
+    "contributors": [
+      "tomabr",
+      "teoli",
+      "Mgjbot",
+      "telendt",
+      "Marcoos",
+      "Ptak82",
+      "Sheppy",
+      "Internauta1024A"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/fill": {
+    "modified": "2019-03-23T22:50:50.966Z",
+    "contributors": [
+      "emero",
+      "PawelPapuli",
+      "SphinxKnight",
+      "quim"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/filter": {
+    "modified": "2019-03-18T20:34:27.512Z",
+    "contributors": [
+      "KamilaWalkowiak",
+      "romprzy",
+      "kanapka94",
+      "tues",
+      "zpantalyku",
+      "krzosik",
+      "robadev",
+      "alexfluger",
+      "teoli",
+      "michail_w",
+      "Krzysiek6",
+      "Mgjbot",
+      "Marcoos",
+      "telendt",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/find": {
+    "modified": "2020-09-25T21:17:08.283Z",
+    "contributors": [
+      "jangromko",
+      "SphinxKnight",
+      "TeoTN",
+      "gpluta",
+      "kdex",
+      "svantetic",
+      "karol-f",
+      "thigrand"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/findIndex": {
+    "modified": "2019-03-23T22:07:32.543Z",
+    "contributors": [
+      "Snieezy"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/flat": {
+    "modified": "2020-10-15T22:19:13.003Z",
+    "contributors": [
+      "KonradLinkowski",
+      "raszta"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/forEach": {
+    "modified": "2019-09-23T06:35:11.871Z",
+    "contributors": [
+      "OJezu",
+      "zibra",
+      "teoli",
+      "Mgjbot",
+      "ethertank",
+      "Robson",
+      "telendt",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/from": {
+    "modified": "2019-03-23T22:31:40.624Z",
+    "contributors": [
+      "kdex",
+      "Maciej_Grycz",
+      "kamce",
+      "aquz"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/includes": {
+    "modified": "2020-10-15T21:41:30.374Z",
+    "contributors": [
+      "Nux",
+      "wbamberg",
+      "DzikiChrzan"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/indexOf": {
+    "modified": "2019-03-23T23:46:42.451Z",
+    "contributors": [
+      "teoli",
+      "telendt",
+      "Ptak82",
+      "Mgjbot",
+      "Sheppy"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/isArray": {
+    "modified": "2019-03-23T22:54:42.353Z",
+    "contributors": [
+      "kwarpechowski",
+      "tomabr"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/join": {
+    "modified": "2019-03-23T23:48:50.993Z",
+    "contributors": [
+      "teoli",
+      "Diablownik",
+      "Mgjbot",
+      "Internauta1024A",
+      "Staszyna",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/keys": {
+    "modified": "2019-03-23T22:15:56.755Z",
+    "contributors": [
+      "buoto"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/lastIndexOf": {
+    "modified": "2019-03-23T23:47:29.921Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "telendt",
+      "Marcoos",
+      "Sheppy",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/length": {
+    "modified": "2019-03-23T23:47:25.247Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Diablownik",
+      "Internauta1024A",
+      "Ptak82",
+      "Sheppy"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/map": {
+    "modified": "2019-03-23T23:49:38.387Z",
+    "contributors": [
+      "michalwarda",
+      "halicki",
+      "cojack",
+      "Miras",
+      "nix1",
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "tybulewicz",
+      "Internauta1024A"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/of": {
+    "modified": "2020-10-15T22:10:00.043Z",
+    "contributors": [
+      "mat-bi"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/pop": {
+    "modified": "2019-03-23T23:47:25.069Z",
+    "contributors": [
+      "asikora",
+      "teoli",
+      "Mgjbot",
+      "Diablownik",
+      "Internauta1024A",
+      "Ptak82"
     ]
   },
   "orphaned/Web/JavaScript/Reference/Global_Objects/Array/prototype": {
@@ -11132,6 +8967,769 @@
       "Diablownik",
       "Mgjbot",
       "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/push": {
+    "modified": "2019-03-23T23:47:25.462Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "telendt",
+      "Internauta1024A"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/reverse": {
+    "modified": "2019-03-23T23:47:24.313Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Marcoos",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/shift": {
+    "modified": "2019-06-30T05:28:38.117Z",
+    "contributors": [
+      "Krysik",
+      "teoli",
+      "tomecko",
+      "Mgjbot",
+      "telendt",
+      "Internauta1024A",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/slice": {
+    "modified": "2019-03-23T23:47:22.485Z",
+    "contributors": [
+      "malu",
+      "teoli",
+      "michalmarkowski",
+      "Mgjbot",
+      "Ptak82",
+      "telendt",
+      "Internauta1024A",
+      "Sheppy"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/some": {
+    "modified": "2019-03-23T23:49:40.896Z",
+    "contributors": [
+      "getup10g",
+      "Bjornskjald",
+      "alexfluger",
+      "teoli",
+      "Mgjbot",
+      "Internauta1024A",
+      "Ptak82",
+      "tybulewicz"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/sort": {
+    "modified": "2019-03-23T23:47:26.710Z",
+    "contributors": [
+      "Bx.",
+      "el-dide",
+      "teoli",
+      "Mgjbot",
+      "tybulewicz",
+      "Internauta1024A",
+      "Diablownik",
+      "Sheppy",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/splice": {
+    "modified": "2019-03-23T23:47:26.002Z",
+    "contributors": [
+      "emero",
+      "Wayofthesin",
+      "kaczor1984",
+      "achwedyk",
+      "teoli",
+      "Mgjbot",
+      "telendt",
+      "Ptak82",
+      "Internauta1024A",
+      "Sheppy"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/toLocaleString": {
+    "modified": "2020-11-11T13:31:59.409Z",
+    "contributors": [
+      "szczerski",
+      "kwarpechowski"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/toSource": {
+    "modified": "2019-03-23T23:49:50.954Z",
+    "contributors": [
+      "teoli",
+      "Diablownik",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/toString": {
+    "modified": "2019-03-23T23:47:24.621Z",
+    "contributors": [
+      "kwarpechowski",
+      "teoli",
+      "Mgjbot",
+      "Diablownik",
+      "Internauta1024A",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/unshift": {
+    "modified": "2019-03-23T23:47:27.035Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Internauta1024A",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/values": {
+    "modified": "2020-10-15T22:00:51.518Z",
+    "contributors": [
+      "kasztan"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/ArrayBuffer": {
+    "modified": "2019-03-23T22:14:05.315Z",
+    "contributors": [
+      "drm404"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/BigInt": {
+    "modified": "2020-10-15T22:27:46.176Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/BigInt/asIntN": {
+    "modified": "2020-10-15T22:29:22.063Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/BigInt/asUintN": {
+    "modified": "2020-10-15T22:29:21.176Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/BigInt/toString": {
+    "modified": "2020-10-15T22:29:27.321Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/BigInt/valueOf": {
+    "modified": "2020-10-15T22:30:01.749Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Boolean": {
+    "modified": "2019-03-23T23:51:54.713Z",
+    "contributors": [
+      "kanapka94",
+      "wbamberg",
+      "teoli",
+      "Diablownik",
+      "Internauta1024A",
+      "Ptak82",
+      "Mgjbot",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Boolean/toSource": {
+    "modified": "2019-03-23T23:58:05.520Z",
+    "contributors": [
+      "teoli",
+      "Witia",
+      "Mgjbot",
+      "Ptak82",
+      "telendt",
+      "Takenbot",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Boolean/toString": {
+    "modified": "2019-03-23T23:58:09.826Z",
+    "contributors": [
+      "teoli",
+      "Witia",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Boolean/valueOf": {
+    "modified": "2019-03-23T23:58:19.030Z",
+    "contributors": [
+      "teoli",
+      "Witia",
+      "Mgjbot",
+      "Ptak82",
+      "Takenbot",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/DataView": {
+    "modified": "2020-10-15T21:57:36.691Z",
+    "contributors": [
+      "meron1122"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date": {
+    "modified": "2019-06-11T10:18:58.847Z",
+    "contributors": [
+      "wojexe",
+      "dkoprowski",
+      "wbamberg",
+      "teoli",
+      "Witia",
+      "Internauta1024A",
+      "telendt",
+      "Mgjbot",
+      "Ptak82",
+      "Jfkpl",
+      "VooEak",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/UTC": {
+    "modified": "2019-03-23T23:58:12.265Z",
+    "contributors": [
+      "teoli",
+      "Witia",
+      "Mgjbot",
+      "telendt",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getDate": {
+    "modified": "2019-03-18T20:39:59.605Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "telendt",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getDay": {
+    "modified": "2019-03-23T23:47:14.453Z",
+    "contributors": [
+      "dloranc",
+      "teoli",
+      "Mgjbot",
+      "telendt",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getFullYear": {
+    "modified": "2019-03-23T23:58:09.308Z",
+    "contributors": [
+      "teoli",
+      "Witia",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getHours": {
+    "modified": "2019-03-23T23:58:08.740Z",
+    "contributors": [
+      "teoli",
+      "Witia",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getMilliseconds": {
+    "modified": "2019-03-23T23:58:07.015Z",
+    "contributors": [
+      "teoli",
+      "Witia",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getMinutes": {
+    "modified": "2019-03-23T23:58:11.611Z",
+    "contributors": [
+      "teoli",
+      "Niewiado",
+      "ethertank",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getMonth": {
+    "modified": "2019-03-23T23:58:11.021Z",
+    "contributors": [
+      "teoli",
+      "Niewiado",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getSeconds": {
+    "modified": "2019-03-23T23:58:07.116Z",
+    "contributors": [
+      "dloranc",
+      "teoli",
+      "Niewiado",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getTime": {
+    "modified": "2019-03-23T23:58:10.392Z",
+    "contributors": [
+      "teoli",
+      "Niewiado",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getTimezoneOffset": {
+    "modified": "2019-03-23T23:58:10.620Z",
+    "contributors": [
+      "teoli",
+      "Niewiado",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getUTCDate": {
+    "modified": "2019-03-18T20:40:45.398Z",
+    "contributors": [
+      "kdragowski",
+      "Vrq",
+      "teoli",
+      "Niewiado",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getUTCDay": {
+    "modified": "2019-03-23T23:58:06.532Z",
+    "contributors": [
+      "teoli",
+      "Niewiado",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getUTCFullYear": {
+    "modified": "2019-03-23T23:58:11.153Z",
+    "contributors": [
+      "teoli",
+      "Niewiado",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getUTCHours": {
+    "modified": "2019-03-23T23:58:11.930Z",
+    "contributors": [
+      "teoli",
+      "Niewiado",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getUTCMilliseconds": {
+    "modified": "2019-03-23T23:58:11.828Z",
+    "contributors": [
+      "teoli",
+      "Niewiado",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getUTCMinutes": {
+    "modified": "2019-03-23T23:58:11.716Z",
+    "contributors": [
+      "teoli",
+      "Niewiado",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getUTCMonth": {
+    "modified": "2019-03-23T23:58:09.067Z",
+    "contributors": [
+      "teoli",
+      "Niewiado",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getUTCSeconds": {
+    "modified": "2019-03-23T23:58:13.586Z",
+    "contributors": [
+      "teoli",
+      "Niewiado",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getYear": {
+    "modified": "2019-03-23T23:58:08.162Z",
+    "contributors": [
+      "teoli",
+      "Niewiado",
+      "Mgjbot",
+      "Ptak82",
+      "Internauta1024A"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/now": {
+    "modified": "2019-03-23T23:51:17.289Z",
+    "contributors": [
+      "mibac",
+      "teoli",
+      "Diablownik",
+      "ethertank",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/parse": {
+    "modified": "2019-03-18T20:39:59.791Z",
+    "contributors": [
+      "teoli",
+      "Niewiado",
+      "Mgjbot",
+      "Internauta1024A",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setDate": {
+    "modified": "2019-03-18T20:39:59.968Z",
+    "contributors": [
+      "teoli",
+      "Niewiado",
+      "Internauta1024A",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setFullYear": {
+    "modified": "2019-03-23T23:58:07.348Z",
+    "contributors": [
+      "teoli",
+      "gandalf",
+      "Internauta1024A",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setHours": {
+    "modified": "2019-08-28T16:11:14.990Z",
+    "contributors": [
+      "radamuspl",
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setMilliseconds": {
+    "modified": "2019-03-23T23:43:30.096Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setMinutes": {
+    "modified": "2019-03-23T23:43:25.746Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setMonth": {
+    "modified": "2019-03-23T23:43:31.314Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setSeconds": {
+    "modified": "2019-03-23T23:43:26.818Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setTime": {
+    "modified": "2019-03-23T23:43:26.218Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setUTCDate": {
+    "modified": "2019-03-23T23:43:19.551Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setUTCFullYear": {
+    "modified": "2019-03-23T23:43:22.591Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setUTCHours": {
+    "modified": "2019-03-23T23:43:27.771Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setUTCMilliseconds": {
+    "modified": "2019-03-23T23:43:32.840Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setUTCMinutes": {
+    "modified": "2019-03-23T23:43:24.515Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setUTCMonth": {
+    "modified": "2019-03-23T23:43:31.194Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setUTCSeconds": {
+    "modified": "2019-03-23T23:43:28.708Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/setYear": {
+    "modified": "2019-03-23T23:43:29.991Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/toGMTString": {
+    "modified": "2019-03-23T23:43:24.162Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/toJSON": {
+    "modified": "2020-10-15T22:09:56.845Z",
+    "contributors": [
+      "chlebek"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString": {
+    "modified": "2019-03-18T20:39:59.044Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString": {
+    "modified": "2019-03-18T20:39:59.243Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/toLocaleTimeString": {
+    "modified": "2019-03-23T23:43:29.100Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/toSource": {
+    "modified": "2019-03-23T23:43:26.646Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/toString": {
+    "modified": "2019-03-23T23:46:38.804Z",
+    "contributors": [
+      "teoli",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/toUTCString": {
+    "modified": "2019-03-23T23:43:28.172Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/valueOf": {
+    "modified": "2019-03-23T23:43:28.602Z",
+    "contributors": [
+      "teoli",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Error": {
+    "modified": "2020-10-15T21:37:48.928Z",
+    "contributors": [
+      "ZiomaleQ",
+      "mitelak",
+      "fscholz"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Error/Stack": {
+    "modified": "2020-10-15T22:30:56.297Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Error/columnNumber": {
+    "modified": "2019-03-23T22:50:40.876Z",
+    "contributors": [
+      "teoli",
+      "fscholz"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Error/fileName": {
+    "modified": "2020-10-15T22:30:02.676Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Error/lineNumber": {
+    "modified": "2020-10-15T22:30:02.665Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Error/message": {
+    "modified": "2019-03-23T22:51:09.554Z",
+    "contributors": [
+      "fscholz",
+      "adam-tokarski"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Error/name": {
+    "modified": "2019-03-23T22:51:10.374Z",
+    "contributors": [
+      "fscholz",
+      "adam-tokarski"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Error/toSource": {
+    "modified": "2020-10-15T22:32:18.167Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Error/toString": {
+    "modified": "2020-10-15T22:32:18.562Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/EvalError": {
+    "modified": "2020-10-15T22:33:25.487Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Function": {
+    "modified": "2019-03-23T22:57:36.964Z",
+    "contributors": [
+      "pkubowicz",
+      "thigrand",
+      "teoli"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Function/apply": {
+    "modified": "2019-03-23T22:26:19.022Z",
+    "contributors": [
+      "jangromko",
+      "pceuropa"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Function/arguments": {
+    "modified": "2019-03-23T23:51:16.714Z",
+    "contributors": [
+      "teoli",
+      "Diablownik",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Function/bind": {
+    "modified": "2020-11-29T17:45:12.082Z",
+    "contributors": [
+      "derekqq",
+      "RobertGelu"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Function/caller": {
+    "modified": "2019-03-23T23:54:03.104Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Marcoos",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Function/displayName": {
+    "modified": "2019-03-23T22:33:56.919Z",
+    "contributors": [
+      "teoli",
+      "sefel"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Function/length": {
+    "modified": "2019-03-23T23:53:59.423Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Internauta1024A"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Function/toString": {
+    "modified": "2019-03-23T23:54:00.212Z",
+    "contributors": [
+      "teoli",
+      "ethertank",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Infinity": {
+    "modified": "2020-03-12T19:37:41.172Z",
+    "contributors": [
+      "gaazkam",
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Takenbot",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/JSON": {
+    "modified": "2020-10-15T22:24:07.363Z",
+    "contributors": [
+      "krupinskij"
     ]
   },
   "orphaned/Web/JavaScript/Reference/Global_Objects/Map": {
@@ -11205,10 +9803,1406 @@
       "MarekHuckmann"
     ]
   },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math": {
+    "modified": "2019-11-16T16:52:10.805Z",
+    "contributors": [
+      "Iicytower",
+      "teoli",
+      "Mgjbot",
+      "Balon",
+      "Ptak82",
+      "Faxe",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/E": {
+    "modified": "2019-03-23T23:47:55.039Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/LN10": {
+    "modified": "2019-03-23T23:47:54.538Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/LN2": {
+    "modified": "2019-03-23T23:47:52.019Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/LOG10E": {
+    "modified": "2019-03-23T23:47:59.792Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/LOG2E": {
+    "modified": "2019-03-23T23:47:53.913Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/PI": {
+    "modified": "2019-03-23T23:47:56.906Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/SQRT1_2": {
+    "modified": "2019-03-23T23:47:57.323Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/SQRT2": {
+    "modified": "2019-03-23T23:47:59.037Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/abs": {
+    "modified": "2019-03-23T23:47:55.610Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/acos": {
+    "modified": "2019-03-23T23:47:58.749Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/asin": {
+    "modified": "2019-03-23T23:47:52.375Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/atan": {
+    "modified": "2019-03-23T23:47:58.908Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/atan2": {
+    "modified": "2019-03-23T23:48:00.596Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Takenbot",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/ceil": {
+    "modified": "2019-03-23T23:47:58.042Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/cos": {
+    "modified": "2019-03-23T23:48:06.241Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/exp": {
+    "modified": "2019-03-23T23:48:06.373Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Takenbot",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/floor": {
+    "modified": "2019-03-23T23:48:01.006Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Takenbot",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/log": {
+    "modified": "2019-03-23T23:48:08.846Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/max": {
+    "modified": "2019-03-23T23:48:02.936Z",
+    "contributors": [
+      "ppasieka",
+      "teoli",
+      "safjanowski",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/min": {
+    "modified": "2019-03-23T23:48:05.366Z",
+    "contributors": [
+      "SphinxKnight",
+      "zdolny",
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Takenbot",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/pow": {
+    "modified": "2019-03-23T23:48:05.015Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/random": {
+    "modified": "2020-10-15T21:17:12.658Z",
+    "contributors": [
+      "Sqrcz",
+      "kanapka94",
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/round": {
+    "modified": "2019-03-23T23:48:04.166Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/sign": {
+    "modified": "2019-03-23T23:13:52.324Z",
+    "contributors": [
+      "SphinxKnight",
+      "teoli",
+      "PawelDudek"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/sin": {
+    "modified": "2019-03-23T23:48:09.765Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/sqrt": {
+    "modified": "2019-03-23T23:48:04.728Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/tan": {
+    "modified": "2019-03-23T23:48:02.693Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/NaN": {
+    "modified": "2020-03-12T19:37:38.834Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Takenbot",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number": {
+    "modified": "2019-03-23T23:50:26.634Z",
+    "contributors": [
+      "Piterunihongo",
+      "teoli",
+      "fscholz",
+      "Diablownik",
+      "Chrisraven",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos",
+      "VooEak"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/EPSILON": {
+    "modified": "2020-10-15T22:24:18.127Z",
+    "contributors": [
+      "krupinskij"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/MAX_VALUE": {
+    "modified": "2019-03-23T23:46:06.341Z",
+    "contributors": [
+      "teoli",
+      "Ptak82",
+      "Mgjbot",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/MIN_VALUE": {
+    "modified": "2019-03-23T23:47:03.042Z",
+    "contributors": [
+      "teoli",
+      "Ptak82",
+      "Mgjbot",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/NEGATIVE_INFINITY": {
+    "modified": "2019-03-23T23:47:08.730Z",
+    "contributors": [
+      "teoli",
+      "Diablownik",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/NaN": {
+    "modified": "2019-03-23T23:45:44.372Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/POSITIVE_INFINITY": {
+    "modified": "2019-03-23T23:47:06.877Z",
+    "contributors": [
+      "teoli",
+      "Ptak82",
+      "Diablownik",
+      "Mgjbot"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/isInteger": {
+    "modified": "2020-10-15T21:56:18.899Z",
+    "contributors": [
+      "PaG",
+      "morthan"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/isNaN": {
+    "modified": "2020-10-15T22:24:16.707Z",
+    "contributors": [
+      "krupinskij"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/toExponential": {
+    "modified": "2019-03-23T23:47:01.823Z",
+    "contributors": [
+      "teoli",
+      "Diablownik",
+      "Mgjbot",
+      "Internauta1024A",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/toFixed": {
+    "modified": "2019-03-23T23:24:37.690Z",
+    "contributors": [
+      "teoli",
+      "Diablownik",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/toLocaleString": {
+    "modified": "2020-10-15T21:57:55.583Z",
+    "contributors": [
+      "narghar",
+      "eLGi"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/toPrecision": {
+    "modified": "2019-03-23T23:46:55.576Z",
+    "contributors": [
+      "teoli",
+      "Diablownik",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/toString": {
+    "modified": "2019-03-23T23:49:39.505Z",
+    "contributors": [
+      "teoli",
+      "Diablownik",
+      "Mgjbot",
+      "Internauta1024A",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object": {
+    "modified": "2019-03-23T23:51:13.882Z",
+    "contributors": [
+      "JacobDesight",
+      "teoli",
+      "fscholz",
+      "Diablownik",
+      "Ptak82",
+      "Mgjbot",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/assign": {
+    "modified": "2019-08-15T08:41:27.590Z",
+    "contributors": [
+      "oddehh",
+      "tkitynski",
+      "belfz",
+      "kkowalczuk",
+      "drzazga",
+      "JacobDesight"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/constructor": {
+    "modified": "2019-03-23T23:50:18.166Z",
+    "contributors": [
+      "teoli",
+      "Sheppy",
+      "Wookieb",
+      "Marcoos",
+      "Mgjbot",
+      "Ptak82",
+      "Takenbot"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/freeze": {
+    "modified": "2020-10-15T21:49:25.848Z",
+    "contributors": [
+      "PiosDamian",
+      "Arkej",
+      "kdex",
+      "piecioshka",
+      "aquz"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyDescriptor": {
+    "modified": "2020-10-15T21:51:58.332Z",
+    "contributors": [
+      "fscholz",
+      "piecioshka",
+      "andersz-artur",
+      "mateusz-pietruch"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty": {
+    "modified": "2020-10-15T21:37:23.621Z",
+    "contributors": [
+      "JB1905",
+      "kanapka94",
+      "s1awek",
+      "dianafa"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/proto": {
+    "modified": "2019-03-23T22:15:34.204Z",
+    "contributors": [
+      "JacobDesight"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/seal": {
+    "modified": "2019-03-23T22:50:09.394Z",
+    "contributors": [
+      "arturkulig",
+      "piecioshka",
+      "MichalZalecki",
+      "mhadas"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/toLocaleString": {
+    "modified": "2019-03-23T23:44:51.103Z",
+    "contributors": [
+      "kwarpechowski",
+      "teoli",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/toSource": {
+    "modified": "2019-03-23T23:53:51.317Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Takenbot",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/toString": {
+    "modified": "2019-03-23T23:48:38.071Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/valueOf": {
+    "modified": "2019-03-23T23:50:47.663Z",
+    "contributors": [
+      "teoli",
+      "ethertank",
+      "Mgjbot",
+      "Internauta1024A",
+      "Ptak82",
+      "Takenbot",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Promise": {
+    "modified": "2020-11-11T08:51:14.847Z",
+    "contributors": [
+      "r2kode",
+      "mich_cz",
+      "SkillGG",
+      "szopenkrk"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Proxy": {
+    "modified": "2020-10-15T22:01:30.452Z",
+    "contributors": [
+      "0ctothorp",
+      "andrzejkrecicki"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy": {
+    "modified": "2020-10-15T22:01:32.237Z",
+    "contributors": [
+      "andrzejkrecicki"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/apply": {
+    "modified": "2020-10-15T22:18:47.930Z",
+    "contributors": [
+      "magmast"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/RangeError": {
+    "modified": "2019-03-23T22:51:19.492Z",
+    "contributors": [
+      "adam-tokarski"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/RegExp": {
+    "modified": "2019-03-23T23:59:43.766Z",
+    "contributors": [
+      "wbamberg",
+      "lunesco",
+      "kisiiel",
+      "morthan",
+      "tomash18r",
+      "teoli",
+      "Nux",
+      "Mysz",
+      "Ptak82",
+      "Mgjbot",
+      "Marcoos",
+      "VooEak"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/RegExp/exec": {
+    "modified": "2019-03-23T23:47:09.516Z",
+    "contributors": [
+      "kowal.alek",
+      "teoli",
+      "Ptak82",
+      "Mgjbot",
+      "Bedi"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/RegExp/global": {
+    "modified": "2019-03-23T23:47:12.777Z",
+    "contributors": [
+      "teoli",
+      "Diablownik",
+      "Internauta1024A",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/RegExp/ignoreCase": {
+    "modified": "2019-03-23T23:47:14.670Z",
+    "contributors": [
+      "teoli",
+      "Diablownik",
+      "Internauta1024A",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/RegExp/lastMatch": {
+    "modified": "2020-10-15T22:02:47.225Z",
+    "contributors": [
+      "xShadow"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/RegExp/source": {
+    "modified": "2019-03-23T23:44:52.062Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/RegExp/test": {
+    "modified": "2019-03-23T23:47:41.762Z",
+    "contributors": [
+      "teoli",
+      "Chrisraven",
+      "Ptak82",
+      "Nux",
+      "Mgjbot"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/RegExp/toSource": {
+    "modified": "2019-03-23T23:47:09.941Z",
+    "contributors": [
+      "teoli",
+      "Ptak82",
+      "Mgjbot"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/RegExp/toString": {
+    "modified": "2019-03-23T23:47:08.946Z",
+    "contributors": [
+      "teoli",
+      "Ptak82",
+      "Mgjbot"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Set": {
+    "modified": "2019-03-23T22:07:58.875Z",
+    "contributors": [
+      "PiosDamian",
+      "klusaktomasz"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Set/add": {
+    "modified": "2019-03-23T22:07:51.409Z",
+    "contributors": [
+      "klusaktomasz"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Set/clear": {
+    "modified": "2019-03-23T22:08:01.977Z",
+    "contributors": [
+      "klusaktomasz"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Set/delete": {
+    "modified": "2020-10-15T21:56:04.971Z",
+    "contributors": [
+      "trusohamn",
+      "klusaktomasz"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String": {
+    "modified": "2020-12-07T03:40:21.998Z",
+    "contributors": [
+      "SphinxKnight",
+      "matipicia",
+      "wbamberg",
+      "teoli",
+      "grzegorz",
+      "Ptak82",
+      "Internauta1024A",
+      "Mgjbot",
+      "JasonSpiro",
+      "VooEak"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/anchor": {
+    "modified": "2019-03-23T23:48:21.565Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Diablownik",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/big": {
+    "modified": "2019-03-23T23:48:11.354Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Internauta1024A"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/bold": {
+    "modified": "2019-03-23T23:48:19.144Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/charAt": {
+    "modified": "2019-03-23T23:48:20.523Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/charCodeAt": {
+    "modified": "2019-03-23T23:48:21.451Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/concat": {
+    "modified": "2019-05-14T05:09:36.210Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/fontcolor": {
+    "modified": "2019-03-23T23:47:08.399Z",
+    "contributors": [
+      "teoli",
+      "Ptak82",
+      "Mgjbot"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/fontsize": {
+    "modified": "2019-03-23T23:47:17.415Z",
+    "contributors": [
+      "teoli",
+      "Ptak82",
+      "Mgjbot"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/fromCharCode": {
+    "modified": "2019-03-23T23:48:13.561Z",
+    "contributors": [
+      "tomasz-janicki",
+      "teoli",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/italics": {
+    "modified": "2019-03-23T23:48:17.339Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/link": {
+    "modified": "2019-03-23T23:48:15.378Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/search": {
+    "modified": "2019-03-23T23:48:27.010Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/slice": {
+    "modified": "2019-09-04T05:49:33.261Z",
+    "contributors": [
+      "huberts",
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/small": {
+    "modified": "2019-03-24T00:07:45.142Z",
+    "contributors": [
+      "teoli",
+      "Krzysiek6",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/strike": {
+    "modified": "2019-03-23T23:48:13.069Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/sub": {
+    "modified": "2019-03-23T23:48:16.934Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/substr": {
+    "modified": "2019-03-23T23:59:55.346Z",
+    "contributors": [
+      "dzek69",
+      "KonradKubiec",
+      "teoli",
+      "Julien.stuby",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/substring": {
+    "modified": "2019-03-18T20:35:08.725Z",
+    "contributors": [
+      "Rafiki",
+      "teoli",
+      "Mgjbot",
+      "Nux",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/sup": {
+    "modified": "2019-03-18T21:16:52.805Z",
+    "contributors": [
+      "teoli",
+      "Ptak82",
+      "Mgjbot"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/toLowerCase": {
+    "modified": "2019-03-23T23:48:17.530Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Diablownik",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/toSource": {
+    "modified": "2019-03-23T23:45:16.121Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/toString": {
+    "modified": "2019-03-23T23:48:31.894Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/toUpperCase": {
+    "modified": "2019-03-23T23:48:18.924Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Diablownik",
+      "Internauta1024A",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/valueOf": {
+    "modified": "2019-03-23T23:48:27.633Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Symbol": {
+    "modified": "2020-10-15T22:02:20.124Z",
+    "contributors": [
+      "kjarmicki"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/SyntaxError": {
+    "modified": "2020-10-15T22:30:06.264Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/decodeURI": {
+    "modified": "2020-03-12T19:37:41.064Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Diablownik",
+      "Internauta1024A",
+      "Ptak82",
+      "VooEak"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/decodeURIComponent": {
+    "modified": "2020-03-12T19:37:32.361Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "VooEak"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/encodeURI": {
+    "modified": "2020-03-12T19:37:30.589Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Quest-88",
+      "Ptak82",
+      "VooEak"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/encodeURIComponent": {
+    "modified": "2020-03-12T19:37:35.220Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Quest-88",
+      "Ptak82",
+      "VooEak"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/isFinite": {
+    "modified": "2020-03-12T19:37:33.636Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Diablownik",
+      "Internauta1024A",
+      "Marcoos",
+      "Ptak82",
+      "VooEak"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/isNaN": {
+    "modified": "2020-03-12T19:37:31.060Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Marcoos",
+      "Sheppy",
+      "Ptak82",
+      "Internauta1024A",
+      "Takenbot"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/null": {
+    "modified": "2020-03-12T19:45:50.208Z",
+    "contributors": [
+      "JacobDesight"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/parseFloat": {
+    "modified": "2020-03-12T19:37:26.647Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Internauta1024A",
+      "Marcoos",
+      "Staszyna",
+      "Sheppy",
+      "Ptak82",
+      "VooEak"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/parseInt": {
+    "modified": "2020-03-12T19:37:29.845Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Marcoos",
+      "Ptak82",
+      "VooEak"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/undefined": {
+    "modified": "2020-03-12T19:37:31.553Z",
+    "contributors": [
+      "itsfaint",
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Lexical_grammar": {
+    "modified": "2019-03-23T23:46:42.565Z",
+    "contributors": [
+      "teoli",
+      "Sheppy",
+      "ElKreciko",
+      "Mgjbot",
+      "Internauta1024A",
+      "Marcoos",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators": {
+    "modified": "2020-03-12T19:36:59.316Z",
+    "contributors": [
+      "ewelinakrawczak",
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Bedi",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Comma_Operator": {
+    "modified": "2020-08-18T11:17:02.737Z",
+    "contributors": [
+      "CodyKobe",
+      "teoli",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Conditional_Operator": {
+    "modified": "2020-03-12T19:36:21.149Z",
+    "contributors": [
+      "teoli",
+      "bronek",
+      "Mgjbot",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Destructuring_assignment": {
+    "modified": "2020-12-07T05:10:17.259Z",
+    "contributors": [
+      "LukaszFormela",
+      "Saalin",
+      "danielrakoczy",
+      "kdex",
+      "grzim"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Grouping": {
+    "modified": "2020-10-15T22:13:17.987Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator": {
+    "modified": "2020-10-15T22:31:22.874Z",
+    "contributors": [
+      "brightdogs"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Object_initializer": {
+    "modified": "2020-03-12T19:44:27.454Z",
+    "contributors": [
+      "mateuszkrzak",
+      "JacobDesight",
+      "bouzlibop"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Operator_Precedence": {
+    "modified": "2020-07-11T12:40:07.488Z",
+    "contributors": [
+      "Emploxard",
+      "jangromko",
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Internauta1024A"
+    ]
+  },
   "orphaned/Web/JavaScript/Reference/Operators/Pipeline_operator": {
     "modified": "2020-10-15T22:08:04.976Z",
     "contributors": [
       "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Property_Accessors": {
+    "modified": "2020-03-12T19:36:58.666Z",
+    "contributors": [
+      "JacobDesight",
+      "teoli",
+      "ethertank",
+      "zarat",
+      "Mgjbot",
+      "Abc",
+      "Internauta1024A",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Spread_syntax": {
+    "modified": "2020-10-15T22:13:18.819Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/delete": {
+    "modified": "2020-03-12T19:37:39.689Z",
+    "contributors": [
+      "gebi",
+      "teoli",
+      "Internauta1024A",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/function": {
+    "modified": "2019-03-23T23:48:46.411Z",
+    "contributors": [
+      "Miras",
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/function*": {
+    "modified": "2020-10-15T22:17:45.458Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/in": {
+    "modified": "2019-03-23T23:45:55.097Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/new": {
+    "modified": "2020-10-26T06:11:51.853Z",
+    "contributors": [
+      "szymonb",
+      "michal100032",
+      "SphinxKnight",
+      "teoli",
+      "splewako",
+      "Mgjbot",
+      "Diablownik",
+      "Ptak82"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/new.target": {
+    "modified": "2020-03-12T19:45:06.300Z",
+    "contributors": [
+      "ssuperczynski"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/super": {
+    "modified": "2020-10-15T22:29:09.089Z",
+    "contributors": [
+      "michalmarchewczyk",
+      "jabedek"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/typeof": {
+    "modified": "2019-03-23T23:48:37.240Z",
+    "contributors": [
+      "9739654",
+      "Moniaesz",
+      "Maciej_Grycz",
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Sheppy"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/void": {
+    "modified": "2019-03-23T23:48:45.984Z",
+    "contributors": [
+      "jamOne-",
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/yield": {
+    "modified": "2020-03-12T19:45:57.099Z",
+    "contributors": [
+      "labs4apps"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/yield*": {
+    "modified": "2020-03-12T19:45:54.936Z",
+    "contributors": [
+      "108adams",
+      "labs4apps"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements": {
+    "modified": "2020-10-15T21:14:48.479Z",
+    "contributors": [
+      "SphinxKnight",
+      "teoli",
+      "splewako",
+      "Gompka",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/Empty": {
+    "modified": "2020-10-15T22:33:29.682Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/async_function": {
+    "modified": "2020-10-15T22:24:48.218Z",
+    "contributors": [
+      "drm404"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/block": {
+    "modified": "2020-10-15T21:16:48.113Z",
+    "contributors": [
+      "pawelk92",
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/break": {
+    "modified": "2019-01-16T15:52:46.901Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/class": {
+    "modified": "2020-10-15T22:23:12.456Z",
+    "contributors": [
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/const": {
+    "modified": "2019-01-16T15:50:46.419Z",
+    "contributors": [
+      "teoli",
+      "Internauta1024A",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/continue": {
+    "modified": "2020-10-15T22:21:31.132Z",
+    "contributors": [
+      "Xupi",
+      "JB1905",
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/debugger": {
+    "modified": "2020-03-12T19:46:20.726Z",
+    "contributors": [
+      "antoni"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/do...while": {
+    "modified": "2019-01-16T15:52:54.601Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/export": {
+    "modified": "2019-01-16T15:46:36.049Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Diablownik",
+      "Ptak82",
+      "Internauta1024A"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/for": {
+    "modified": "2019-01-16T15:52:32.477Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik",
+      "Kjj2"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/for...in": {
+    "modified": "2020-10-15T22:24:07.320Z",
+    "contributors": [
+      "whpac",
+      "jangromko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/function": {
+    "modified": "2019-01-16T15:52:26.032Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/function*": {
+    "modified": "2020-03-12T19:45:57.895Z",
+    "contributors": [
+      "AndrzejSala",
+      "labs4apps"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/if...else": {
+    "modified": "2019-01-16T15:55:18.475Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/import": {
+    "modified": "2019-01-16T15:46:37.420Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Diablownik",
+      "Ptak82",
+      "Internauta1024A"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/label": {
+    "modified": "2019-01-16T15:52:24.751Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/return": {
+    "modified": "2019-01-16T15:53:40.686Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/switch": {
+    "modified": "2020-10-15T21:17:02.196Z",
+    "contributors": [
+      "1MrHous1",
+      "SphinxKnight",
+      "teoli",
+      "Rokuzo",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/var": {
+    "modified": "2019-01-16T15:49:48.835Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Diablownik"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/while": {
+    "modified": "2019-03-23T23:49:29.695Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "Marcoos"
     ]
   },
   "orphaned/Web/JavaScript/Referencje/O_tym_dokumencie/Konwencje_formatowania_tekstu": {
@@ -11220,6 +11214,12 @@
       "Ptak82",
       "Mgjbot",
       "VooEak"
+    ]
+  },
+  "orphaned/Web/JavaScript/Shells": {
+    "modified": "2020-03-12T19:48:00.854Z",
+    "contributors": [
+      "PiotrMuskalski"
     ]
   },
   "orphaned/Web/Security/Information_Security_Basics": {

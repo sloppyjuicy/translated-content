@@ -6140,1621 +6140,6 @@
       "slivenred"
     ]
   },
-  "Web/JavaScript": {
-    "modified": "2020-05-24T01:05:47.129Z",
-    "contributors": [
-      "nighet",
-      "SphinxKnight",
-      "nykevinwong",
-      "xerviam",
-      "iigmir",
-      "cwlin0416",
-      "thomasaria",
-      "dolphinlin",
-      "flyinglimao",
-      "jackblackevo",
-      "mai7855",
-      "Shiyou",
-      "wildsky",
-      "teoli",
-      "steely.wing",
-      "ethertank",
-      "sycheng",
-      "sailplaneTW",
-      "linhomeyeu",
-      "happysadman",
-      "Mgjbot",
-      "BobChao",
-      "kourge"
-    ]
-  },
-  "Web/JavaScript/A_re-introduction_to_JavaScript": {
-    "modified": "2020-03-12T19:36:04.881Z",
-    "contributors": [
-      "kourge",
-      "locker_rj45",
-      "Q3Q",
-      "weihanglo",
-      "teoli",
-      "jackblackevo",
-      "TpWILovePanda",
-      "changyuheng",
-      "ArvinH",
-      "sailplaneTW",
-      "linhomeyeu",
-      "fillano",
-      "fscholz",
-      "Mgjbot",
-      "Smallwow",
-      "BobChao"
-    ]
-  },
-  "Web/JavaScript/About_JavaScript": {
-    "modified": "2020-03-12T19:35:23.761Z",
-    "contributors": [
-      "Talence0329",
-      "jackblackevo",
-      "irvinfly",
-      "teoli",
-      "ethertank",
-      "Sonrisa",
-      "sycheng"
-    ]
-  },
-  "Web/JavaScript/Closures": {
-    "modified": "2020-08-07T04:58:02.421Z",
-    "contributors": [
-      "vincent7293",
-      "shuboc",
-      "iigmir",
-      "roycrxtw",
-      "BigHeadDoggy",
-      "flyinglimao"
-    ]
-  },
-  "Web/JavaScript/Data_structures": {
-    "modified": "2020-08-01T13:14:09.974Z",
-    "contributors": [
-      "nannxnann",
-      "samzzz",
-      "iigmir",
-      "jackblackevo",
-      "eldisa"
-    ]
-  },
-  "Web/JavaScript/Enumerability_and_ownership_of_properties": {
-    "modified": "2020-03-12T19:44:21.130Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Equality_comparisons_and_sameness": {
-    "modified": "2020-03-12T19:44:59.221Z",
-    "contributors": [
-      "jsgao0",
-      "flyinglimao"
-    ]
-  },
-  "Web/JavaScript/EventLoop": {
-    "modified": "2020-03-12T19:44:52.158Z",
-    "contributors": [
-      "xuan0123",
-      "jackblackevo",
-      "roycrxtw",
-      "YuCheng",
-      "Snailpool",
-      "flyinglimao",
-      "enzoyaaaaa"
-    ]
-  },
-  "Web/JavaScript/Guide": {
-    "modified": "2020-10-12T05:01:38.453Z",
-    "contributors": [
-      "ShawnLin",
-      "nykevinwong",
-      "jackblackevo",
-      "cwlin0416",
-      "jwhitlock",
-      "teoli",
-      "sycheng"
-    ]
-  },
-  "Web/JavaScript/Guide/Control_flow_and_error_handling": {
-    "modified": "2020-03-12T19:44:28.801Z",
-    "contributors": [
-      "akccakcctw",
-      "iigmir",
-      "dews",
-      "jackblackevo",
-      "Yuki0916",
-      "jwhitlock",
-      "Kaiyeh"
-    ]
-  },
-  "Web/JavaScript/Guide/Details_of_the_Object_Model": {
-    "modified": "2020-03-12T19:38:25.366Z",
-    "contributors": [
-      "wbamberg",
-      "SphinxKnight",
-      "jwhitlock",
-      "jackblackevo",
-      "teoli",
-      "steely.wing"
-    ]
-  },
-  "Web/JavaScript/Guide/Expressions_and_Operators": {
-    "modified": "2020-10-12T06:55:01.538Z",
-    "contributors": [
-      "ShawnLin",
-      "jackblackevo",
-      "Kaiyeh"
-    ]
-  },
-  "Web/JavaScript/Guide/Functions": {
-    "modified": "2020-03-12T19:39:15.149Z",
-    "contributors": [
-      "wbamberg",
-      "jwhitlock",
-      "Kaiyeh",
-      "iigmir",
-      "jackblackevo",
-      "teoli",
-      "thomaschen"
-    ]
-  },
-  "Web/JavaScript/Guide/Grammar_and_types": {
-    "modified": "2020-05-26T04:33:48.056Z",
-    "contributors": [
-      "chumicat",
-      "King_Tzeng",
-      "YiyuWu",
-      "nykevinwong",
-      "Ruiyuan34",
-      "jackblackevo",
-      "Jenhaohsiao",
-      "KevinHuang",
-      "JianHuaHe",
-      "jwhitlock",
-      "Jack_Wu",
-      "lynn456",
-      "dodo4910",
-      "septemhill",
-      "fscholz",
-      "victor0801x",
-      "ShadowV",
-      "teoli",
-      "titan.liu"
-    ]
-  },
-  "Web/JavaScript/Guide/Indexed_collections": {
-    "modified": "2020-03-12T19:47:20.689Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Guide/Introduction": {
-    "modified": "2020-03-12T19:35:21.304Z",
-    "contributors": [
-      "wbamberg",
-      "mingyangshih",
-      "jwhitlock",
-      "jackblackevo",
-      "fscholz",
-      "irvinfly",
-      "teoli",
-      "ethertank",
-      "sycheng"
-    ]
-  },
-  "Web/JavaScript/Guide/Iterators_and_Generators": {
-    "modified": "2020-03-23T19:43:30.431Z",
-    "contributors": [
-      "hiimeimei",
-      "wanjingzhang"
-    ]
-  },
-  "Web/JavaScript/Guide/Keyed_collections": {
-    "modified": "2020-03-12T19:42:35.494Z",
-    "contributors": [
-      "jackblackevo",
-      "jwhitlock",
-      "fscholz",
-      "Shiyou"
-    ]
-  },
-  "Web/JavaScript/Guide/Loops_and_iteration": {
-    "modified": "2020-03-12T19:44:25.077Z",
-    "contributors": [
-      "MartinChang0723",
-      "jackblackevo",
-      "AmamiyaLee"
-    ]
-  },
-  "Web/JavaScript/Guide/Numbers_and_dates": {
-    "modified": "2020-08-17T03:02:46.243Z",
-    "contributors": [
-      "kenchill",
-      "UnciaX"
-    ]
-  },
-  "Web/JavaScript/Guide/Regular_Expressions": {
-    "modified": "2020-05-25T23:31:32.570Z",
-    "contributors": [
-      "LeoWangJ",
-      "oooooo",
-      "Lazine",
-      "yosia",
-      "seantw",
-      "drinktea28",
-      "joshra",
-      "jackblackevo",
-      "Jiaaa1014",
-      "jwhitlock",
-      "Kustz",
-      "pppdog",
-      "m80126colin",
-      "Shiyou",
-      "teoli",
-      "Rplus"
-    ]
-  },
-  "Web/JavaScript/Guide/Using_promises": {
-    "modified": "2020-03-12T19:47:23.033Z",
-    "contributors": [
-      "HamiltonWang",
-      "flyinglimao"
-    ]
-  },
-  "Web/JavaScript/Guide/Working_with_Objects": {
-    "modified": "2020-03-12T19:38:34.548Z",
-    "contributors": [
-      "Euphokumiko",
-      "SphinxKnight",
-      "AhQi",
-      "jwhitlock",
-      "pytseng",
-      "jackblackevo",
-      "iigmir",
-      "jigs12",
-      "YuXiangYen",
-      "teoli",
-      "steely.wing"
-    ]
-  },
-  "Web/JavaScript/Inheritance_and_the_prototype_chain": {
-    "modified": "2020-11-20T06:14:21.309Z",
-    "contributors": [
-      "tpps88206",
-      "pmc12thsuki",
-      "osk2",
-      "jackblackevo",
-      "iigmir",
-      "WellyHong",
-      "hiiamyes",
-      "Snailpool"
-    ]
-  },
-  "Web/JavaScript/JavaScript_technologies_overview": {
-    "modified": "2020-03-12T19:35:23.439Z",
-    "contributors": [
-      "jackblackevo",
-      "fscholz",
-      "irvinfly",
-      "chiayuan"
-    ]
-  },
-  "Web/JavaScript/Language_Resources": {
-    "modified": "2020-03-12T19:36:06.284Z",
-    "contributors": [
-      "jackblackevo",
-      "fscholz",
-      "irvinfly",
-      "sailplaneTW"
-    ]
-  },
-  "Web/JavaScript/Memory_Management": {
-    "modified": "2020-12-04T15:05:56.547Z",
-    "contributors": [
-      "chengr4",
-      "ballfish",
-      "mybaseball52"
-    ]
-  },
-  "Web/JavaScript/Reference": {
-    "modified": "2020-06-02T20:54:32.743Z",
-    "contributors": [
-      "laampui",
-      "cwlin0416",
-      "jackblackevo",
-      "teoli",
-      "irvinfly",
-      "tjjh89017",
-      "Zhen.Di-Lin",
-      "Norbert"
-    ]
-  },
-  "Web/JavaScript/Reference/Classes": {
-    "modified": "2020-03-12T19:42:37.772Z",
-    "contributors": [
-      "hot50773",
-      "Aries0d0f",
-      "chloewlin",
-      "roycrxtw",
-      "akccakcctw",
-      "ywchiao",
-      "fbukevin"
-    ]
-  },
-  "Web/JavaScript/Reference/Classes/constructor": {
-    "modified": "2020-07-23T05:05:44.137Z",
-    "contributors": [
-      "t7yang",
-      "iigmir"
-    ]
-  },
-  "Web/JavaScript/Reference/Classes/extends": {
-    "modified": "2020-10-15T22:06:07.272Z",
-    "contributors": [
-      "Aries0d0f"
-    ]
-  },
-  "Web/JavaScript/Reference/Classes/static": {
-    "modified": "2020-03-12T19:43:06.328Z",
-    "contributors": [
-      "alkalineW",
-      "jerrychen1013",
-      "Robert-Rino"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors": {
-    "modified": "2020-03-12T19:44:53.537Z",
-    "contributors": [
-      "iigmir"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Bad_return_or_yield": {
-    "modified": "2020-03-12T19:44:54.646Z",
-    "contributors": [
-      "iigmir"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Invalid_array_length": {
-    "modified": "2020-03-12T19:49:01.235Z",
-    "contributors": [
-      "gamerslouis"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Missing_curly_after_property_list": {
-    "modified": "2020-03-12T19:47:08.262Z",
-    "contributors": [
-      "PCLIN1103"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/No_properties": {
-    "modified": "2020-03-12T19:47:20.608Z",
-    "contributors": [
-      "iigmir"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Not_a_function": {
-    "modified": "2020-03-12T19:45:02.118Z",
-    "contributors": [
-      "iigmir"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Not_defined": {
-    "modified": "2020-03-12T19:44:53.089Z",
-    "contributors": [
-      "iigmir"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Redeclared_parameter": {
-    "modified": "2020-03-12T19:47:17.103Z",
-    "contributors": [
-      "iigmir"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Too_much_recursion": {
-    "modified": "2020-03-12T19:44:57.763Z",
-    "contributors": [
-      "iigmir"
-    ]
-  },
-  "Web/JavaScript/Reference/Errors/Unexpected_type": {
-    "modified": "2019-03-23T22:20:43.997Z",
-    "contributors": [
-      "andytwmvp",
-      "iigmir",
-      "kimi1111"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions": {
-    "modified": "2020-03-12T19:41:25.162Z",
-    "contributors": [
-      "lynn456",
-      "fscholz"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions/Arrow_functions": {
-    "modified": "2020-10-15T21:36:09.562Z",
-    "contributors": [
-      "iigmir",
-      "ShawnLin",
-      "Lazine",
-      "xuan0123",
-      "bagayollow",
-      "ctc53",
-      "kuolun",
-      "jackblackevo",
-      "freddy50806",
-      "Aisuzuka",
-      "Jaja",
-      "tonykuo",
-      "yungtah",
-      "Snailpool",
-      "wkliang",
-      "linjimmy168",
-      "foxbrush"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions/Default_parameters": {
-    "modified": "2020-10-05T03:37:47.112Z",
-    "contributors": [
-      "realspirit2017",
-      "Jackson45252",
-      "jsgao0",
-      "Snailpool"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions/Method_definitions": {
-    "modified": "2020-10-15T21:55:16.559Z",
-    "contributors": [
-      "iigmir",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions/arguments": {
-    "modified": "2020-10-15T21:14:39.550Z",
-    "contributors": [
-      "itsems",
-      "jackblackevo",
-      "akari0624",
-      "fscholz",
-      "irvinfly",
-      "teoli",
-      "happysadman"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions/arguments/callee": {
-    "modified": "2020-03-12T19:45:29.084Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions/get": {
-    "modified": "2020-10-15T22:17:05.787Z",
-    "contributors": [
-      "iigmir"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions/rest_parameters": {
-    "modified": "2020-10-15T21:56:42.865Z",
-    "contributors": [
-      "Kevin_Chen",
-      "jackblackevo",
-      "jsgao0"
-    ]
-  },
-  "Web/JavaScript/Reference/Functions/set": {
-    "modified": "2020-10-15T22:17:33.994Z",
-    "contributors": [
-      "iigmir"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects": {
-    "modified": "2020-03-12T19:38:39.590Z",
-    "contributors": [
-      "tony8382",
-      "chialin",
-      "jackblackevo",
-      "jsgao0",
-      "cwlin0416",
-      "teoli",
-      "Sheppy"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array": {
-    "modified": "2020-10-15T21:31:26.717Z",
-    "contributors": [
-      "hua-123",
-      "kyob1010",
-      "Aries0d0f",
-      "KevinHuang",
-      "k940545",
-      "jackblackevo",
-      "tswenja",
-      "kdex",
-      "petercpg",
-      "Kaiyeh",
-      "cwlin0416",
-      "oooooo",
-      "m80126colin",
-      "lizlux"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/@@iterator": {
-    "modified": "2020-10-15T22:02:20.291Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/Reduce": {
-    "modified": "2020-10-15T21:54:40.258Z",
-    "contributors": [
-      "Ashe_Li",
-      "jackblackevo",
-      "iigmir",
-      "dwatow",
-      "yozian"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/concat": {
-    "modified": "2020-10-15T21:46:28.512Z",
-    "contributors": [
-      "jackblackevo",
-      "tericky"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/copyWithin": {
-    "modified": "2020-10-15T22:01:15.329Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/entries": {
-    "modified": "2020-10-15T21:47:10.197Z",
-    "contributors": [
-      "jackblackevo",
-      "tericky"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/every": {
-    "modified": "2020-10-15T21:56:41.781Z",
-    "contributors": [
-      "jackblackevo",
-      "AkanishiChi",
-      "jsgao0"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/fill": {
-    "modified": "2020-10-15T21:56:41.165Z",
-    "contributors": [
-      "jackblackevo",
-      "jsgao0"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/filter": {
-    "modified": "2020-10-15T21:38:35.707Z",
-    "contributors": [
-      "Jenhaohsiao",
-      "jackblackevo",
-      "iigmir",
-      "jsgao0",
-      "alk03073135"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/find": {
-    "modified": "2020-10-15T21:42:27.701Z",
-    "contributors": [
-      "jackblackevo",
-      "iigmir",
-      "ALiangLiang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/findIndex": {
-    "modified": "2020-10-15T21:51:49.109Z",
-    "contributors": [
-      "jackblackevo",
-      "tooto1985",
-      "auver",
-      "Snailpool"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/flat": {
-    "modified": "2020-10-15T22:11:38.333Z",
-    "contributors": [
-      "SageX",
-      "Euphokumiko"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/forEach": {
-    "modified": "2020-10-15T21:46:18.574Z",
-    "contributors": [
-      "jackblackevo",
-      "iigmir",
-      "wangqimeng",
-      "nt46",
-      "akari0624"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/from": {
-    "modified": "2020-10-15T21:52:49.849Z",
-    "contributors": [
-      "qwer5656",
-      "jackblackevo",
-      "petercpg",
-      "tericky"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/includes": {
-    "modified": "2020-10-15T22:02:19.463Z",
-    "contributors": [
-      "SiderealArt",
-      "sonelin09",
-      "xuan311",
-      "vaynewang",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/indexOf": {
-    "modified": "2020-10-15T21:56:48.783Z",
-    "contributors": [
-      "jackblackevo",
-      "jsgao0"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/isArray": {
-    "modified": "2020-10-15T21:34:45.216Z",
-    "contributors": [
-      "jackblackevo",
-      "tericky",
-      "m80126colin",
-      "JamesWen",
-      "onlinemad"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/join": {
-    "modified": "2020-10-15T21:47:08.883Z",
-    "contributors": [
-      "jackblackevo",
-      "iigmir",
-      "JamesWen"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/keys": {
-    "modified": "2020-10-15T22:02:18.808Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/lastIndexOf": {
-    "modified": "2020-10-15T22:02:16.799Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/length": {
-    "modified": "2020-10-15T21:58:21.627Z",
-    "contributors": [
-      "tericky",
-      "yenchenglai0618",
-      "mybaseball52"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/map": {
-    "modified": "2020-10-15T21:53:08.025Z",
-    "contributors": [
-      "iigmir",
-      "jackblackevo",
-      "jWorker",
-      "akari0624"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/of": {
-    "modified": "2020-10-15T22:01:03.622Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/pop": {
-    "modified": "2020-10-15T21:56:21.800Z",
-    "contributors": [
-      "jackblackevo",
-      "yvonne6344"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/push": {
-    "modified": "2020-10-15T21:42:28.441Z",
-    "contributors": [
-      "jackblackevo",
-      "yvonne6344",
-      "iigmir",
-      "ALiangLiang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/reverse": {
-    "modified": "2020-10-15T21:31:21.385Z",
-    "contributors": [
-      "jackblackevo",
-      "CYBAI"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/shift": {
-    "modified": "2020-10-15T21:50:12.873Z",
-    "contributors": [
-      "jackblackevo",
-      "marktwtn"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/slice": {
-    "modified": "2020-10-15T22:00:48.969Z",
-    "contributors": [
-      "rosa",
-      "pig3629",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/some": {
-    "modified": "2020-10-15T22:02:17.128Z",
-    "contributors": [
-      "iigmir",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/sort": {
-    "modified": "2020-10-15T21:31:18.682Z",
-    "contributors": [
-      "jackblackevo",
-      "CYBAI"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/splice": {
-    "modified": "2020-10-15T21:56:28.206Z",
-    "contributors": [
-      "jackblackevo",
-      "jsgao0",
-      "Mars-Hung"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/unshift": {
-    "modified": "2020-10-15T21:50:29.110Z",
-    "contributors": [
-      "jsgao0",
-      "jackblackevo",
-      "roycrxtw",
-      "marktwtn"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Array/values": {
-    "modified": "2020-10-15T22:02:17.406Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/ArrayBuffer": {
-    "modified": "2019-03-24T00:11:11.336Z",
-    "contributors": [
-      "jackblackevo",
-      "teoli",
-      "Kennyluck"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/AsyncFunction": {
-    "modified": "2020-10-15T22:18:02.118Z",
-    "contributors": [
-      "gamerslouis"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/BigInt": {
-    "modified": "2020-10-15T22:17:57.888Z",
-    "contributors": [
-      "hmysjiang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Boolean": {
-    "modified": "2019-03-23T22:06:45.293Z",
-    "contributors": [
-      "jsgao0"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/DataView": {
-    "modified": "2019-03-23T22:31:20.723Z",
-    "contributors": [
-      "edu1218",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date": {
-    "modified": "2019-03-23T22:26:48.329Z",
-    "contributors": [
-      "NoobTW",
-      "ddtet"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/UTC": {
-    "modified": "2019-03-23T22:26:04.734Z",
-    "contributors": [
-      "ddtet"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/getDay": {
-    "modified": "2020-10-15T22:34:16.631Z",
-    "contributors": [
-      "manny3"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Date/now": {
-    "modified": "2019-03-23T22:26:18.288Z",
-    "contributors": [
-      "ddtet"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Error": {
-    "modified": "2019-03-23T22:30:39.821Z",
-    "contributors": [
-      "jsgao0",
-      "jackblackevo",
-      "josephmcasey"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Error/columnNumber": {
-    "modified": "2019-03-23T22:30:40.645Z",
-    "contributors": [
-      "teoli",
-      "jerrychen1013"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Function": {
-    "modified": "2019-03-23T23:25:10.636Z",
-    "contributors": [
-      "Calvin-Huang",
-      "jackblackevo",
-      "teoli",
-      "Bergi"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Function/apply": {
-    "modified": "2020-04-16T06:07:17.467Z",
-    "contributors": [
-      "jacko1114",
-      "ayuha406645",
-      "Snailpool"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Function/bind": {
-    "modified": "2019-03-23T22:07:11.766Z",
-    "contributors": [
-      "storyh66224",
-      "iigmir",
-      "nyngwang",
-      "aaaOOttOOaaa"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Function/call": {
-    "modified": "2019-03-23T23:25:00.404Z",
-    "contributors": [
-      "jackblackevo",
-      "teoli",
-      "Zhen.Di-Lin"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Function/length": {
-    "modified": "2019-03-23T22:39:23.276Z",
-    "contributors": [
-      "CYBAI",
-      "lessmind"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Infinity": {
-    "modified": "2020-10-15T21:47:39.391Z",
-    "contributors": [
-      "iigmir",
-      "tooto1985",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/JSON": {
-    "modified": "2020-10-15T21:48:40.820Z",
-    "contributors": [
-      "rolflo",
-      "iigmir",
-      "Ende93"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/JSON/parse": {
-    "modified": "2020-04-17T04:18:46.439Z",
-    "contributors": [
-      "jacko1114",
-      "bigbitesaint",
-      "matthung0807",
-      "iigmir",
-      "kuolun"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/JSON/stringify": {
-    "modified": "2020-10-15T22:00:16.083Z",
-    "contributors": [
-      "gyau97",
-      "SolomonKang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math": {
-    "modified": "2020-10-15T21:38:29.906Z",
-    "contributors": [
-      "hmysjiang",
-      "jackblackevo",
-      "fscholz"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/abs": {
-    "modified": "2020-10-15T22:02:08.344Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/ceil": {
-    "modified": "2020-10-15T22:02:07.035Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/floor": {
-    "modified": "2020-10-15T22:02:06.863Z",
-    "contributors": [
-      "ted31013",
-      "chochinlu",
-      "Hagen",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/max": {
-    "modified": "2020-10-15T22:03:35.771Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/pow": {
-    "modified": "2020-10-21T10:01:06.689Z",
-    "contributors": [
-      "SvampK",
-      "iigmir"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/random": {
-    "modified": "2020-10-17T07:58:50.159Z",
-    "contributors": [
-      "RocketSH"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Math/round": {
-    "modified": "2019-03-23T22:48:34.807Z",
-    "contributors": [
-      "alk03073135"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/NaN": {
-    "modified": "2020-10-15T21:47:39.178Z",
-    "contributors": [
-      "iigmir",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number": {
-    "modified": "2019-03-23T22:28:21.747Z",
-    "contributors": [
-      "jsgao0",
-      "sha1337"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/isFinite": {
-    "modified": "2020-10-15T22:03:26.099Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/isNaN": {
-    "modified": "2020-10-15T22:14:14.999Z",
-    "contributors": [
-      "xguang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/toExponential": {
-    "modified": "2019-03-23T22:28:18.890Z",
-    "contributors": [
-      "jsgao0",
-      "Shiyou"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Number/toFixed": {
-    "modified": "2020-11-18T05:27:56.696Z",
-    "contributors": [
-      "Johnnychun",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object": {
-    "modified": "2020-08-22T05:49:39.644Z",
-    "contributors": [
-      "+ono+",
-      "kuolun",
-      "jackblackevo",
-      "fscholz"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/assign": {
-    "modified": "2020-10-15T21:51:19.104Z",
-    "contributors": [
-      "manny3",
-      "lmr3796",
-      "mitivic",
-      "BruceLi",
-      "septemhill",
-      "jsgao0"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/create": {
-    "modified": "2019-03-23T22:30:34.696Z",
-    "contributors": [
-      "yuugou727",
-      "septemhill",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/defineProperties": {
-    "modified": "2019-03-23T22:18:00.161Z",
-    "contributors": [
-      "septemhill"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/defineProperty": {
-    "modified": "2020-10-15T21:52:17.805Z",
-    "contributors": [
-      "iigmir",
-      "PeterTing",
-      "btooom",
-      "jsgao0",
-      "septemhill"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/freeze": {
-    "modified": "2020-10-15T22:00:25.623Z",
-    "contributors": [
-      "leowu"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf": {
-    "modified": "2019-03-23T22:44:35.153Z",
-    "contributors": [
-      "Shiyou",
-      "alk03073135"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty": {
-    "modified": "2019-03-23T22:48:25.371Z",
-    "contributors": [
-      "Shiyou",
-      "alk03073135"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/keys": {
-    "modified": "2019-03-23T22:30:46.813Z",
-    "contributors": [
-      "yuugou727",
-      "roycrxtw",
-      "kdex",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/preventExtensions": {
-    "modified": "2019-03-23T22:39:57.504Z",
-    "contributors": [
-      "ALiangLiang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Object/proto": {
-    "modified": "2020-10-15T22:00:26.656Z",
-    "contributors": [
-      "leowu"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Promise": {
-    "modified": "2020-10-15T21:50:59.376Z",
-    "contributors": [
-      "iigmir",
-      "nyngwang",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Promise/all": {
-    "modified": "2020-10-15T21:51:02.408Z",
-    "contributors": [
-      "nyngwang",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Promise/catch": {
-    "modified": "2020-10-15T21:51:02.070Z",
-    "contributors": [
-      "nyngwang",
-      "Calvin-Huang",
-      "liuderchi",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Promise/finally": {
-    "modified": "2020-10-15T22:08:07.469Z",
-    "contributors": [
-      "t7yang",
-      "l13013312333"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Promise/race": {
-    "modified": "2020-10-15T21:51:03.822Z",
-    "contributors": [
-      "james58899",
-      "nyngwang",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Promise/reject": {
-    "modified": "2020-10-15T21:56:03.979Z",
-    "contributors": [
-      "nyngwang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Promise/resolve": {
-    "modified": "2020-10-15T21:56:02.943Z",
-    "contributors": [
-      "nyngwang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Promise/then": {
-    "modified": "2020-10-15T21:51:00.608Z",
-    "contributors": [
-      "nyngwang",
-      "jackblackevo",
-      "liuderchi"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Proxy": {
-    "modified": "2020-10-15T21:54:48.783Z",
-    "contributors": [
-      "aChinKaiWu",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/RangeError": {
-    "modified": "2020-10-15T22:17:59.783Z",
-    "contributors": [
-      "hmysjiang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Reflect": {
-    "modified": "2019-03-23T22:11:01.546Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/RegExp": {
-    "modified": "2020-10-15T22:28:47.846Z",
-    "contributors": [
-      "政衛"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Set": {
-    "modified": "2020-10-15T22:04:11.196Z",
-    "contributors": [
-      "manny3",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Set/add": {
-    "modified": "2020-10-15T22:17:57.665Z",
-    "contributors": [
-      "hmysjiang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Set/clear": {
-    "modified": "2020-10-15T22:17:57.573Z",
-    "contributors": [
-      "hmysjiang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Set/delete": {
-    "modified": "2020-10-15T22:17:57.330Z",
-    "contributors": [
-      "hmysjiang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Set/entries": {
-    "modified": "2020-10-15T22:17:57.657Z",
-    "contributors": [
-      "hmysjiang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Set/has": {
-    "modified": "2020-10-15T22:17:58.294Z",
-    "contributors": [
-      "hmysjiang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/Set/values": {
-    "modified": "2020-10-15T22:18:02.187Z",
-    "contributors": [
-      "hmysjiang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String": {
-    "modified": "2020-10-15T21:28:07.530Z",
-    "contributors": [
-      "wbamberg",
-      "jackblackevo",
-      "jsgao0",
-      "iigmir",
-      "teoli",
-      "fscholz"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/match": {
-    "modified": "2020-10-15T22:05:42.504Z",
-    "contributors": [
-      "YF-Tung",
-      "joshra"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/padStart": {
-    "modified": "2019-03-23T22:19:32.101Z",
-    "contributors": [
-      "teoli",
-      "lychee.tw"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/replace": {
-    "modified": "2020-10-15T21:28:07.269Z",
-    "contributors": [
-      "oooooo",
-      "joshra",
-      "imrobinized",
-      "iigmir",
-      "jackblackevo",
-      "teoli",
-      "shyangs"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/String/toLowerCase": {
-    "modified": "2020-10-15T22:21:28.664Z",
-    "contributors": [
-      "goden.cheng"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/TypedArray": {
-    "modified": "2020-10-15T21:47:14.859Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/URIError": {
-    "modified": "2020-10-15T22:17:56.619Z",
-    "contributors": [
-      "hmysjiang"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/isNaN": {
-    "modified": "2020-10-15T21:51:29.113Z",
-    "contributors": [
-      "bluetata",
-      "iigmir"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/null": {
-    "modified": "2020-03-12T19:44:24.320Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/parseInt": {
-    "modified": "2020-10-15T21:48:43.179Z",
-    "contributors": [
-      "kcliu",
-      "DaiYaXu",
-      "iigmir",
-      "Shiyou"
-    ]
-  },
-  "Web/JavaScript/Reference/Global_Objects/undefined": {
-    "modified": "2020-10-15T21:47:42.561Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Iteration_protocols": {
-    "modified": "2020-03-12T19:45:00.332Z",
-    "contributors": [
-      "jackblackevo",
-      "nyngwang"
-    ]
-  },
-  "Web/JavaScript/Reference/Lexical_grammar": {
-    "modified": "2020-10-15T22:00:27.351Z",
-    "contributors": [
-      "leowu"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators": {
-    "modified": "2020-03-12T19:38:35.397Z",
-    "contributors": [
-      "jackblackevo",
-      "cwlin0416",
-      "iigmir",
-      "teoli",
-      "Zhen.Di-Lin",
-      "ethertank"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Comma_Operator": {
-    "modified": "2020-03-12T19:45:21.494Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Conditional_Operator": {
-    "modified": "2020-10-15T22:29:30.361Z",
-    "contributors": [
-      "liaocCM"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Destructuring_assignment": {
-    "modified": "2020-10-15T21:51:08.444Z",
-    "contributors": [
-      "DexterLeung",
-      "salagadoola",
-      "iigmir",
-      "jsgao0",
-      "jackblackevo",
-      "flyinglimao"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Object_initializer": {
-    "modified": "2020-03-12T19:46:20.319Z",
-    "contributors": [
-      "cyanchu",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Operator_Precedence": {
-    "modified": "2020-03-12T19:45:00.937Z",
-    "contributors": [
-      "KateWuSH",
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Optional_chaining": {
-    "modified": "2020-10-15T22:28:31.905Z",
-    "contributors": [
-      "DexterLeung"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/Spread_syntax": {
-    "modified": "2020-10-15T22:33:09.945Z",
-    "contributors": [
-      "neko12377",
-      "kenchill"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/async_function": {
-    "modified": "2020-10-15T22:12:38.986Z",
-    "contributors": [
-      "extend1994"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/await": {
-    "modified": "2020-03-12T19:45:41.284Z",
-    "contributors": [
-      "kuolun",
-      "liuderchi",
-      "roycrxtw"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/super": {
-    "modified": "2020-10-15T22:23:09.531Z",
-    "contributors": [
-      "YunHan-Tsai"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/this": {
-    "modified": "2020-10-15T21:48:46.137Z",
-    "contributors": [
-      "iigmir",
-      "Rocker",
-      "chloewlin"
-    ]
-  },
-  "Web/JavaScript/Reference/Operators/typeof": {
-    "modified": "2020-03-12T19:38:23.416Z",
-    "contributors": [
-      "roycrxtw",
-      "jackblackevo",
-      "teoli",
-      "Johnny.Net"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements": {
-    "modified": "2020-10-15T21:22:18.510Z",
-    "contributors": [
-      "simba-fs",
-      "Ethan.Lin",
-      "jackblackevo",
-      "stdio2017",
-      "cwlin0416",
-      "teoli",
-      "trevorh"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/async_function": {
-    "modified": "2020-10-15T21:53:37.954Z",
-    "contributors": [
-      "kevin10410",
-      "iigmir",
-      "weihanglo",
-      "liuderchi"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/block": {
-    "modified": "2020-03-12T19:38:43.767Z",
-    "contributors": [
-      "lin1987www",
-      "jackblackevo",
-      "teoli",
-      "irvinfly",
-      "tjjh89017"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/break": {
-    "modified": "2020-10-15T21:25:32.531Z",
-    "contributors": [
-      "jackblackevo",
-      "teoli",
-      "Littlebtc",
-      "tjjh89017"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/const": {
-    "modified": "2020-10-15T21:58:04.721Z",
-    "contributors": [
-      "iigmir",
-      "KevinHuang"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/debugger": {
-    "modified": "2020-10-15T22:00:23.902Z",
-    "contributors": [
-      "iigmir"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/export": {
-    "modified": "2020-10-15T21:54:04.868Z",
-    "contributors": [
-      "wangchou",
-      "iigmir",
-      "DalaneGarmin",
-      "MOSapeizer"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/for...in": {
-    "modified": "2020-03-12T19:39:20.179Z",
-    "contributors": [
-      "jackblackevo",
-      "teoli",
-      "shyangs"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/function*": {
-    "modified": "2020-10-15T21:45:50.090Z",
-    "contributors": [
-      "iendeavor",
-      "jackblackevo",
-      "DaomingC",
-      "kdex",
-      "ALiangLiang",
-      "tom76kimo"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/if...else": {
-    "modified": "2020-12-06T07:23:20.735Z",
-    "contributors": [
-      "rei1997",
-      "paiyuliu",
-      "jackblackevo",
-      "willynpi"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/import": {
-    "modified": "2020-10-15T21:53:11.297Z",
-    "contributors": [
-      "iigmir",
-      "freddy50806",
-      "pololin",
-      "kweisamx",
-      "RichCharlie",
-      "DuckBreeder"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/label": {
-    "modified": "2020-10-15T22:15:49.920Z",
-    "contributors": [
-      "willh"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/let": {
-    "modified": "2020-10-15T21:45:04.003Z",
-    "contributors": [
-      "ShawnLin",
-      "Zhang-Junzhi",
-      "iigmir",
-      "zxa011023",
-      "YamiOdymel",
-      "ALiangLiang"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/return": {
-    "modified": "2020-10-15T22:02:41.359Z",
-    "contributors": [
-      "iigmir"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/switch": {
-    "modified": "2020-10-15T22:25:04.906Z",
-    "contributors": [
-      "iigmir",
-      "Lazine"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/throw": {
-    "modified": "2020-03-12T19:45:24.946Z",
-    "contributors": [
-      "jackblackevo"
-    ]
-  },
-  "Web/JavaScript/Reference/Statements/var": {
-    "modified": "2020-03-12T19:38:31.590Z",
-    "contributors": [
-      "jackblackevo",
-      "teoli",
-      "Johnny.Net"
-    ]
-  },
-  "Web/JavaScript/Reference/Strict_mode": {
-    "modified": "2020-03-12T19:46:40.566Z",
-    "contributors": [
-      "WellyHong",
-      "Aries0d0f",
-      "DarkNami",
-      "MOSapeizer"
-    ]
-  },
-  "Web/JavaScript/Reference/Template_literals": {
-    "modified": "2020-10-15T21:53:17.228Z",
-    "contributors": [
-      "jackblackevo",
-      "xsfishxs"
-    ]
-  },
-  "Web/JavaScript/Shells": {
-    "modified": "2020-03-12T19:45:29.748Z",
-    "contributors": [
-      "JianHuaHe"
-    ]
-  },
-  "Web/JavaScript/Typed_arrays": {
-    "modified": "2020-03-12T19:36:15.816Z",
-    "contributors": [
-      "ballfish",
-      "jackblackevo",
-      "roycrxtw",
-      "teoli",
-      "Kennyluck"
-    ]
-  },
   "Web/Manifest": {
     "modified": "2020-11-18T03:32:37.890Z",
     "contributors": [
@@ -8749,6 +7134,326 @@
       "kwanjaiOP"
     ]
   },
+  "orphaned/Web/JavaScript": {
+    "modified": "2020-05-24T01:05:47.129Z",
+    "contributors": [
+      "nighet",
+      "SphinxKnight",
+      "nykevinwong",
+      "xerviam",
+      "iigmir",
+      "cwlin0416",
+      "thomasaria",
+      "dolphinlin",
+      "flyinglimao",
+      "jackblackevo",
+      "mai7855",
+      "Shiyou",
+      "wildsky",
+      "teoli",
+      "steely.wing",
+      "ethertank",
+      "sycheng",
+      "sailplaneTW",
+      "linhomeyeu",
+      "happysadman",
+      "Mgjbot",
+      "BobChao",
+      "kourge"
+    ]
+  },
+  "orphaned/Web/JavaScript/A_re-introduction_to_JavaScript": {
+    "modified": "2020-03-12T19:36:04.881Z",
+    "contributors": [
+      "kourge",
+      "locker_rj45",
+      "Q3Q",
+      "weihanglo",
+      "teoli",
+      "jackblackevo",
+      "TpWILovePanda",
+      "changyuheng",
+      "ArvinH",
+      "sailplaneTW",
+      "linhomeyeu",
+      "fillano",
+      "fscholz",
+      "Mgjbot",
+      "Smallwow",
+      "BobChao"
+    ]
+  },
+  "orphaned/Web/JavaScript/About_JavaScript": {
+    "modified": "2020-03-12T19:35:23.761Z",
+    "contributors": [
+      "Talence0329",
+      "jackblackevo",
+      "irvinfly",
+      "teoli",
+      "ethertank",
+      "Sonrisa",
+      "sycheng"
+    ]
+  },
+  "orphaned/Web/JavaScript/Closures": {
+    "modified": "2020-08-07T04:58:02.421Z",
+    "contributors": [
+      "vincent7293",
+      "shuboc",
+      "iigmir",
+      "roycrxtw",
+      "BigHeadDoggy",
+      "flyinglimao"
+    ]
+  },
+  "orphaned/Web/JavaScript/Data_structures": {
+    "modified": "2020-08-01T13:14:09.974Z",
+    "contributors": [
+      "nannxnann",
+      "samzzz",
+      "iigmir",
+      "jackblackevo",
+      "eldisa"
+    ]
+  },
+  "orphaned/Web/JavaScript/Enumerability_and_ownership_of_properties": {
+    "modified": "2020-03-12T19:44:21.130Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Equality_comparisons_and_sameness": {
+    "modified": "2020-03-12T19:44:59.221Z",
+    "contributors": [
+      "jsgao0",
+      "flyinglimao"
+    ]
+  },
+  "orphaned/Web/JavaScript/EventLoop": {
+    "modified": "2020-03-12T19:44:52.158Z",
+    "contributors": [
+      "xuan0123",
+      "jackblackevo",
+      "roycrxtw",
+      "YuCheng",
+      "Snailpool",
+      "flyinglimao",
+      "enzoyaaaaa"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide": {
+    "modified": "2020-10-12T05:01:38.453Z",
+    "contributors": [
+      "ShawnLin",
+      "nykevinwong",
+      "jackblackevo",
+      "cwlin0416",
+      "jwhitlock",
+      "teoli",
+      "sycheng"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Control_flow_and_error_handling": {
+    "modified": "2020-03-12T19:44:28.801Z",
+    "contributors": [
+      "akccakcctw",
+      "iigmir",
+      "dews",
+      "jackblackevo",
+      "Yuki0916",
+      "jwhitlock",
+      "Kaiyeh"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Details_of_the_Object_Model": {
+    "modified": "2020-03-12T19:38:25.366Z",
+    "contributors": [
+      "wbamberg",
+      "SphinxKnight",
+      "jwhitlock",
+      "jackblackevo",
+      "teoli",
+      "steely.wing"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Expressions_and_Operators": {
+    "modified": "2020-10-12T06:55:01.538Z",
+    "contributors": [
+      "ShawnLin",
+      "jackblackevo",
+      "Kaiyeh"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Functions": {
+    "modified": "2020-03-12T19:39:15.149Z",
+    "contributors": [
+      "wbamberg",
+      "jwhitlock",
+      "Kaiyeh",
+      "iigmir",
+      "jackblackevo",
+      "teoli",
+      "thomaschen"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Grammar_and_types": {
+    "modified": "2020-05-26T04:33:48.056Z",
+    "contributors": [
+      "chumicat",
+      "King_Tzeng",
+      "YiyuWu",
+      "nykevinwong",
+      "Ruiyuan34",
+      "jackblackevo",
+      "Jenhaohsiao",
+      "KevinHuang",
+      "JianHuaHe",
+      "jwhitlock",
+      "Jack_Wu",
+      "lynn456",
+      "dodo4910",
+      "septemhill",
+      "fscholz",
+      "victor0801x",
+      "ShadowV",
+      "teoli",
+      "titan.liu"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Indexed_collections": {
+    "modified": "2020-03-12T19:47:20.689Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Introduction": {
+    "modified": "2020-03-12T19:35:21.304Z",
+    "contributors": [
+      "wbamberg",
+      "mingyangshih",
+      "jwhitlock",
+      "jackblackevo",
+      "fscholz",
+      "irvinfly",
+      "teoli",
+      "ethertank",
+      "sycheng"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Iterators_and_Generators": {
+    "modified": "2020-03-23T19:43:30.431Z",
+    "contributors": [
+      "hiimeimei",
+      "wanjingzhang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Keyed_collections": {
+    "modified": "2020-03-12T19:42:35.494Z",
+    "contributors": [
+      "jackblackevo",
+      "jwhitlock",
+      "fscholz",
+      "Shiyou"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Loops_and_iteration": {
+    "modified": "2020-03-12T19:44:25.077Z",
+    "contributors": [
+      "MartinChang0723",
+      "jackblackevo",
+      "AmamiyaLee"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Numbers_and_dates": {
+    "modified": "2020-08-17T03:02:46.243Z",
+    "contributors": [
+      "kenchill",
+      "UnciaX"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Regular_Expressions": {
+    "modified": "2020-05-25T23:31:32.570Z",
+    "contributors": [
+      "LeoWangJ",
+      "oooooo",
+      "Lazine",
+      "yosia",
+      "seantw",
+      "drinktea28",
+      "joshra",
+      "jackblackevo",
+      "Jiaaa1014",
+      "jwhitlock",
+      "Kustz",
+      "pppdog",
+      "m80126colin",
+      "Shiyou",
+      "teoli",
+      "Rplus"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Using_promises": {
+    "modified": "2020-03-12T19:47:23.033Z",
+    "contributors": [
+      "HamiltonWang",
+      "flyinglimao"
+    ]
+  },
+  "orphaned/Web/JavaScript/Guide/Working_with_Objects": {
+    "modified": "2020-03-12T19:38:34.548Z",
+    "contributors": [
+      "Euphokumiko",
+      "SphinxKnight",
+      "AhQi",
+      "jwhitlock",
+      "pytseng",
+      "jackblackevo",
+      "iigmir",
+      "jigs12",
+      "YuXiangYen",
+      "teoli",
+      "steely.wing"
+    ]
+  },
+  "orphaned/Web/JavaScript/Inheritance_and_the_prototype_chain": {
+    "modified": "2020-11-20T06:14:21.309Z",
+    "contributors": [
+      "tpps88206",
+      "pmc12thsuki",
+      "osk2",
+      "jackblackevo",
+      "iigmir",
+      "WellyHong",
+      "hiiamyes",
+      "Snailpool"
+    ]
+  },
+  "orphaned/Web/JavaScript/JavaScript_technologies_overview": {
+    "modified": "2020-03-12T19:35:23.439Z",
+    "contributors": [
+      "jackblackevo",
+      "fscholz",
+      "irvinfly",
+      "chiayuan"
+    ]
+  },
+  "orphaned/Web/JavaScript/Language_Resources": {
+    "modified": "2020-03-12T19:36:06.284Z",
+    "contributors": [
+      "jackblackevo",
+      "fscholz",
+      "irvinfly",
+      "sailplaneTW"
+    ]
+  },
+  "orphaned/Web/JavaScript/Memory_Management": {
+    "modified": "2020-12-04T15:05:56.547Z",
+    "contributors": [
+      "chengr4",
+      "ballfish",
+      "mybaseball52"
+    ]
+  },
   "orphaned/Web/JavaScript/Obsolete_Pages/Obsolete_Pages/Obsolete_Pages/JavaScript_概要": {
     "modified": "2019-01-16T14:44:37.660Z",
     "contributors": [
@@ -9074,6 +7779,624 @@
       "happysadman"
     ]
   },
+  "orphaned/Web/JavaScript/Reference": {
+    "modified": "2020-06-02T20:54:32.743Z",
+    "contributors": [
+      "laampui",
+      "cwlin0416",
+      "jackblackevo",
+      "teoli",
+      "irvinfly",
+      "tjjh89017",
+      "Zhen.Di-Lin",
+      "Norbert"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Classes": {
+    "modified": "2020-03-12T19:42:37.772Z",
+    "contributors": [
+      "hot50773",
+      "Aries0d0f",
+      "chloewlin",
+      "roycrxtw",
+      "akccakcctw",
+      "ywchiao",
+      "fbukevin"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Classes/constructor": {
+    "modified": "2020-07-23T05:05:44.137Z",
+    "contributors": [
+      "t7yang",
+      "iigmir"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Classes/extends": {
+    "modified": "2020-10-15T22:06:07.272Z",
+    "contributors": [
+      "Aries0d0f"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Classes/static": {
+    "modified": "2020-03-12T19:43:06.328Z",
+    "contributors": [
+      "alkalineW",
+      "jerrychen1013",
+      "Robert-Rino"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors": {
+    "modified": "2020-03-12T19:44:53.537Z",
+    "contributors": [
+      "iigmir"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Bad_return_or_yield": {
+    "modified": "2020-03-12T19:44:54.646Z",
+    "contributors": [
+      "iigmir"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Invalid_array_length": {
+    "modified": "2020-03-12T19:49:01.235Z",
+    "contributors": [
+      "gamerslouis"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Missing_curly_after_property_list": {
+    "modified": "2020-03-12T19:47:08.262Z",
+    "contributors": [
+      "PCLIN1103"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/No_properties": {
+    "modified": "2020-03-12T19:47:20.608Z",
+    "contributors": [
+      "iigmir"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Not_a_function": {
+    "modified": "2020-03-12T19:45:02.118Z",
+    "contributors": [
+      "iigmir"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Not_defined": {
+    "modified": "2020-03-12T19:44:53.089Z",
+    "contributors": [
+      "iigmir"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Redeclared_parameter": {
+    "modified": "2020-03-12T19:47:17.103Z",
+    "contributors": [
+      "iigmir"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Too_much_recursion": {
+    "modified": "2020-03-12T19:44:57.763Z",
+    "contributors": [
+      "iigmir"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Errors/Unexpected_type": {
+    "modified": "2019-03-23T22:20:43.997Z",
+    "contributors": [
+      "andytwmvp",
+      "iigmir",
+      "kimi1111"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions": {
+    "modified": "2020-03-12T19:41:25.162Z",
+    "contributors": [
+      "lynn456",
+      "fscholz"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions/Arrow_functions": {
+    "modified": "2020-10-15T21:36:09.562Z",
+    "contributors": [
+      "iigmir",
+      "ShawnLin",
+      "Lazine",
+      "xuan0123",
+      "bagayollow",
+      "ctc53",
+      "kuolun",
+      "jackblackevo",
+      "freddy50806",
+      "Aisuzuka",
+      "Jaja",
+      "tonykuo",
+      "yungtah",
+      "Snailpool",
+      "wkliang",
+      "linjimmy168",
+      "foxbrush"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions/Default_parameters": {
+    "modified": "2020-10-05T03:37:47.112Z",
+    "contributors": [
+      "realspirit2017",
+      "Jackson45252",
+      "jsgao0",
+      "Snailpool"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions/Method_definitions": {
+    "modified": "2020-10-15T21:55:16.559Z",
+    "contributors": [
+      "iigmir",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions/arguments": {
+    "modified": "2020-10-15T21:14:39.550Z",
+    "contributors": [
+      "itsems",
+      "jackblackevo",
+      "akari0624",
+      "fscholz",
+      "irvinfly",
+      "teoli",
+      "happysadman"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions/arguments/callee": {
+    "modified": "2020-03-12T19:45:29.084Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions/get": {
+    "modified": "2020-10-15T22:17:05.787Z",
+    "contributors": [
+      "iigmir"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions/rest_parameters": {
+    "modified": "2020-10-15T21:56:42.865Z",
+    "contributors": [
+      "Kevin_Chen",
+      "jackblackevo",
+      "jsgao0"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Functions/set": {
+    "modified": "2020-10-15T22:17:33.994Z",
+    "contributors": [
+      "iigmir"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects": {
+    "modified": "2020-03-12T19:38:39.590Z",
+    "contributors": [
+      "tony8382",
+      "chialin",
+      "jackblackevo",
+      "jsgao0",
+      "cwlin0416",
+      "teoli",
+      "Sheppy"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array": {
+    "modified": "2020-10-15T21:31:26.717Z",
+    "contributors": [
+      "hua-123",
+      "kyob1010",
+      "Aries0d0f",
+      "KevinHuang",
+      "k940545",
+      "jackblackevo",
+      "tswenja",
+      "kdex",
+      "petercpg",
+      "Kaiyeh",
+      "cwlin0416",
+      "oooooo",
+      "m80126colin",
+      "lizlux"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/@@iterator": {
+    "modified": "2020-10-15T22:02:20.291Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/Reduce": {
+    "modified": "2020-10-15T21:54:40.258Z",
+    "contributors": [
+      "Ashe_Li",
+      "jackblackevo",
+      "iigmir",
+      "dwatow",
+      "yozian"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/concat": {
+    "modified": "2020-10-15T21:46:28.512Z",
+    "contributors": [
+      "jackblackevo",
+      "tericky"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/copyWithin": {
+    "modified": "2020-10-15T22:01:15.329Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/entries": {
+    "modified": "2020-10-15T21:47:10.197Z",
+    "contributors": [
+      "jackblackevo",
+      "tericky"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/every": {
+    "modified": "2020-10-15T21:56:41.781Z",
+    "contributors": [
+      "jackblackevo",
+      "AkanishiChi",
+      "jsgao0"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/fill": {
+    "modified": "2020-10-15T21:56:41.165Z",
+    "contributors": [
+      "jackblackevo",
+      "jsgao0"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/filter": {
+    "modified": "2020-10-15T21:38:35.707Z",
+    "contributors": [
+      "Jenhaohsiao",
+      "jackblackevo",
+      "iigmir",
+      "jsgao0",
+      "alk03073135"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/find": {
+    "modified": "2020-10-15T21:42:27.701Z",
+    "contributors": [
+      "jackblackevo",
+      "iigmir",
+      "ALiangLiang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/findIndex": {
+    "modified": "2020-10-15T21:51:49.109Z",
+    "contributors": [
+      "jackblackevo",
+      "tooto1985",
+      "auver",
+      "Snailpool"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/flat": {
+    "modified": "2020-10-15T22:11:38.333Z",
+    "contributors": [
+      "SageX",
+      "Euphokumiko"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/forEach": {
+    "modified": "2020-10-15T21:46:18.574Z",
+    "contributors": [
+      "jackblackevo",
+      "iigmir",
+      "wangqimeng",
+      "nt46",
+      "akari0624"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/from": {
+    "modified": "2020-10-15T21:52:49.849Z",
+    "contributors": [
+      "qwer5656",
+      "jackblackevo",
+      "petercpg",
+      "tericky"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/includes": {
+    "modified": "2020-10-15T22:02:19.463Z",
+    "contributors": [
+      "SiderealArt",
+      "sonelin09",
+      "xuan311",
+      "vaynewang",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/indexOf": {
+    "modified": "2020-10-15T21:56:48.783Z",
+    "contributors": [
+      "jackblackevo",
+      "jsgao0"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/isArray": {
+    "modified": "2020-10-15T21:34:45.216Z",
+    "contributors": [
+      "jackblackevo",
+      "tericky",
+      "m80126colin",
+      "JamesWen",
+      "onlinemad"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/join": {
+    "modified": "2020-10-15T21:47:08.883Z",
+    "contributors": [
+      "jackblackevo",
+      "iigmir",
+      "JamesWen"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/keys": {
+    "modified": "2020-10-15T22:02:18.808Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/lastIndexOf": {
+    "modified": "2020-10-15T22:02:16.799Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/length": {
+    "modified": "2020-10-15T21:58:21.627Z",
+    "contributors": [
+      "tericky",
+      "yenchenglai0618",
+      "mybaseball52"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/map": {
+    "modified": "2020-10-15T21:53:08.025Z",
+    "contributors": [
+      "iigmir",
+      "jackblackevo",
+      "jWorker",
+      "akari0624"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/of": {
+    "modified": "2020-10-15T22:01:03.622Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/pop": {
+    "modified": "2020-10-15T21:56:21.800Z",
+    "contributors": [
+      "jackblackevo",
+      "yvonne6344"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/push": {
+    "modified": "2020-10-15T21:42:28.441Z",
+    "contributors": [
+      "jackblackevo",
+      "yvonne6344",
+      "iigmir",
+      "ALiangLiang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/reverse": {
+    "modified": "2020-10-15T21:31:21.385Z",
+    "contributors": [
+      "jackblackevo",
+      "CYBAI"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/shift": {
+    "modified": "2020-10-15T21:50:12.873Z",
+    "contributors": [
+      "jackblackevo",
+      "marktwtn"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/slice": {
+    "modified": "2020-10-15T22:00:48.969Z",
+    "contributors": [
+      "rosa",
+      "pig3629",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/some": {
+    "modified": "2020-10-15T22:02:17.128Z",
+    "contributors": [
+      "iigmir",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/sort": {
+    "modified": "2020-10-15T21:31:18.682Z",
+    "contributors": [
+      "jackblackevo",
+      "CYBAI"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/splice": {
+    "modified": "2020-10-15T21:56:28.206Z",
+    "contributors": [
+      "jackblackevo",
+      "jsgao0",
+      "Mars-Hung"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/unshift": {
+    "modified": "2020-10-15T21:50:29.110Z",
+    "contributors": [
+      "jsgao0",
+      "jackblackevo",
+      "roycrxtw",
+      "marktwtn"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Array/values": {
+    "modified": "2020-10-15T22:02:17.406Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/ArrayBuffer": {
+    "modified": "2019-03-24T00:11:11.336Z",
+    "contributors": [
+      "jackblackevo",
+      "teoli",
+      "Kennyluck"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/AsyncFunction": {
+    "modified": "2020-10-15T22:18:02.118Z",
+    "contributors": [
+      "gamerslouis"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/BigInt": {
+    "modified": "2020-10-15T22:17:57.888Z",
+    "contributors": [
+      "hmysjiang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Boolean": {
+    "modified": "2019-03-23T22:06:45.293Z",
+    "contributors": [
+      "jsgao0"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/DataView": {
+    "modified": "2019-03-23T22:31:20.723Z",
+    "contributors": [
+      "edu1218",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date": {
+    "modified": "2019-03-23T22:26:48.329Z",
+    "contributors": [
+      "NoobTW",
+      "ddtet"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/UTC": {
+    "modified": "2019-03-23T22:26:04.734Z",
+    "contributors": [
+      "ddtet"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/getDay": {
+    "modified": "2020-10-15T22:34:16.631Z",
+    "contributors": [
+      "manny3"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Date/now": {
+    "modified": "2019-03-23T22:26:18.288Z",
+    "contributors": [
+      "ddtet"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Error": {
+    "modified": "2019-03-23T22:30:39.821Z",
+    "contributors": [
+      "jsgao0",
+      "jackblackevo",
+      "josephmcasey"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Error/columnNumber": {
+    "modified": "2019-03-23T22:30:40.645Z",
+    "contributors": [
+      "teoli",
+      "jerrychen1013"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Function": {
+    "modified": "2019-03-23T23:25:10.636Z",
+    "contributors": [
+      "Calvin-Huang",
+      "jackblackevo",
+      "teoli",
+      "Bergi"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Function/apply": {
+    "modified": "2020-04-16T06:07:17.467Z",
+    "contributors": [
+      "jacko1114",
+      "ayuha406645",
+      "Snailpool"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Function/bind": {
+    "modified": "2019-03-23T22:07:11.766Z",
+    "contributors": [
+      "storyh66224",
+      "iigmir",
+      "nyngwang",
+      "aaaOOttOOaaa"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Function/call": {
+    "modified": "2019-03-23T23:25:00.404Z",
+    "contributors": [
+      "jackblackevo",
+      "teoli",
+      "Zhen.Di-Lin"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Function/length": {
+    "modified": "2019-03-23T22:39:23.276Z",
+    "contributors": [
+      "CYBAI",
+      "lessmind"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Infinity": {
+    "modified": "2020-10-15T21:47:39.391Z",
+    "contributors": [
+      "iigmir",
+      "tooto1985",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/JSON": {
+    "modified": "2020-10-15T21:48:40.820Z",
+    "contributors": [
+      "rolflo",
+      "iigmir",
+      "Ende93"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/JSON/parse": {
+    "modified": "2020-04-17T04:18:46.439Z",
+    "contributors": [
+      "jacko1114",
+      "bigbitesaint",
+      "matthung0807",
+      "iigmir",
+      "kuolun"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/JSON/stringify": {
+    "modified": "2020-10-15T22:00:16.083Z",
+    "contributors": [
+      "gyau97",
+      "SolomonKang"
+    ]
+  },
   "orphaned/Web/JavaScript/Reference/Global_Objects/Map": {
     "modified": "2020-10-15T21:51:34.887Z",
     "contributors": [
@@ -9081,6 +8404,683 @@
       "tainenko",
       "jackblackevo",
       "jsgao0"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math": {
+    "modified": "2020-10-15T21:38:29.906Z",
+    "contributors": [
+      "hmysjiang",
+      "jackblackevo",
+      "fscholz"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/abs": {
+    "modified": "2020-10-15T22:02:08.344Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/ceil": {
+    "modified": "2020-10-15T22:02:07.035Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/floor": {
+    "modified": "2020-10-15T22:02:06.863Z",
+    "contributors": [
+      "ted31013",
+      "chochinlu",
+      "Hagen",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/max": {
+    "modified": "2020-10-15T22:03:35.771Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/pow": {
+    "modified": "2020-10-21T10:01:06.689Z",
+    "contributors": [
+      "SvampK",
+      "iigmir"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/random": {
+    "modified": "2020-10-17T07:58:50.159Z",
+    "contributors": [
+      "RocketSH"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Math/round": {
+    "modified": "2019-03-23T22:48:34.807Z",
+    "contributors": [
+      "alk03073135"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/NaN": {
+    "modified": "2020-10-15T21:47:39.178Z",
+    "contributors": [
+      "iigmir",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number": {
+    "modified": "2019-03-23T22:28:21.747Z",
+    "contributors": [
+      "jsgao0",
+      "sha1337"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/isFinite": {
+    "modified": "2020-10-15T22:03:26.099Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/isNaN": {
+    "modified": "2020-10-15T22:14:14.999Z",
+    "contributors": [
+      "xguang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/toExponential": {
+    "modified": "2019-03-23T22:28:18.890Z",
+    "contributors": [
+      "jsgao0",
+      "Shiyou"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Number/toFixed": {
+    "modified": "2020-11-18T05:27:56.696Z",
+    "contributors": [
+      "Johnnychun",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object": {
+    "modified": "2020-08-22T05:49:39.644Z",
+    "contributors": [
+      "+ono+",
+      "kuolun",
+      "jackblackevo",
+      "fscholz"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/assign": {
+    "modified": "2020-10-15T21:51:19.104Z",
+    "contributors": [
+      "manny3",
+      "lmr3796",
+      "mitivic",
+      "BruceLi",
+      "septemhill",
+      "jsgao0"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/create": {
+    "modified": "2019-03-23T22:30:34.696Z",
+    "contributors": [
+      "yuugou727",
+      "septemhill",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/defineProperties": {
+    "modified": "2019-03-23T22:18:00.161Z",
+    "contributors": [
+      "septemhill"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/defineProperty": {
+    "modified": "2020-10-15T21:52:17.805Z",
+    "contributors": [
+      "iigmir",
+      "PeterTing",
+      "btooom",
+      "jsgao0",
+      "septemhill"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/freeze": {
+    "modified": "2020-10-15T22:00:25.623Z",
+    "contributors": [
+      "leowu"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf": {
+    "modified": "2019-03-23T22:44:35.153Z",
+    "contributors": [
+      "Shiyou",
+      "alk03073135"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty": {
+    "modified": "2019-03-23T22:48:25.371Z",
+    "contributors": [
+      "Shiyou",
+      "alk03073135"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/keys": {
+    "modified": "2019-03-23T22:30:46.813Z",
+    "contributors": [
+      "yuugou727",
+      "roycrxtw",
+      "kdex",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/preventExtensions": {
+    "modified": "2019-03-23T22:39:57.504Z",
+    "contributors": [
+      "ALiangLiang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Object/proto": {
+    "modified": "2020-10-15T22:00:26.656Z",
+    "contributors": [
+      "leowu"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Promise": {
+    "modified": "2020-10-15T21:50:59.376Z",
+    "contributors": [
+      "iigmir",
+      "nyngwang",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Promise/all": {
+    "modified": "2020-10-15T21:51:02.408Z",
+    "contributors": [
+      "nyngwang",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Promise/catch": {
+    "modified": "2020-10-15T21:51:02.070Z",
+    "contributors": [
+      "nyngwang",
+      "Calvin-Huang",
+      "liuderchi",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Promise/finally": {
+    "modified": "2020-10-15T22:08:07.469Z",
+    "contributors": [
+      "t7yang",
+      "l13013312333"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Promise/race": {
+    "modified": "2020-10-15T21:51:03.822Z",
+    "contributors": [
+      "james58899",
+      "nyngwang",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Promise/reject": {
+    "modified": "2020-10-15T21:56:03.979Z",
+    "contributors": [
+      "nyngwang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Promise/resolve": {
+    "modified": "2020-10-15T21:56:02.943Z",
+    "contributors": [
+      "nyngwang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Promise/then": {
+    "modified": "2020-10-15T21:51:00.608Z",
+    "contributors": [
+      "nyngwang",
+      "jackblackevo",
+      "liuderchi"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Proxy": {
+    "modified": "2020-10-15T21:54:48.783Z",
+    "contributors": [
+      "aChinKaiWu",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/RangeError": {
+    "modified": "2020-10-15T22:17:59.783Z",
+    "contributors": [
+      "hmysjiang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Reflect": {
+    "modified": "2019-03-23T22:11:01.546Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/RegExp": {
+    "modified": "2020-10-15T22:28:47.846Z",
+    "contributors": [
+      "政衛"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Set": {
+    "modified": "2020-10-15T22:04:11.196Z",
+    "contributors": [
+      "manny3",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Set/add": {
+    "modified": "2020-10-15T22:17:57.665Z",
+    "contributors": [
+      "hmysjiang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Set/clear": {
+    "modified": "2020-10-15T22:17:57.573Z",
+    "contributors": [
+      "hmysjiang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Set/delete": {
+    "modified": "2020-10-15T22:17:57.330Z",
+    "contributors": [
+      "hmysjiang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Set/entries": {
+    "modified": "2020-10-15T22:17:57.657Z",
+    "contributors": [
+      "hmysjiang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Set/has": {
+    "modified": "2020-10-15T22:17:58.294Z",
+    "contributors": [
+      "hmysjiang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/Set/values": {
+    "modified": "2020-10-15T22:18:02.187Z",
+    "contributors": [
+      "hmysjiang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String": {
+    "modified": "2020-10-15T21:28:07.530Z",
+    "contributors": [
+      "wbamberg",
+      "jackblackevo",
+      "jsgao0",
+      "iigmir",
+      "teoli",
+      "fscholz"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/match": {
+    "modified": "2020-10-15T22:05:42.504Z",
+    "contributors": [
+      "YF-Tung",
+      "joshra"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/padStart": {
+    "modified": "2019-03-23T22:19:32.101Z",
+    "contributors": [
+      "teoli",
+      "lychee.tw"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/replace": {
+    "modified": "2020-10-15T21:28:07.269Z",
+    "contributors": [
+      "oooooo",
+      "joshra",
+      "imrobinized",
+      "iigmir",
+      "jackblackevo",
+      "teoli",
+      "shyangs"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/String/toLowerCase": {
+    "modified": "2020-10-15T22:21:28.664Z",
+    "contributors": [
+      "goden.cheng"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/TypedArray": {
+    "modified": "2020-10-15T21:47:14.859Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/URIError": {
+    "modified": "2020-10-15T22:17:56.619Z",
+    "contributors": [
+      "hmysjiang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/isNaN": {
+    "modified": "2020-10-15T21:51:29.113Z",
+    "contributors": [
+      "bluetata",
+      "iigmir"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/null": {
+    "modified": "2020-03-12T19:44:24.320Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/parseInt": {
+    "modified": "2020-10-15T21:48:43.179Z",
+    "contributors": [
+      "kcliu",
+      "DaiYaXu",
+      "iigmir",
+      "Shiyou"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Global_Objects/undefined": {
+    "modified": "2020-10-15T21:47:42.561Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Iteration_protocols": {
+    "modified": "2020-03-12T19:45:00.332Z",
+    "contributors": [
+      "jackblackevo",
+      "nyngwang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Lexical_grammar": {
+    "modified": "2020-10-15T22:00:27.351Z",
+    "contributors": [
+      "leowu"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators": {
+    "modified": "2020-03-12T19:38:35.397Z",
+    "contributors": [
+      "jackblackevo",
+      "cwlin0416",
+      "iigmir",
+      "teoli",
+      "Zhen.Di-Lin",
+      "ethertank"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Comma_Operator": {
+    "modified": "2020-03-12T19:45:21.494Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Conditional_Operator": {
+    "modified": "2020-10-15T22:29:30.361Z",
+    "contributors": [
+      "liaocCM"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Destructuring_assignment": {
+    "modified": "2020-10-15T21:51:08.444Z",
+    "contributors": [
+      "DexterLeung",
+      "salagadoola",
+      "iigmir",
+      "jsgao0",
+      "jackblackevo",
+      "flyinglimao"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Object_initializer": {
+    "modified": "2020-03-12T19:46:20.319Z",
+    "contributors": [
+      "cyanchu",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Operator_Precedence": {
+    "modified": "2020-03-12T19:45:00.937Z",
+    "contributors": [
+      "KateWuSH",
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Optional_chaining": {
+    "modified": "2020-10-15T22:28:31.905Z",
+    "contributors": [
+      "DexterLeung"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/Spread_syntax": {
+    "modified": "2020-10-15T22:33:09.945Z",
+    "contributors": [
+      "neko12377",
+      "kenchill"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/async_function": {
+    "modified": "2020-10-15T22:12:38.986Z",
+    "contributors": [
+      "extend1994"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/await": {
+    "modified": "2020-03-12T19:45:41.284Z",
+    "contributors": [
+      "kuolun",
+      "liuderchi",
+      "roycrxtw"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/super": {
+    "modified": "2020-10-15T22:23:09.531Z",
+    "contributors": [
+      "YunHan-Tsai"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/this": {
+    "modified": "2020-10-15T21:48:46.137Z",
+    "contributors": [
+      "iigmir",
+      "Rocker",
+      "chloewlin"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Operators/typeof": {
+    "modified": "2020-03-12T19:38:23.416Z",
+    "contributors": [
+      "roycrxtw",
+      "jackblackevo",
+      "teoli",
+      "Johnny.Net"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements": {
+    "modified": "2020-10-15T21:22:18.510Z",
+    "contributors": [
+      "simba-fs",
+      "Ethan.Lin",
+      "jackblackevo",
+      "stdio2017",
+      "cwlin0416",
+      "teoli",
+      "trevorh"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/async_function": {
+    "modified": "2020-10-15T21:53:37.954Z",
+    "contributors": [
+      "kevin10410",
+      "iigmir",
+      "weihanglo",
+      "liuderchi"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/block": {
+    "modified": "2020-03-12T19:38:43.767Z",
+    "contributors": [
+      "lin1987www",
+      "jackblackevo",
+      "teoli",
+      "irvinfly",
+      "tjjh89017"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/break": {
+    "modified": "2020-10-15T21:25:32.531Z",
+    "contributors": [
+      "jackblackevo",
+      "teoli",
+      "Littlebtc",
+      "tjjh89017"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/const": {
+    "modified": "2020-10-15T21:58:04.721Z",
+    "contributors": [
+      "iigmir",
+      "KevinHuang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/debugger": {
+    "modified": "2020-10-15T22:00:23.902Z",
+    "contributors": [
+      "iigmir"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/export": {
+    "modified": "2020-10-15T21:54:04.868Z",
+    "contributors": [
+      "wangchou",
+      "iigmir",
+      "DalaneGarmin",
+      "MOSapeizer"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/for...in": {
+    "modified": "2020-03-12T19:39:20.179Z",
+    "contributors": [
+      "jackblackevo",
+      "teoli",
+      "shyangs"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/function*": {
+    "modified": "2020-10-15T21:45:50.090Z",
+    "contributors": [
+      "iendeavor",
+      "jackblackevo",
+      "DaomingC",
+      "kdex",
+      "ALiangLiang",
+      "tom76kimo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/if...else": {
+    "modified": "2020-12-06T07:23:20.735Z",
+    "contributors": [
+      "rei1997",
+      "paiyuliu",
+      "jackblackevo",
+      "willynpi"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/import": {
+    "modified": "2020-10-15T21:53:11.297Z",
+    "contributors": [
+      "iigmir",
+      "freddy50806",
+      "pololin",
+      "kweisamx",
+      "RichCharlie",
+      "DuckBreeder"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/label": {
+    "modified": "2020-10-15T22:15:49.920Z",
+    "contributors": [
+      "willh"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/let": {
+    "modified": "2020-10-15T21:45:04.003Z",
+    "contributors": [
+      "ShawnLin",
+      "Zhang-Junzhi",
+      "iigmir",
+      "zxa011023",
+      "YamiOdymel",
+      "ALiangLiang"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/return": {
+    "modified": "2020-10-15T22:02:41.359Z",
+    "contributors": [
+      "iigmir"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/switch": {
+    "modified": "2020-10-15T22:25:04.906Z",
+    "contributors": [
+      "iigmir",
+      "Lazine"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/throw": {
+    "modified": "2020-03-12T19:45:24.946Z",
+    "contributors": [
+      "jackblackevo"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Statements/var": {
+    "modified": "2020-03-12T19:38:31.590Z",
+    "contributors": [
+      "jackblackevo",
+      "teoli",
+      "Johnny.Net"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Strict_mode": {
+    "modified": "2020-03-12T19:46:40.566Z",
+    "contributors": [
+      "WellyHong",
+      "Aries0d0f",
+      "DarkNami",
+      "MOSapeizer"
+    ]
+  },
+  "orphaned/Web/JavaScript/Reference/Template_literals": {
+    "modified": "2020-10-15T21:53:17.228Z",
+    "contributors": [
+      "jackblackevo",
+      "xsfishxs"
+    ]
+  },
+  "orphaned/Web/JavaScript/Shells": {
+    "modified": "2020-03-12T19:45:29.748Z",
+    "contributors": [
+      "JianHuaHe"
+    ]
+  },
+  "orphaned/Web/JavaScript/Typed_arrays": {
+    "modified": "2020-03-12T19:36:15.816Z",
+    "contributors": [
+      "ballfish",
+      "jackblackevo",
+      "roycrxtw",
+      "teoli",
+      "Kennyluck"
     ]
   },
   "orphaned/Web/Reference": {
