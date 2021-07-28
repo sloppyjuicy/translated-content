@@ -14897,13 +14897,6 @@
       "loella16"
     ]
   },
-  "Web/API/DoubleRange": {
-    "modified": "2020-11-11T19:01:25.656Z",
-    "contributors": [
-      "JNa0",
-      "Voulto"
-    ]
-  },
   "Web/API/EffectTiming": {
     "modified": "2019-03-23T22:28:24.754Z",
     "contributors": [
@@ -18341,6 +18334,13 @@
       "Voulto"
     ]
   },
+  "Web/API/MediaTrackConstraints": {
+    "modified": "2020-11-11T19:01:25.656Z",
+    "contributors": [
+      "JNa0",
+      "Voulto"
+    ]
+  },
   "Web/API/Media_Streams_API": {
     "modified": "2020-10-15T21:25:08.658Z",
     "contributors": [
@@ -20033,12 +20033,6 @@
       "fscholz",
       "khalid32",
       "Feugy"
-    ]
-  },
-  "Web/API/ULongRange": {
-    "modified": "2020-10-15T22:35:00.304Z",
-    "contributors": [
-      "Voulto"
     ]
   },
   "Web/API/URL": {
@@ -37001,6 +36995,12 @@
     "contributors": [
       "fscholz",
       "Kalwyn"
+    ]
+  },
+  "conflicting/Web/API/MediaTrackConstraints": {
+    "modified": "2020-10-15T22:35:00.304Z",
+    "contributors": [
+      "Voulto"
     ]
   },
   "conflicting/Web/API/Node": {
