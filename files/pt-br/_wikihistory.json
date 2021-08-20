@@ -3638,13 +3638,6 @@
       "takahan"
     ]
   },
-  "Web/API/AnimationEvent/initAnimationEvent": {
-    "modified": "2019-03-23T22:45:29.493Z",
-    "contributors": [
-      "teoli",
-      "takahan"
-    ]
-  },
   "Web/API/AnimationEvent/pseudoElement": {
     "modified": "2019-03-23T22:45:35.200Z",
     "contributors": [
@@ -12306,6 +12299,13 @@
     "modified": "2019-03-23T22:18:12.202Z",
     "contributors": [
       "RafaelGiordanno"
+    ]
+  },
+  "conflicting/Web/API/AnimationEvent/AnimationEvent": {
+    "modified": "2019-03-23T22:45:29.493Z",
+    "contributors": [
+      "teoli",
+      "takahan"
     ]
   },
   "conflicting/Web/API/Crypto/getRandomValues": {
