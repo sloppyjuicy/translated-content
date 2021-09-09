@@ -5811,13 +5811,6 @@
       "sh7dm"
     ]
   },
-  "Web/API/ByteString": {
-    "modified": "2019-09-13T04:40:19.326Z",
-    "contributors": [
-      "ekirpichyov",
-      "opereverzeva"
-    ]
-  },
   "Web/API/CDATASection": {
     "modified": "2020-10-15T22:08:24.955Z",
     "contributors": [
@@ -9322,12 +9315,6 @@
       "Tvortsa"
     ]
   },
-  "Web/API/KeyboardEvent/which": {
-    "modified": "2020-10-15T22:21:03.336Z",
-    "contributors": [
-      "Dzvonek"
-    ]
-  },
   "Web/API/Location": {
     "modified": "2019-08-09T02:31:05.855Z",
     "contributors": [
@@ -9572,12 +9559,6 @@
     "modified": "2019-03-23T22:06:36.338Z",
     "contributors": [
       "insafski"
-    ]
-  },
-  "Web/API/MouseEvent/which": {
-    "modified": "2020-10-15T22:15:09.701Z",
-    "contributors": [
-      "InoY"
     ]
   },
   "Web/API/MutationObserver": {
@@ -10596,6 +10577,12 @@
       "hisbvdis",
       "sivashev",
       "idushii"
+    ]
+  },
+  "Web/API/UIEvent/which": {
+    "modified": "2020-10-15T22:21:03.336Z",
+    "contributors": [
+      "Dzvonek"
     ]
   },
   "Web/API/URL": {
@@ -17266,6 +17253,13 @@
       "AlexeyVasilievE"
     ]
   },
+  "Web/JavaScript/Reference/Global_Objects/String": {
+    "modified": "2019-09-13T04:40:19.326Z",
+    "contributors": [
+      "ekirpichyov",
+      "opereverzeva"
+    ]
+  },
   "Web/Manifest": {
     "modified": "2020-10-15T21:52:44.707Z",
     "contributors": [
@@ -18758,6 +18752,12 @@
     "modified": "2019-03-18T21:45:46.517Z",
     "contributors": [
       "Liubava77"
+    ]
+  },
+  "conflicting/Web/API/UIEvent/which": {
+    "modified": "2020-10-15T22:15:09.701Z",
+    "contributors": [
+      "InoY"
     ]
   },
   "conflicting/Web/API/WebRTC_API": {

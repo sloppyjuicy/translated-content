@@ -8349,13 +8349,6 @@
       "Spikef"
     ]
   },
-  "Web/API/ByteString": {
-    "modified": "2019-07-13T11:30:42.104Z",
-    "contributors": [
-      "RainSlide",
-      "zhouxu"
-    ]
-  },
   "Web/API/CDATASection": {
     "modified": "2020-10-15T21:50:11.923Z",
     "contributors": [
@@ -16678,12 +16671,6 @@
       "cuixiping"
     ]
   },
-  "Web/API/KeyboardEvent/which": {
-    "modified": "2020-10-15T22:35:00.980Z",
-    "contributors": [
-      "xgqfrms"
-    ]
-  },
   "Web/API/LocalFileSystemSync": {
     "modified": "2019-03-23T22:09:04.520Z",
     "contributors": [
@@ -17365,12 +17352,6 @@
     "modified": "2019-03-23T22:20:33.463Z",
     "contributors": [
       "Dcfm"
-    ]
-  },
-  "Web/API/MouseEvent/which": {
-    "modified": "2019-03-18T21:11:17.379Z",
-    "contributors": [
-      "WayneCui"
     ]
   },
   "Web/API/MouseEvent/x": {
@@ -20896,6 +20877,12 @@
     "modified": "2020-10-15T22:25:09.871Z",
     "contributors": [
       "pans9"
+    ]
+  },
+  "Web/API/UIEvent/which": {
+    "modified": "2020-10-15T22:35:00.980Z",
+    "contributors": [
+      "xgqfrms"
     ]
   },
   "Web/API/URL": {
@@ -35213,6 +35200,13 @@
       "WayneCui"
     ]
   },
+  "Web/JavaScript/Reference/Global_Objects/String": {
+    "modified": "2019-07-13T11:30:42.104Z",
+    "contributors": [
+      "RainSlide",
+      "zhouxu"
+    ]
+  },
   "Web/Manifest": {
     "modified": "2019-10-29T05:08:14.882Z",
     "contributors": [
@@ -38085,6 +38079,12 @@
       "vankai",
       "xgqfrms-GitHub",
       "hibernake"
+    ]
+  },
+  "conflicting/Web/API/UIEvent/which": {
+    "modified": "2019-03-18T21:11:17.379Z",
+    "contributors": [
+      "WayneCui"
     ]
   },
   "conflicting/Web/API/URL": {
