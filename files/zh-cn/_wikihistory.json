@@ -7916,12 +7916,6 @@
       "MisicDemone"
     ]
   },
-  "Web/API/AudioNodeOptions": {
-    "modified": "2019-03-18T21:39:54.122Z",
-    "contributors": [
-      "WhiteMind"
-    ]
-  },
   "Web/API/AudioParam": {
     "modified": "2019-03-23T22:14:20.528Z",
     "contributors": [
@@ -37758,6 +37752,12 @@
     "contributors": [
       "SphinxKnight",
       "hl7514576"
+    ]
+  },
+  "conflicting/Web/API/AudioNode": {
+    "modified": "2019-03-18T21:39:54.122Z",
+    "contributors": [
+      "WhiteMind"
     ]
   },
   "conflicting/Web/API/Beacon_API": {
