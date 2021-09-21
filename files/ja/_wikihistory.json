@@ -21094,12 +21094,6 @@
       "ikohs"
     ]
   },
-  "Web/API/ScrollToOptions": {
-    "modified": "2020-10-15T22:32:16.096Z",
-    "contributors": [
-      "mfuji09"
-    ]
-  },
   "Web/API/Selection": {
     "modified": "2019-03-23T23:48:10.878Z",
     "contributors": [
@@ -39758,6 +39752,12 @@
     "modified": "2019-03-23T22:33:34.460Z",
     "contributors": [
       "dreissig.jahrhundert"
+    ]
+  },
+  "conflicting/Web/API/Window/scroll": {
+    "modified": "2020-10-15T22:32:16.096Z",
+    "contributors": [
+      "mfuji09"
     ]
   },
   "conflicting/Web/API_49b9a84475f11fffb8fc271a7df3c49a": {

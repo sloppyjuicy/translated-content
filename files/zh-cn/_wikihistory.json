@@ -19770,12 +19770,6 @@
       "huangxok"
     ]
   },
-  "Web/API/ScrollToOptions": {
-    "modified": "2020-10-15T22:21:27.337Z",
-    "contributors": [
-      "AlexChao"
-    ]
-  },
   "Web/API/Selection": {
     "modified": "2020-10-15T21:21:32.379Z",
     "contributors": [
@@ -38153,6 +38147,12 @@
     "modified": "2020-10-15T22:06:41.722Z",
     "contributors": [
       "Bayes"
+    ]
+  },
+  "conflicting/Web/API/Window/scroll": {
+    "modified": "2020-10-15T22:21:27.337Z",
+    "contributors": [
+      "AlexChao"
     ]
   },
   "conflicting/Web/API_dd04ca1265cb79b990b8120e5f5070d3": {
