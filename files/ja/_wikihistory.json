@@ -38530,12 +38530,6 @@
       "maybe"
     ]
   },
-  "Web/Web_Components/HTML_Imports": {
-    "modified": "2020-10-15T22:23:11.378Z",
-    "contributors": [
-      "reodog"
-    ]
-  },
   "Web/Web_Components/Using_custom_elements": {
     "modified": "2020-01-11T10:20:01.300Z",
     "contributors": [
@@ -40007,6 +40001,12 @@
       "Mgjbot",
       "Yuichirou",
       "electrolysis"
+    ]
+  },
+  "conflicting/Web/Web_Components": {
+    "modified": "2020-10-15T22:23:11.378Z",
+    "contributors": [
+      "reodog"
     ]
   },
   "conflicting/tools/Keyboard_shortcuts": {
