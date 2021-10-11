@@ -6056,12 +6056,6 @@
       "rbertoche"
     ]
   },
-  "Web/API/PositionOptions": {
-    "modified": "2019-03-23T22:47:40.708Z",
-    "contributors": [
-      "victorkurauchi"
-    ]
-  },
   "Web/API/ProcessingInstruction": {
     "modified": "2019-03-18T21:38:06.302Z",
     "contributors": [
@@ -12336,6 +12330,12 @@
     "modified": "2019-03-23T23:35:40.503Z",
     "contributors": [
       "teoli"
+    ]
+  },
+  "conflicting/Web/API/Geolocation/getCurrentPosition": {
+    "modified": "2019-03-23T22:47:40.708Z",
+    "contributors": [
+      "victorkurauchi"
     ]
   },
   "conflicting/Web/API/GlobalEventHandlers/onscroll": {
