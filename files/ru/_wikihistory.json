@@ -7303,12 +7303,6 @@
       "tavira"
     ]
   },
-  "Web/API/EffectTiming": {
-    "modified": "2020-10-15T22:29:01.473Z",
-    "contributors": [
-      "Kami-san"
-    ]
-  },
   "Web/API/Element": {
     "modified": "2020-10-15T21:21:45.874Z",
     "contributors": [
@@ -9313,6 +9307,12 @@
     "contributors": [
       "ksam",
       "Tvortsa"
+    ]
+  },
+  "Web/API/KeyframeEffect/KeyframeEffect": {
+    "modified": "2020-10-15T22:29:01.473Z",
+    "contributors": [
+      "Kami-san"
     ]
   },
   "Web/API/Location": {
