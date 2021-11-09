@@ -35347,13 +35347,6 @@
       "Lbergere"
     ]
   },
-  "Web/XML/xml:base": {
-    "modified": "2019-05-01T21:49:37.439Z",
-    "contributors": [
-      "ExE-Boss",
-      "loella16"
-    ]
-  },
   "Web/XPath": {
     "modified": "2020-06-19T03:44:39.700Z",
     "contributors": [
@@ -36977,6 +36970,13 @@
   "conflicting/Web/API/Node": {
     "modified": "2020-10-15T22:02:08.284Z",
     "contributors": [
+      "loella16"
+    ]
+  },
+  "conflicting/Web/API/Node/baseURI": {
+    "modified": "2019-05-01T21:49:37.439Z",
+    "contributors": [
+      "ExE-Boss",
       "loella16"
     ]
   },
