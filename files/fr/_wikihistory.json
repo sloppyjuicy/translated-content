@@ -24700,21 +24700,6 @@
       "ExE-Boss"
     ]
   },
-  "Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property": {
-    "modified": "2019-04-06T12:43:13.926Z",
-    "contributors": [
-      "SphinxKnight",
-      "ExE-Boss",
-      "teoli",
-      "Kyodev",
-      "Mgjbot",
-      "Sheppy",
-      "BenoitL",
-      "Fredchat",
-      "Learning",
-      "Chbok"
-    ]
-  },
   "Web/CSS/CSS_Box_Alignment": {
     "modified": "2019-04-06T12:42:39.208Z",
     "contributors": [
@@ -37312,6 +37297,21 @@
       "FredB",
       "Kyodev",
       "Fredchat"
+    ]
+  },
+  "conflicting/Web/CSS/cursor_39c6658e7ea7cae759d6fd18be73f602": {
+    "modified": "2019-04-06T12:43:13.926Z",
+    "contributors": [
+      "SphinxKnight",
+      "ExE-Boss",
+      "teoli",
+      "Kyodev",
+      "Mgjbot",
+      "Sheppy",
+      "BenoitL",
+      "Fredchat",
+      "Learning",
+      "Chbok"
     ]
   },
   "conflicting/Web/CSS/float": {
