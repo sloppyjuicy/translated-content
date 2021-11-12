@@ -3034,6 +3034,7 @@
 /fr/docs/MDN/Contribute/Tools/KumaScript	/fr/docs/MDN/Tools/KumaScript
 /fr/docs/MDN/Débuter_sur_MDN	/fr/docs/MDN/Contribute/Getting_started
 /fr/docs/MDN/Feedback	/fr/docs/MDN/Contribute/Feedback
+/fr/docs/MDN/Guidelines/CSS_style_guide	/fr/docs/MDN/Contribute/Markdown_in_MDN
 /fr/docs/MDN/Guidelines/Code_lignesdirectrices	/fr/docs/MDN/Guidelines/Code_guidelines
 /fr/docs/MDN/Kuma	/fr/docs/MDN/Yari
 /fr/docs/MDN/Structures/Tables_de_compatibilité	/fr/docs/MDN/Structures/Compatibility_tables
