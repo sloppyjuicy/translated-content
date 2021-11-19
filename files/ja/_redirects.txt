@@ -3240,8 +3240,8 @@
 /ja/docs/Mozilla_Addons_FAQ_(external)	https://addons.mozilla.org/faq.php
 /ja/docs/Mozmill	/ja/docs/orphaned/Mozmill
 /ja/docs/My_Chrome_Oven	/ja/docs/orphaned/My_Chrome_Oven
-/ja/docs/NPAPI/Constants	/ja/docs/Plugins/Guide/Constants
-/ja/docs/NPAPI:Constants	/ja/docs/Plugins/Guide/Constants
+/ja/docs/NPAPI/Constants	/ja/docs/Glossary/Plugin
+/ja/docs/NPAPI:Constants	/ja/docs/Glossary/Plugin
 /ja/docs/Namespace	/ja/docs/Glossary/Namespace
 /ja/docs/New_in_JavaScript_1.8	/ja/docs/orphaned/New_in_JavaScript_1.8
 /ja/docs/Node.isSupported	/ja/docs/Web/API/Node/isSupported
@@ -3264,6 +3264,8 @@
 /ja/docs/Other_JavaScript_tools	/ja/docs/Tools
 /ja/docs/Parsing_and_serializing_XML	/ja/docs/Web/Guide/Parsing_and_serializing_XML
 /ja/docs/Participating_in_the_Mozilla_project	/ja/docs/orphaned/Participating_in_the_Mozilla_project
+/ja/docs/Plugins/Guide/Constants	/ja/docs/Glossary/Plugin
+/ja/docs/Plugins/Roadmap	/ja/docs/conflicting/Glossary/Plugin
 /ja/docs/Property_compatibility_table_for_form_widgets	/ja/docs/Learn/Forms/Property_compatibility_table_for_form_controls
 /ja/docs/Quirks_Mode_and_Standards_Mode	/ja/docs/Web/HTML/Quirks_Mode_and_Standards_Mode
 /ja/docs/Rich-Text_Editing_in_Mozilla	/ja/docs/Web/Guide/HTML/Editable_content/Rich-Text_Editing_in_Mozilla
