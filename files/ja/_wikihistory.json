@@ -28705,12 +28705,6 @@
       "haccy"
     ]
   },
-  "Web/CSS/List_of_Proprietary_CSS_Features": {
-    "modified": "2019-03-18T21:33:15.134Z",
-    "contributors": [
-      "mfuji09"
-    ]
-  },
   "Web/CSS/Media_Queries/Testing_media_queries": {
     "modified": "2020-10-15T21:07:28.863Z",
     "contributors": [
@@ -39814,9 +39808,9 @@
     ]
   },
   "conflicting/Web/CSS/Reference": {
-    "modified": "2019-01-16T15:49:24.673Z",
+    "modified": "2019-03-18T21:33:15.134Z",
     "contributors": [
-      "Marsf"
+      "mfuji09"
     ]
   },
   "conflicting/Web/CSS/box-ordinal-group": {
