@@ -26557,12 +26557,6 @@
       "mfuji09"
     ]
   },
-  "Web/CSS/-webkit-print-color-adjust": {
-    "modified": "2020-10-15T22:16:00.721Z",
-    "contributors": [
-      "isudzumi"
-    ]
-  },
   "Web/CSS/-webkit-tap-highlight-color": {
     "modified": "2019-04-25T10:41:36.517Z",
     "contributors": [
@@ -29989,12 +29983,6 @@
       "Marsf"
     ]
   },
-  "Web/CSS/color-adjust": {
-    "modified": "2020-10-15T22:13:00.476Z",
-    "contributors": [
-      "mfuji09"
-    ]
-  },
   "Web/CSS/color_value": {
     "modified": "2020-10-15T21:14:39.477Z",
     "contributors": [
@@ -31868,6 +31856,12 @@
       "teoli",
       "ethertank",
       "sosleepy"
+    ]
+  },
+  "Web/CSS/print-color-adjust": {
+    "modified": "2020-10-15T22:16:00.721Z",
+    "contributors": [
+      "isudzumi"
     ]
   },
   "Web/CSS/quotes": {
@@ -39841,6 +39835,12 @@
     "contributors": [
       "ethertank",
       "Marsf"
+    ]
+  },
+  "conflicting/Web/CSS/print-color-adjust": {
+    "modified": "2020-10-15T22:13:00.476Z",
+    "contributors": [
+      "mfuji09"
     ]
   },
   "conflicting/Web/CSS/url()": {

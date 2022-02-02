@@ -23024,14 +23024,6 @@
       "alhuno1"
     ]
   },
-  "Web/CSS/-webkit-print-color-adjust": {
-    "modified": "2020-10-15T21:28:10.335Z",
-    "contributors": [
-      "SphinxKnight",
-      "CuteRabbit",
-      "louuis"
-    ]
-  },
   "Web/CSS/-webkit-tap-highlight-color": {
     "modified": "2019-04-26T02:53:32.938Z",
     "contributors": [
@@ -27116,12 +27108,6 @@
       "VincentN"
     ]
   },
-  "Web/CSS/color-adjust": {
-    "modified": "2020-10-15T22:07:37.043Z",
-    "contributors": [
-      "SphinxKnight"
-    ]
-  },
   "Web/CSS/color_value": {
     "modified": "2020-10-15T21:15:21.928Z",
     "contributors": [
@@ -29136,6 +29122,14 @@
     "modified": "2020-10-15T21:46:27.417Z",
     "contributors": [
       "SphinxKnight"
+    ]
+  },
+  "Web/CSS/print-color-adjust": {
+    "modified": "2020-10-15T21:28:10.335Z",
+    "contributors": [
+      "SphinxKnight",
+      "CuteRabbit",
+      "louuis"
     ]
   },
   "Web/CSS/quotes": {
@@ -37335,6 +37329,12 @@
     "contributors": [
       "mrstork",
       "ZorGleH"
+    ]
+  },
+  "conflicting/Web/CSS/print-color-adjust": {
+    "modified": "2020-10-15T22:07:37.043Z",
+    "contributors": [
+      "SphinxKnight"
     ]
   },
   "conflicting/Web/CSS/scroll-snap-type": {

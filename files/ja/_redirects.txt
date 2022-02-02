@@ -4158,6 +4158,7 @@
 /ja/docs/Web/CSS/-moz-zoom-out	/ja/docs/Web/CSS/cursor
 /ja/docs/Web/CSS/-ms-high-contrast	/ja/docs/Web/CSS/@media/-ms-high-contrast
 /ja/docs/Web/CSS/-ms-scroll-snap-type	/ja/docs/Web/CSS/scroll-snap-type
+/ja/docs/Web/CSS/-webkit-print-color-adjust	/ja/docs/Web/CSS/print-color-adjust
 /ja/docs/Web/CSS/:-moz-alt-text	/ja/docs/orphaned/Web/CSS/:-moz-alt-text
 /ja/docs/Web/CSS/:-moz-placeholder	/ja/docs/Web/CSS/:placeholder-shown
 /ja/docs/Web/CSS/:-ms-input-placeholder	/ja/docs/Web/CSS/:placeholder-shown
@@ -4265,6 +4266,7 @@
 /ja/docs/Web/CSS/box_model	/ja/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
 /ja/docs/Web/CSS/calc	/ja/docs/Web/CSS/calc()
 /ja/docs/Web/CSS/clamp	/ja/docs/Web/CSS/clamp()
+/ja/docs/Web/CSS/color-adjust	/ja/docs/conflicting/Web/CSS/print-color-adjust
 /ja/docs/Web/CSS/conic-gradient	/ja/docs/orphaned/Web/CSS/conic-gradient()
 /ja/docs/Web/CSS/conic-gradient()	/ja/docs/orphaned/Web/CSS/conic-gradient()
 /ja/docs/Web/CSS/counter	/ja/docs/Web/CSS/counter()
