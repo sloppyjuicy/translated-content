@@ -3890,7 +3890,13 @@
 /ja/docs/Web/API/WindowTimers/setInterval	/ja/docs/Web/API/setInterval
 /ja/docs/Web/API/WindowTimers/setTimeout	/ja/docs/Web/API/setTimeout
 /ja/docs/Web/API/WorkerGlobalScope/caches	/ja/docs/Web/API/caches
+/ja/docs/Web/API/XMLHttpRequest/onreadystatechange	/ja/docs/Web/API/XMLHttpRequest/readystatechange_event
 /ja/docs/Web/API/XMLHttpRequest/openRequest	/ja/docs/orphaned/Web/API/XMLHttpRequest/openRequest
+/ja/docs/Web/API/XMLHttpRequestEventTarget/onabort	/ja/docs/conflicting/Web/API/XMLHttpRequest/abort_event
+/ja/docs/Web/API/XMLHttpRequestEventTarget/onerror	/ja/docs/conflicting/Web/API/XMLHttpRequest/error_event
+/ja/docs/Web/API/XMLHttpRequestEventTarget/onload	/ja/docs/conflicting/Web/API/XMLHttpRequest/load_event
+/ja/docs/Web/API/XMLHttpRequestEventTarget/onloadstart	/ja/docs/conflicting/Web/API/XMLHttpRequest/loadstart_event
+/ja/docs/Web/API/XMLHttpRequestEventTarget/onprogress	/ja/docs/conflicting/Web/API/XMLHttpRequest/progress_event
 /ja/docs/Web/API/XRHandedness	/ja/docs/orphaned/Web/API/XRHandedness
 /ja/docs/Web/API/XRReferenceSpaceEventInit	/ja/docs/orphaned/Web/API/XRReferenceSpaceEventInit
 /ja/docs/Web/API/XRReferenceSpaceEventInit/referenceSpace	/ja/docs/orphaned/Web/API/XRReferenceSpaceEventInit/referenceSpace
