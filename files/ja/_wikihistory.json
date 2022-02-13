@@ -13999,18 +13999,6 @@
       "Taken"
     ]
   },
-  "Web/API/Element/onfullscreenchange": {
-    "modified": "2020-10-15T22:27:05.186Z",
-    "contributors": [
-      "mfuji09"
-    ]
-  },
-  "Web/API/Element/onfullscreenerror": {
-    "modified": "2020-10-15T22:27:05.707Z",
-    "contributors": [
-      "mfuji09"
-    ]
-  },
   "Web/API/Element/outerHTML": {
     "modified": "2020-10-15T21:49:26.268Z",
     "contributors": [
@@ -24245,19 +24233,6 @@
     "modified": "2020-10-15T22:28:07.002Z",
     "contributors": [
       "mfuji09"
-    ]
-  },
-  "Web/API/Window/ongamepadconnected": {
-    "modified": "2020-10-15T22:12:53.034Z",
-    "contributors": [
-      "T.Ukegawa"
-    ]
-  },
-  "Web/API/Window/ongamepaddisconnected": {
-    "modified": "2020-10-15T22:12:51.410Z",
-    "contributors": [
-      "Potappo",
-      "T.Ukegawa"
     ]
   },
   "Web/API/Window/open": {
@@ -39480,6 +39455,18 @@
       "yyss"
     ]
   },
+  "conflicting/Web/API/Element/fullscreenchange_event": {
+    "modified": "2020-10-15T22:27:05.186Z",
+    "contributors": [
+      "mfuji09"
+    ]
+  },
+  "conflicting/Web/API/Element/fullscreenerror_event": {
+    "modified": "2020-10-15T22:27:05.707Z",
+    "contributors": [
+      "mfuji09"
+    ]
+  },
   "conflicting/Web/API/File/name": {
     "modified": "2020-09-25T16:45:23.436Z",
     "contributors": [
@@ -39648,6 +39635,19 @@
       "Marsf",
       "Shoot",
       "Mgjbot"
+    ]
+  },
+  "conflicting/Web/API/Window/gamepadconnected_event": {
+    "modified": "2020-10-15T22:12:53.034Z",
+    "contributors": [
+      "T.Ukegawa"
+    ]
+  },
+  "conflicting/Web/API/Window/gamepaddisconnected_event": {
+    "modified": "2020-10-15T22:12:51.410Z",
+    "contributors": [
+      "Potappo",
+      "T.Ukegawa"
     ]
   },
   "conflicting/Web/API/Window/moveTo": {
