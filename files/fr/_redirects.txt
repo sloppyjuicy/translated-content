@@ -3555,6 +3555,8 @@
 /fr/docs/Web/API/Document/defaultView/popstate_event	/fr/docs/Web/API/Window/popstate_event
 /fr/docs/Web/API/Document/defaultView/storage_event	/fr/docs/Web/API/Window/storage_event
 /fr/docs/Web/API/Document/domConfig	/fr/docs/Web/API/Document
+/fr/docs/Web/API/Document/onafterscriptexecute	/fr/docs/Web/API/Document/afterscriptexecute_event
+/fr/docs/Web/API/Document/onbeforescriptexecute	/fr/docs/Web/API/Document/beforescriptexecute_event
 /fr/docs/Web/API/Document/onfullscreenchange	/fr/docs/conflicting/Web/API/Document/fullscreenchange_event
 /fr/docs/Web/API/Document/popupNode	/fr/docs/orphaned/Web/API/Document/popupNode
 /fr/docs/Web/API/Document/tooltipNode	/fr/docs/orphaned/Web/API/Document/tooltipNode
