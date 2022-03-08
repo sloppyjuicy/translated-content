@@ -5165,7 +5165,7 @@
       "y-kazunori"
     ]
   },
-  "Learn/JavaScript/Asynchronous/Concepts": {
+  "Learn/JavaScript/Asynchronous/Introducing": {
     "modified": "2020-12-04T08:53:53.277Z",
     "contributors": [
       "Uemmra3",
@@ -19594,12 +19594,6 @@
       "takamin"
     ]
   },
-  "Web/API/Performance/onresourcetimingbufferfull": {
-    "modified": "2020-10-15T22:19:53.003Z",
-    "contributors": [
-      "silverskyvicto"
-    ]
-  },
   "Web/API/Performance/resourcetimingbufferfull_event": {
     "modified": "2020-10-15T22:19:38.048Z",
     "contributors": [
@@ -24172,13 +24166,6 @@
       "AshfaqHossain",
       "ethertank",
       "Potappo"
-    ]
-  },
-  "Web/API/Window/onappinstalled": {
-    "modified": "2020-10-15T21:49:27.262Z",
-    "contributors": [
-      "Marsf",
-      "YuichiNukiyama"
     ]
   },
   "Web/API/Window/ondevicemotion": {
@@ -39520,6 +39507,12 @@
       "Okome"
     ]
   },
+  "conflicting/Web/API/Performance/resourcetimingbufferfull_event": {
+    "modified": "2020-10-15T22:19:53.003Z",
+    "contributors": [
+      "silverskyvicto"
+    ]
+  },
   "conflicting/Web/API/Pointer_events": {
     "modified": "2019-03-18T20:45:32.564Z",
     "contributors": [
@@ -39635,6 +39628,13 @@
       "Marsf",
       "Shoot",
       "Mgjbot"
+    ]
+  },
+  "conflicting/Web/API/Window/appinstalled_event": {
+    "modified": "2020-10-15T21:49:27.262Z",
+    "contributors": [
+      "Marsf",
+      "YuichiNukiyama"
     ]
   },
   "conflicting/Web/API/Window/gamepadconnected_event": {
