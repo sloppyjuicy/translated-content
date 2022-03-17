@@ -18822,14 +18822,14 @@
       "jprichardson"
     ]
   },
-  "Web/API/NetworkInformation/downlinkMax": {
-    "modified": "2019-03-23T22:28:25.185Z",
+  "Web/API/NetworkInformation/change_event": {
+    "modified": "2019-03-23T22:28:29.434Z",
     "contributors": [
       "YuichiNukiyama"
     ]
   },
-  "Web/API/NetworkInformation/onchange": {
-    "modified": "2019-03-23T22:28:29.434Z",
+  "Web/API/NetworkInformation/downlinkMax": {
+    "modified": "2019-03-23T22:28:25.185Z",
     "contributors": [
       "YuichiNukiyama"
     ]
@@ -35622,12 +35622,6 @@
       "technohippy"
     ]
   },
-  "Web/HTTP/Headers/Cookie2": {
-    "modified": "2020-10-15T22:08:54.618Z",
-    "contributors": [
-      "silverskyvicto"
-    ]
-  },
   "Web/HTTP/Headers/Cross-Origin-Resource-Policy": {
     "modified": "2020-10-15T22:28:41.646Z",
     "contributors": [
@@ -35936,12 +35930,6 @@
     "modified": "2020-10-15T22:30:51.978Z",
     "contributors": [
       "pcw",
-      "silverskyvicto"
-    ]
-  },
-  "Web/HTTP/Headers/Set-Cookie2": {
-    "modified": "2020-10-15T22:09:30.672Z",
-    "contributors": [
       "silverskyvicto"
     ]
   },
@@ -39878,11 +39866,23 @@
       "mfuji09"
     ]
   },
+  "conflicting/Web/HTTP/Headers/Cookie": {
+    "modified": "2020-10-15T22:08:54.618Z",
+    "contributors": [
+      "silverskyvicto"
+    ]
+  },
   "conflicting/Web/HTTP/Headers/Feature-Policy/xr-spatial-tracking": {
     "modified": "2020-08-12T12:42:41.854Z",
     "contributors": [
       "mfuji09",
       "tamura4278"
+    ]
+  },
+  "conflicting/Web/HTTP/Headers/Set-Cookie": {
+    "modified": "2020-10-15T22:09:30.672Z",
+    "contributors": [
+      "silverskyvicto"
     ]
   },
   "conflicting/Web/HTTP/Headers/User-Agent/Firefox": {
