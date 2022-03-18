@@ -3000,6 +3000,7 @@
 /ja/docs/Jetpack/システム	/ja/docs/orphaned/Jetpack/システム
 /ja/docs/Key-navigable_custom_DHTML_widgets	/ja/docs/orphaned/Key-navigable_custom_DHTML_widgets
 /ja/docs/Learn/CSS/Building_blocks/セレクタ	/ja/docs/Learn/CSS/Building_blocks/Selectors
+/ja/docs/Learn/CSS/First_steps/Using_your_new_knowledge	/ja/docs/Learn/CSS/First_steps/Styling_a_biography_page
 /ja/docs/Learn/CSS/Introduction_to_CSS	/en-US/docs/Learn/CSS/First_steps
 /ja/docs/Learn/CSS/Introduction_to_CSS/Attribute_selectors	/en-US/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors
 /ja/docs/Learn/CSS/Introduction_to_CSS/Box_model	/en-US/docs/Learn/CSS/Building_blocks/The_box_model
@@ -3707,6 +3708,10 @@
 /ja/docs/Web/API/MediaRecorder_API	/ja/docs/conflicting/Web/API/MediaStream_Recording_API
 /ja/docs/Web/API/MediaStream/onaddtrack	/ja/docs/Web/API/MediaStream/addtrack_event
 /ja/docs/Web/API/MediaStreamConstraints	/ja/docs/conflicting/Web/API/MediaDevices/getUserMedia
+/ja/docs/Web/API/MediaStreamTrack/onended	/ja/docs/Web/API/MediaStreamTrack/ended_event
+/ja/docs/Web/API/MediaStreamTrack/onmute	/ja/docs/conflicting/Web/API/MediaStreamTrack/mute_event
+/ja/docs/Web/API/MediaStreamTrack/onoverconstrained	/ja/docs/Web/API/MediaStreamTrack/overconstrained_event
+/ja/docs/Web/API/MediaStreamTrack/onunmute	/ja/docs/conflicting/Web/API/MediaStreamTrack/unmute_event
 /ja/docs/Web/API/MouseEvent/which	/ja/docs/Web/API/UIEvent/which
 /ja/docs/Web/API/Navigator.getUserMedia	/ja/docs/Web/API/Navigator/getUserMedia
 /ja/docs/Web/API/Navigator/javaEnabled	/ja/docs/orphaned/Web/API/NavigatorPlugins/javaEnabled
@@ -3891,6 +3896,7 @@
 /ja/docs/Web/API/Window/onchange	/ja/docs/Web/API/GlobalEventHandlers/onchange
 /ja/docs/Web/API/Window/onclick	/ja/docs/Web/API/GlobalEventHandlers/onclick
 /ja/docs/Web/API/Window/ondevicelight	/ja/docs/orphaned/Web/API/Window/ondevicelight
+/ja/docs/Web/API/Window/ondevicemotion	/ja/docs/conflicting/Web/API/Window/devicemotion_event
 /ja/docs/Web/API/Window/ondeviceproximity	/ja/docs/orphaned/Web/API/Window/ondeviceproximity
 /ja/docs/Web/API/Window/onfocus	/ja/docs/Web/API/GlobalEventHandlers/onfocus
 /ja/docs/Web/API/Window/ongamepadconnected	/ja/docs/conflicting/Web/API/Window/gamepadconnected_event
