@@ -5150,7 +5150,7 @@
       "yoonasy"
     ]
   },
-  "Web/CSS/attr()": {
+  "Web/CSS/attr": {
     "modified": "2020-11-04T08:52:16.034Z",
     "contributors": [
       "chrisdavidmills",
@@ -5305,7 +5305,7 @@
       "alk03073135"
     ]
   },
-  "Web/CSS/transform-function/translate3d()": {
+  "Web/CSS/transform-function/translate3d": {
     "modified": "2020-11-30T13:00:00.920Z",
     "contributors": [
       "chrisdavidmills",
