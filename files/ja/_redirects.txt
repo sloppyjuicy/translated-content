@@ -3790,6 +3790,7 @@
 /ja/docs/Web/API/ParentNode/prepend	/ja/docs/orphaned/Web/API/ParentNode/prepend
 /ja/docs/Web/API/ParentNode/querySelectorAll	/ja/docs/orphaned/Web/API/ParentNode/querySelectorAll
 /ja/docs/Web/API/Performance/onresourcetimingbufferfull	/ja/docs/conflicting/Web/API/Performance/resourcetimingbufferfull_event
+/ja/docs/Web/API/PermissionStatus/onchange	/ja/docs/Web/API/PermissionStatus/change_event
 /ja/docs/Web/API/Position	/ja/docs/Web/API/GeolocationPosition
 /ja/docs/Web/API/PositionError	/ja/docs/Web/API/GeolocationPositionError
 /ja/docs/Web/API/PositionOptions	/ja/docs/conflicting/Web/API/Geolocation/getCurrentPosition
