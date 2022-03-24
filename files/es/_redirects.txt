@@ -1614,6 +1614,7 @@
 /es/docs/Web/API/XMLHttpRequest/onreadystatechange	/es/docs/Web/API/XMLHttpRequest/readystatechange_event
 /es/docs/Web/API/event.defaultPrevented	/es/docs/Web/API/Event/defaultPrevented
 /es/docs/Web/API/event.which	/es/docs/Web/API/UIEvent/which
+/es/docs/Web/API/notification/onclick	/es/docs/Web/API/Notification/click_event
 /es/docs/Web/Accesibilidad	/es/docs/Web/Accessibility
 /es/docs/Web/Accesibilidad/Comunidad	/es/docs/Web/Accessibility/Community
 /es/docs/Web/Accesibilidad/Understanding_WCAG	/es/docs/Web/Accessibility/Understanding_WCAG

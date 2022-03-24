@@ -7803,6 +7803,12 @@
       "jesumv"
     ]
   },
+  "Web/API/Notification/click_event": {
+    "modified": "2019-03-23T22:11:55.774Z",
+    "contributors": [
+      "AndresTonello"
+    ]
+  },
   "Web/API/Notifications_API": {
     "modified": "2019-03-23T22:07:39.198Z",
     "contributors": [
@@ -9260,12 +9266,6 @@
     "modified": "2019-03-23T22:59:32.492Z",
     "contributors": [
       "joxhker"
-    ]
-  },
-  "Web/API/notification/onclick": {
-    "modified": "2019-03-23T22:11:55.774Z",
-    "contributors": [
-      "AndresTonello"
     ]
   },
   "Web/API/notification/permission": {
