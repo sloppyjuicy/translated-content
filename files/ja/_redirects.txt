@@ -3598,6 +3598,7 @@
 /ja/docs/Web/API/Event/button	/ja/docs/conflicting/Web/API/MouseEvent/button
 /ja/docs/Web/API/Event/createEvent	/ja/docs/Web/API/Document/createEvent
 /ja/docs/Web/API/EventHandler	/ja/docs/orphaned/Web/Guide/Events/Event_handlers
+/ja/docs/Web/API/EventListener	/ja/docs/conflicting/Web/API/EventTarget/addEventListener
 /ja/docs/Web/API/EventSource/onerror	/ja/docs/Web/API/EventSource/error_event
 /ja/docs/Web/API/EventSource/onmessage	/ja/docs/Web/API/EventSource/message_event
 /ja/docs/Web/API/EventTarget.addEventListener	/ja/docs/Web/API/EventTarget/addEventListener

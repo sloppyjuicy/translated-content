@@ -3571,14 +3571,6 @@
       "jackblackevo"
     ]
   },
-  "Web/API/EventListener": {
-    "modified": "2020-10-15T21:47:11.807Z",
-    "contributors": [
-      "t7yang",
-      "tigercosmos",
-      "jackblackevo"
-    ]
-  },
   "Web/API/EventTarget": {
     "modified": "2019-03-23T22:55:39.329Z",
     "contributors": [
@@ -3586,6 +3578,14 @@
       "Shiyou",
       "alk03073135",
       "teoli"
+    ]
+  },
+  "Web/API/EventTarget/addEventListener": {
+    "modified": "2020-10-15T21:47:11.807Z",
+    "contributors": [
+      "t7yang",
+      "tigercosmos",
+      "jackblackevo"
     ]
   },
   "Web/API/EventTarget/dispatchEvent": {
