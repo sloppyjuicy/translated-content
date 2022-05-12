@@ -1,26 +1,27 @@
 ---
 title: Key Values
-slug: Web/API/KeyboardEvent/key/Key_Values
+slug: Web/API/UI_Events/Keyboard_event_key_values
 translation_of: Web/API/KeyboardEvent/key/Key_Values
+original_slug: Web/API/KeyboardEvent/key/Key_Values
 ---
-<p>Les tableaux ci-dessous énumèrent les valeurs clés standard dans différentes catégories de clés, avec une explication de l'utilisation habituelle de la clé. Les codes de clés virtuels correspondants pour les plateformes communes sont inclus lorsqu'ils sont disponibles.</p>
+<p>下列表格列出了不同范畴的键的标准键值，以及这些键的一般作用。对应的，通用平台上可用的虚拟键码也包含其中。</p>
 
 <div class="pull-aside">
-<div class="moreinfo">Apprenez à utiliser ces valeurs clés en JavaScript en utilisant <a href="/fr/docs/Web/API/KeyboardEvent/key">KeyboardEvent.key</a></div>
+<div class="moreinfo">Learn how to use these key values in JavaScript using <a href="/docs/Web/API/KeyboardEvent/key">KeyboardEvent.key</a></div>
 </div>
 
 <p><a href="#Special_values">Special Values </a>| <a href="#Modifier_keys">Modifier Keys</a> | <a href="#Whitespace_keys">Whitespace Keys</a> | <a href="#Navigation_keys">Navigation Keys</a> | <a href="#Editing_keys">Editing Keys</a> | <a href="#UI_keys">UI Keys</a> | <a href="#Device_keys">Device Keys</a> | <a href="#IME_and_composition_keys">IME and Composition Keys</a> | <a href="#Function_keys">Function Keys</a> | <a href="#Phone_keys">Phone Keys</a> | <a href="#Multimedia_keys">Multimedia Keys</a> | <a href="#Audio_control_keys">Audio Control Keys</a> | <a href="#TV_control_keys">TV Control Keys</a> | <a href="#Media_controller_keys">Media Controller Keys</a> | <a href="#Speech_recognition_keys">Speech Recognition Keys</a> | <a href="#Document_keys">Document Keys</a> | <a href="#Application_selector_keys">Application Selector Keys</a> | <a href="#Browser_control_keys">Browser Control Keys</a> | <a href="#Numeric_keypad_keys">Numeric Keypad Keys</a></p>
 
-<h2 id="Valeurs_spéciales">Valeurs spéciales</h2>
+<h2 id="Special_values">Special values</h2>
 
-<p>Les valeurs de <code>key</code> qui ont une signification particulière autre que l'identification d'une clé ou d'un caractère spécifique.</p>
+<p>键的值，具有除标识特定键或字符外的特殊含义。</p>
 
 <table class="standard-table">
  <thead>
   <tr>
-   <th rowspan="2" scope="col" style="text-align: left;"><code>KeyboardEvent.key</code> Valeur</th>
+   <th rowspan="2" scope="col" style="text-align: left;"><code>KeyboardEvent.key</code> Value</th>
    <th rowspan="2" scope="col" style="text-align: left;">Description</th>
-   <th colspan="4" scope="col" style="text-align: center;">Code clé virtuel</th>
+   <th colspan="4" scope="col" style="text-align: center;">Virtual Keycode</th>
   </tr>
   <tr>
    <th scope="col" style="text-align: left;">Windows</th>
@@ -32,18 +33,18 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
  <tbody>
   <tr>
    <td><code>"Unidentified"</code></td>
-   <td>L'agent utilisateur n'a pas été en mesure de faire correspondre le code virtuel de l'événement à une valeur clé spécifique. Cela peut être dû à des contraintes matérielles ou logicielles, ou à des contraintes liées à la plate-forme sur laquelle l'agent utilisateur fonctionne.</td>
-   <td><em>varie</em></td>
-   <td><em>varie</em></td>
-   <td><em>varie</em></td>
-   <td><em>varie</em></td>
+   <td>用户代理无法将事件的虚拟键码映射到特定键值。 这可能由于硬件或软件限制或由于运行用户代理的平台周围的约束而发生。</td>
+   <td><em>varies</em></td>
+   <td><em>varies</em></td>
+   <td><em>varies</em></td>
+   <td><em>varies</em></td>
   </tr>
  </tbody>
 </table>
 
 <h2 id="Modifier_keys">Modifier keys</h2>
 
-<p>Modifiers are special keys which are used to generate special characters or cause special actions when used in combination with other keys. Examples include the <kbd>Shift</kbd> and <kbd>Control</kbd> keys, and lock keys such as <kbd>Caps Lock</kbd> and <kbd>NumLock</kbd>.</p>
+<p>修饰符是特殊键，用于生成特殊字符或与其他键组合使用时产生特殊操作。 示例包括<kbd>Shift</kbd>和<kbd>Control</kbd>键，以及<kbd>Lock Lock</kbd>和<kbd>NumLock</kbd>等锁定键。</p>
 
 <table class="standard-table">
  <thead>
@@ -60,7 +61,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"Alt"</code> [5]</td>
-   <td>The <kbd>Alt</kbd> (Alternative) key.</td>
+   <td> <kbd>Alt</kbd> （替代）键。</td>
    <td><code>VK_MENU</code> (0x12)<br>
     <code>VK_LMENU</code> (0xA4)<br>
     <code>VK_RMENU</code> (0xA5)</td>
@@ -74,7 +75,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"AltGraph"</code> [5]</td>
-   <td>The <kbd>AltGr</kbd> or <kbd>AltGraph</kbd> (Alternate Graphics) key. Enables the ISO Level 3 shift modifier (where <kbd>Shift</kbd> is the level 2 modifier).</td>
+   <td><kbd>AltGr</kbd>或<kbd>AltGraph</kbd>（Alternate Graphics）键。 启用ISO Level 3移位修改器（其中<kbd>Shift</kbd>是2级修改器）。</td>
    <td></td>
    <td></td>
    <td><code>GDK_KEY_Mode_switch</code> (0xFF7E)<br>
@@ -90,7 +91,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"CapsLock"</code></td>
-   <td>The <kbd>Caps Lock</kbd> key. Toggles the capital character lock on and off for subsequent input.</td>
+   <td>大写锁定键。 打开和关闭大写字符锁以进行后续输入。</td>
    <td><code>VK_CAPITAL</code> (0x14)</td>
    <td><code>kVK_CapsLock</code> (0x39)</td>
    <td><code>GDK_KEY_Caps_Lock</code> (0xFFE5)<br>
@@ -99,7 +100,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"Control"</code></td>
-   <td>The <kbd>Control</kbd>, <kbd>Ctrl</kbd>, or <kbd>Ctl</kbd> key. Allows typing control characters.</td>
+   <td><kbd>Control</kbd>，<kbd>Ctrl</kbd>或<kbd>Ctrl</kbd>键。 允许输入控制字符。</td>
    <td><code>VK_CONTROL</code> (0x11)<br>
     <code>VK_LCONTROL</code> (0xA2)<br>
     <code>VK_RCONTROL</code> (0xA3)</td>
@@ -113,7 +114,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"Fn"</code></td>
-   <td>The <kbd>Fn</kbd> (Function modifier) key. Used to allow generating function key (<kbd>F1</kbd>-<kbd>F15</kbd>, for instance) characters on keyboards without a dedicated function key area. Often handled in hardware so that events aren't generated for this key.</td>
+   <td><kbd>Fn</kbd>（函数修饰符）键。 用于允许在没有专用功能键区域的键盘上生成功能键（例如<kbd>F1</kbd>-<kbd>F15</kbd>）字符。 通常在硬件中处理，以便不为此密钥生成事件。</td>
    <td></td>
    <td><code>kVK_Function</code> (0x3F)</td>
    <td></td>
@@ -121,7 +122,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"FnLock"</code></td>
-   <td>The <kbd>FnLock</kbd> or <kbd>F-Lock</kbd> (Function Lock) key.Toggles the function key mode described by "Fn" on and off. Often handled in hardware so that events aren't generated for this key.</td>
+   <td><kbd>FnLock</kbd>或<kbd>F-Lock</kbd>（功能锁定）键。打开和关闭“<kbd>Fn</kbd>”描述的功能键模式。 通常在硬件中处理，以便不为此密钥生成事件。</td>
    <td></td>
    <td></td>
    <td></td>
@@ -129,7 +130,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"Hyper"</code> [4]</td>
-   <td>The <kbd>Hyper</kbd> key.</td>
+   <td> <kbd>Hyper</kbd> 键.</td>
    <td></td>
    <td></td>
    <td><code>GDK_KEY_Hyper_L</code> (0xFFED)<br>
@@ -140,7 +141,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"Meta"</code> [1]</td>
-   <td>The <kbd>Meta</kbd> key. Allows issuing special command inputs. This is the <kbd>Windows</kbd> logo key, or the <kbd>Command</kbd> or <kbd>⌘</kbd> key on Mac keyboards.</td>
+   <td><kbd>Meta</kbd>键。 允许发出特殊命令输入。 这是<kbd>Windows</kbd>徽标键，或<kbd>Mac</kbd>键盘上的<kbd>Command</kbd>或⌘键。</td>
    <td><code>VK_LWIN</code> (0x5B)<br>
     <code>VK_RWIN</code> (0x5C)</td>
    <td><code>kVK_Command</code> (0x37)<br>
@@ -213,9 +214,9 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
  </thead>
 </table>
 
-<p>[1] In Internet Explorer (tested on release 9 and 11), as well as in all versions of Firefox, the <kbd>Windows</kbd> key is reported as <code>"OS"</code> instead of as <code>"Meta"</code>. This will be changed in Firefox per {{bug(1232918)}}. Until that's fixed, these keys are returned as <code>"OS"</code> by Firefox: <code>VK_LWIN</code> (0x5B) and <code>VK_RWIN</code> (0x5C) on Windows, and <code><code>GDK_KEY_Super_L</code> (0xFFEB)</code>, <code><code>GDK_KEY_Super_R</code> (0xFFEC)</code>, <code><code>GDK_KEY_Hyper_L</code> (0xFFED)</code>, and <code><code>GDK_KEY_Hyper_R</code> (0xFFEE)</code> on Linux.</p>
+<p>[1] In Internet Explorer 9, as well as in all versions of Firefox, the <kbd>Windows</kbd> key is reported as <code>"OS"</code> instead of as <code>"Meta"</code>. This will be changed in Firefox per {{bug(1232918)}}. Until that's fixed, these keys are returned as <code>"OS"</code> by Firefox: <code>VK_LWIN</code> (0x5B) and <code>VK_RWIN</code> (0x5C) on Windows, and <code><code>GDK_KEY_Super_L</code> (0xFFEB)</code>, <code><code>GDK_KEY_Super_R</code> (0xFFEC)</code>, <code><code>GDK_KEY_Hyper_L</code> (0xFFED)</code>, and <code><code>GDK_KEY_Hyper_R</code> (0xFFEE)</code> on Linux.</p>
 
-<p>[2] Internet Explorer (tested on release 9 and 11) reports <code>"Scroll"</code> instead of <code>"ScrollLock"</code> for the <kbd>Scroll Lock</kbd> key.</p>
+<p>[2] Internet Explorer 9 reports <code>"Scroll"</code> instead of <code>"ScrollLock"</code> for the <kbd>Scroll Lock</kbd> key.</p>
 
 <p>[3] Firefox did not add support for the <kbd>Symbol</kbd> key until Firefox 37.</p>
 
@@ -283,7 +284,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
  </tbody>
 </table>
 
-<p>[1] Older browsers may return "Spacebar" instead of " " for the <kbd>Space Bar</kbd> key. Firefox did so until version 37, as did Internet Explorer 9, 10, and 11.</p>
+<p>[1] Older browsers may return "Spacebar" instead of " " for the <kbd>Space Bar</kbd> key. Firefox did so until version 37, as did Internet Explorer 9, 10, and 11.</p>
 
 <h2 id="Navigation_keys">Navigation keys</h2>
 
@@ -477,7 +478,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"Insert"</code></td>
-   <td>The Insert key, <kbd>Ins</kbd>. Toggles  between inserting and overwriting text.</td>
+   <td>The Insert key, <kbd>Ins</kbd>. Toggles between inserting and overwriting text.</td>
    <td><code>VK_INSERT</code> (0x2D)</td>
    <td></td>
    <td><code>GDK_KEY_Insert</code> (0xFF63)<br>
@@ -515,11 +516,13 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
 
 <p>[1] On keyboards without a dedicated <kbd>Del</kbd> key, the Mac generates the <code>"Delete"</code> value when <kbd>Fn</kbd> is pressed in tandem with <kbd>Delete</kbd> (which is <kbd>Backspace</kbd> on other platforms).</p>
 
-<p>[2] Internet Explorer (tested on release 9 and 11) and Firefox 36 and earlier use "Del" instead of "Delete" for the <kbd>Del</kbd> key.</p>
+<p>[2] Internet Explorer 9 and Firefox 36 and earlier use "Del" instead of "Delete" for the <kbd>Del</kbd> key.</p>
 
-<p>[3] Internet Explorer (tested on release 9 and 11) and Firefox 36 and earlier generate the value <code>"Crsel"</code> instead of <code>"CrSel"</code> when the <kbd>CrSel</kbd> key is pressed.</p>
+<p>[3] Internet Explorer 9 and Firefox 36 and earlier generate the value <code>"Crsel"</code> instead of <code>"CrSel"</code> when the <kbd>CrSel</kbd> key is pressed.</p>
 
-<p>[4] Internet Explorer (tested on release 9 and 11) and Firefox 36 and earlier generate the value <code>"Exsel"</code> instead of <code>"ExSel"</code> when the <kbd>ExSel</kbd> key is pressed.</p>
+<p>[4] Internet Explorer 9 and Firefox 36 and earlier generate the value <code>"Exsel"</code> instead of <code>"ExSel"</code> when the <kbd>ExSel</kbd> key is pressed.</p>
+
+<p>[5] Prior to Firefox 37, this key generated the value <code>"Unidentified"</code>.</p>
 
 <h2 id="UI_keys">UI keys</h2>
 
@@ -684,13 +687,13 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
 
 <p>[1] In Google Chrome 52, the <kbd>Cancel</kbd> key incorrectly returns the key code <code>"Pause"</code>. This is fixed in Chrome 53. See <a href="https://bugs.chromium.org/p/chromium/issues/detail?id=612749">Chrome bug 612749</a> for details.</p>
 
-<p>[2] In Internet Explorer (tested on release 9 and 11) and Firefox 36 and earlier, the <kbd>Esc</kbd> key returns <code>"Esc"</code> instead of <code>"Escape"</code>.</p>
+<p>[2] In Internet Explorer 9 and Firefox 36 and earlier, the <kbd>Esc</kbd> key returns <code>"Esc"</code> instead of <code>"Escape"</code>.</p>
 
-<p>[3] Internet Explorer (tested on release 9 and 11) and Firefox 36 and earlier report <code>"Apps"</code> instead of <code>"ContextMenu"</code> for the context menu key.</p>
+<p>[3] Internet Explorer 9 and Firefox 36 and earlier report <code>"Apps"</code> instead of <code>"ContextMenu"</code> for the context menu key.</p>
 
-<p>[4] The <kbd>Attn</kbd> key generates the key code <code>"Unidentified"</code> on Internet Explorer (tested on release 9 and 11). Firefox and Google Chrome report the same, unless the Japanese keyboard layout is in effect, in which case it generates <code>"KanaMode"</code> instead.</p>
+<p>[4] The <kbd>Attn</kbd> key generates the key code <code>"Unidentified"</code> on Internet Explorer 9. Firefox and Google Chrome report the same, unless the Japanese keyboard layout is in effect, in which case it generates <code>"KanaMode"</code> instead.</p>
 
-<p>[5] The <kbd>Finish</kbd> key gemerates the key code <code>"Unidentified"</code> on Internet Explorer (tested on release 9 and 11). Firefox reports the same, unless the Japanese keyboard layout is in effect, in which case it generates <code>"Katakana"</code> instead.</p>
+<p>[5] The <kbd>Finish</kbd> key gemerates the key code <code>"Unidentified"</code> on Internet Explorer 9. Firefox reports the same, unless the Japanese keyboard layout is in effect, in which case it generates <code>"Katakana"</code> instead.</p>
 
 <p>[6] Firefox didn't support the <code>"ZoomIn"</code> and <code>"ZoomOut"</code> keys until Firefox 37.</p>
 
@@ -814,7 +817,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
  </tbody>
 </table>
 
-<p>[1] The <kbd>Standby</kbd> key is not supported by Internet Explorer (tested on release 9 and 11) and Firefox 36 and earlier, so it is reported as <code>"Unidentified"</code>.</p>
+<p>[1] The <kbd>Standby</kbd> key is not supported by Internet Explorer 9 and Firefox 36 and earlier, so it is reported as <code>"Unidentified"</code>.</p>
 
 <p>[2] Prior to Firefox 37, this key generated the value <code>"Unidentified"</code>.</p>
 
@@ -890,7 +893,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"Dead"</code></td>
-   <td>A dead "combining" key; that is, a key which is used in tandem with other keys to generate accented and other modified characters. If pressed by itself, it doesn't generate a character. If you wish to identify which specific dead key was pressed (in cases where more than one exists), you can do so by examining the {{domxref("KeyboardEvent")}}'s associated {{event("compositionupdate")}} event's  {{domxref("CompositionEvent.data", "data")}} property.</td>
+   <td>A dead "combining" key; that is, a key which is used in tandem with other keys to generate accented and other modified characters. If pressed by itself, it doesn't generate a character. If you wish to identify which specific dead key was pressed (in cases where more than one exists), you can do so by examining the {{domxref("KeyboardEvent")}}'s associated {{event("compositionupdate")}} event's {{domxref("CompositionEvent.data", "data")}} property.</td>
    <td></td>
    <td></td>
    <td>See {{anch("Dead keycodes for Linux")}} below</td>
@@ -960,8 +963,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
    <td><code>VK_NONCONVERT</code> (0x1D)</td>
    <td></td>
    <td><code>GDK_KEY_Muhenkan</code> (0xFF22)<br>
-    <code>Qt::Key_Muhenkan</code> (0x01001122)<br>
-     </td>
+    <code>Qt::Key_Muhenkan</code> (0x01001122)</td>
    <td><code>KEYCODE_MUHENKAN</code> (213)</td>
   </tr>
   <tr>
@@ -995,7 +997,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
 
 <p>[1] On the <em>X Window System</em>, the <kbd>Compose</kbd> key is called the <kbd>Multi</kbd> key.</p>
 
-<p>[2] The <kbd>NonConvert</kbd> key is reported as <code>"Nonconvert"</code> instead of the correct <code>"NonConvert"</code> by Internet Explorer (tested on release 9 and 11) and Firefox versions 36 and earlier.</p>
+<p>[2] The <kbd>NonConvert</kbd> key is reported as <code>"Nonconvert"</code> instead of the correct <code>"NonConvert"</code> by Internet Explorer 9 and Firefox versions 36 and earlier.</p>
 
 <p>[3] The <kbd>Process</kbd> key currently returns <code>"Unidentified"</code> in Firefox and Internet Explorer. Google Chrome returns the value of the key as if IME were not in use.</p>
 
@@ -1171,21 +1173,21 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
 
 <p>[2] <code>VK_HANGUL</code> and <code>VK_KANA</code> share the same numeric key value on Windows, as do <code>VK_HANJA</code> and <code>VK_KANJI</code>.</p>
 
-<p>[3] Prior to Firefox 37, the <kbd>Hankaku</kbd> (half-width) key generated the key value <code>"HalfWidth"</code> on Firefox. Also, this key generates the value <code>"Unidentified"</code> on Internet Explorer (tested on release 9 and 11).</p>
+<p>[3] Prior to Firefox 37, the <kbd>Hankaku</kbd> (half-width) key generated the key value <code>"HalfWidth"</code> on Firefox. Also, this key generates the value <code>"Unidentified"</code> on Internet Explorer 9.</p>
 
-<p>[4] Internet Explorer (tested on release 9 and 11) reports <code>"Unidentified"</code> for the <kbd>Zenkaku</kbd> key; Firefox 36 and earlier identify this key as <code>"FullWidth"</code> on Japanese keyboard layouts and <code>"Unidentified"</code> on all other keyboard layouts. Firefox 37 and later, and all versions of Google Chrome, correctly return <code>"Zenkaku"</code>.</p>
+<p>[4] Internet Explorer 9 reports <code>"Unidentified"</code> for the <kbd>Zenkaku</kbd> key; Firefox 36 and earlier identify this key as <code>"FullWidth"</code> on Japanese keyboard layouts and <code>"Unidentified"</code> on all other keyboard layouts. Firefox 37 and later, and all versions of Google Chrome, correctly return <code>"Zenkaku"</code>.</p>
 
-<p>[5] <code>"Unidentified"</code> in Internet Explorer (tested on release 9 and 11). Firefox 36 and earlier identify the <kbd>Romaji</kbd> key as <code>"RomanCharacters"</code> on Japanese keyboards and <code>"Unidentified"</code> for other keyboards; this is corrected to return <code>"Romaji"</code> in Firefox 37 and later.</p>
+<p>[5] <code>"Unidentified"</code> in Internet Explorer 9. Firefox 36 and earlier identify the <kbd>Romaji</kbd> key as <code>"RomanCharacters"</code> on Japanese keyboards and <code>"Unidentified"</code> for other keyboards; this is corrected to return <code>"Romaji"</code> in Firefox 37 and later.</p>
 
 <p>[6] This key is reported as <code>"Unidentified"</code> prior to Firefox 37.</p>
 
 <h3 id="Dead_keycodes_for_Linux">Dead keycodes for Linux</h3>
 
-<p>Linux generates accented characters using special <strong>dead keys</strong>; these are keys which are pressed in combination with character keys to generate accented forms of those characters. You can identify which specific dead key was used (if more than one exists) by examining the  {{domxref("KeyboardEvent")}}'s associated {{event("compositionupdate")}} event's  {{domxref("CompositionEvent.data", "data")}} property.</p>
+<p>Linux generates accented characters using special <strong>dead keys</strong>; these are keys which are pressed in combination with character keys to generate accented forms of those characters. You can identify which specific dead key was used (if more than one exists) by examining the {{domxref("KeyboardEvent")}}'s associated {{event("compositionupdate")}} event's {{domxref("CompositionEvent.data", "data")}} property.</p>
 
 <p>You can find a table of the dead keys and the characters they can be used with to generate accented or otherwise special characters on Linux using GTK</p>
 
-<p>The value of {{domxref("CompositionEvent.data", "data")}} will be one of the following:</p>
+<p>The value of {{domxref("CompositionEvent.data", "data")}} will be one of the following:</p>
 
 <table class="standard-table">
  <tbody>
@@ -1220,7 +1222,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>GDK_KEY_dead_perispomeni</code> (0xFE53)</td>
-   <td> ͂</td>
+   <td>͂</td>
    <td></td>
   </tr>
   <tr>
@@ -1280,7 +1282,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   <tr>
    <td><code>GDK_KEY_dead_iota</code> (0xFE5D)<br>
     <code>Qt::Key_Dead_Iota</code> (0x0100125D)</td>
-   <td> ͅ</td>
+   <td>ͅ</td>
    <td>Iota subscript.</td>
   </tr>
   <tr>
@@ -1304,28 +1306,28 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   <tr>
    <td><code>GDK_KEY_dead_hook</code> (0xFE61)<br>
     <code>Qt::Key_Dead_Hook</code> (0x01001261)</td>
-   <td>  ̡</td>
+   <td>̡</td>
    <td></td>
   </tr>
   <tr>
    <td><code>GDK_KEY_dead_horn</code> (0xFE62)<br>
     <code>Qt::Key_Dead_Horn</code> (0x01001262)</td>
-   <td> ̛</td>
+   <td>̛</td>
    <td></td>
   </tr>
   <tr>
    <td><code>GDK_KEY_dead_stroke</code> (0xFE63)</td>
-   <td> ̶̶</td>
+   <td>̶̶</td>
    <td></td>
   </tr>
   <tr>
    <td><code>GDK_KEY_dead_abovecomma</code> (0xFE64)</td>
-   <td> ̓̓</td>
+   <td>̓̓</td>
    <td></td>
   </tr>
   <tr>
    <td><code>GDK_KEY_dead_psili</code> (0xFE64)</td>
-   <td> ᾿</td>
+   <td>᾿</td>
    <td></td>
   </tr>
   <tr>
@@ -1340,7 +1342,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>GDK_KEY_dead_doublegrave</code> (0xFE66)</td>
-   <td> ̏</td>
+   <td>̏</td>
    <td></td>
   </tr>
   <tr>
@@ -1350,7 +1352,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>GDK_KEY_dead_belowmacron</code> (0xFE68)</td>
-   <td> ̱</td>
+   <td>̱</td>
    <td></td>
   </tr>
   <tr>
@@ -1370,7 +1372,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>GDK_KEY_dead_belowdiaeresis</code> (0xFE6C)</td>
-   <td> ̤</td>
+   <td>̤</td>
    <td></td>
   </tr>
   <tr>
@@ -1929,7 +1931,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
  </thead>
 </table>
 
-<p>[1] Internet Explorer, Edge, and Firefox (36 and earlier) use <code>"MediaNextTrack"</code> and <code>"MediaPreviousTrack"</code> instead of <code>"MediaTrackNext"</code> and <code>"MediaTrackPrevious"</code>.</p>
+<p>[1] Internet Explorer, Edge, and Firefox (36 and earlier) use <code>"MediaNextTrack"</code> and <code>"MediaPreviousTrack"</code> instead of <code>"MediaTrackNext"</code> and <code>"MediaTrackPrevious"</code>.</p>
 
 <p>[2] Prior to Firefox 37, Firefox generated the key code <code>"FastFwd"</code> on some platforms and <code>"Unidentified"</code> on others instead of <code>"MediaFastForward"</code>.</p>
 
@@ -2112,7 +2114,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
  </thead>
 </table>
 
-<p>[1] Internet Explorer, Edge, and Firefox (48 and earlier) use <code>"VolumeUp"</code>, <code>"VolumeDown"</code>, and <code>"VolumeMute"</code> instead of <code>"AudioVolumeUp"</code>, <code>"AudioVolumeDown"</code>, and <code>"AudioVolumeMute"</code>. In Firefox 49 they were updated to match the latest specification. The old names are still used on <a href="/en-US/docs/Mozilla/B2G_OS">Boot to Gecko</a>.</p>
+<p>[1] Internet Explorer, Edge, and Firefox (48 and earlier) use <code>"VolumeUp"</code>, <code>"VolumeDown"</code>, and <code>"VolumeMute"</code> instead of <code>"AudioVolumeUp"</code>, <code>"AudioVolumeDown"</code>, and <code>"AudioVolumeMute"</code>. In Firefox 49 they were updated to match the latest specification. The old names are still used on <a href="/en-US/docs/Mozilla/B2G_OS">Boot to Gecko</a>.</p>
 
 <h2 id="TV_control_keys">TV control keys</h2>
 
@@ -2991,7 +2993,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
 
 <p>[1] Don't confuse the media controller <code>VK_APPS</code> key with the Windows <code>VK_APPS</code> key, which is also known as <code>VK_CONTEXT_MENU</code>. That key is encoded as <code>"ContextMenu"</code>.</p>
 
-<p>[2] Internet Explorer (tested on release 9 and 11) and Firefox 36 and earlier identify the zoom toggle button as <code>"Zoom"</code>. Firefox 37 corrects this to <code>"ZoomToggle"</code>.</p>
+<p>[2] Internet Explorer 9 and Firefox 36 and earlier identify the zoom toggle button as <code>"Zoom"</code>. Firefox 37 corrects this to <code>"ZoomToggle"</code>.</p>
 
 <p>[3] These keys were <code>"Unidentified"</code> until Firefox 37.</p>
 
@@ -3157,7 +3159,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"LaunchCalculator"</code> [5]</td>
-   <td>The <kbd>Calculator</kbd> key, often labeled with an icon. This is often used as a generic application launcher key (<code>APPCOMMAND_LAUNCH_APP2</code>).</td>
+   <td>The <kbd>Calculator</kbd> key, often labeled with an icon such as calculator icon. This is often used as a generic application launcher key (<code>APPCOMMAND_LAUNCH_APP2</code>).</td>
    <td><code>APPCOMMAND_LAUNCH_APP2</code></td>
    <td></td>
    <td><code>GDK_KEY_Calculator</code> (0x1008FF1D)<br>
@@ -3166,7 +3168,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"LaunchCalendar"</code> [5]</td>
-   <td>The <kbd>Calendar</kbd> key, often labeled with an icon.</td>
+   <td>The <kbd>Calendar</kbd> key, often labeled with an icon like a calendar icon.</td>
    <td></td>
    <td></td>
    <td><code>GDK_KEY_Calendar</code> (0x1008FF20)<br>
@@ -3183,7 +3185,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"LaunchMail"</code></td>
-   <td>The <kbd>Mail</kbd> key. This is often displayed with an icon.</td>
+   <td>The <kbd>Mail</kbd> key. This is often displayed as envelope icon.</td>
    <td><code>VK_LAUNCH_MAIL</code> (0xB4)<br>
     <code>APPCOMMAND_LAUNCH_MAIL</code></td>
    <td></td>
@@ -3205,7 +3207,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"LaunchMusicPlayer"</code> [5]</td>
-   <td>The <kbd>Music Player</kbd> key, often labeled with an icon.</td>
+   <td>The <kbd>Music Player</kbd> key, often labeled with an icon such as music icon.</td>
    <td></td>
    <td></td>
    <td><code>GDK_KEY_Music</code> (0x1008FF92)<br>
@@ -3241,7 +3243,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"LaunchSpreadsheet"</code> [4]</td>
-   <td>The <kbd>Spreadsheet</kbd> key. This key may be labeled with an icon.</td>
+   <td>The <kbd>Spreadsheet</kbd> key. This key may be labeled with an icon such as table icon or that of a specific spreadsheet application.</td>
    <td></td>
    <td></td>
    <td><code>GDK_KEY_Excel</code> (0x1008FF5C)<br>
@@ -3250,7 +3252,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
   </tr>
   <tr>
    <td><code>"LaunchWebBrowser"</code> [4]</td>
-   <td>The <kbd>Web Browser</kbd> key. This key is frequently labeled with an icon.</td>
+   <td>The <kbd>Web Browser</kbd> key. This key is frequently labeled with an icon such as globe icon or the icon of a specific browser, depending on the device manufacturer.</td>
    <td></td>
    <td></td>
    <td><code>GDK_KEY_WWW</code> (0x1008FF2E)<br>
@@ -3424,7 +3426,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
  </thead>
 </table>
 
-<p>[1] Internet Explorer, Edge, and Firefox (36 and earlier) use <code>"SelectMedia"</code> instead of <code>"LaunchMediaPlayer"</code>. Firefox 37 through Firefox 48 use <code>"MediaSelect"</code>. Firefox 49 has been updated to match the latest specification, and to return <code>"LaunchMediaPlayer"</code>.</p>
+<p>[1] Internet Explorer, Edge, and Firefox (36 and earlier) use <code>"SelectMedia"</code> instead of <code>"LaunchMediaPlayer"</code>. Firefox 37 through Firefox 48 use <code>"MediaSelect"</code>. Firefox 49 has been updated to match the latest specification, and to return <code>"LaunchMediaPlayer"</code>.</p>
 
 <p>[2] Google Chrome 57 and earlier returned <code>"LaunchMyComputer"</code> instead of <code>"LaunchApplication1"</code>. See <a href="https://bugs.chromium.org/p/chromium/issues/detail?id=612743">Chrome Bug 612743</a> for more information.</p>
 
@@ -3553,8 +3555,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
    <td>The decimal point key (typically <kbd>.</kbd> or <kbd>,</kbd> depending on the region. In newer browsers, this value to simply be the character generated by the decimal key (one of those two characters). [1]</td>
    <td><code>VK_DECIMAL</code> (0x6E)</td>
    <td><code>kVK_ANSI_KeypadDecimal</code> (0x41)</td>
-   <td><code>GDK_KEY_KP_Decimal</code> (0xFFAE)<br>
-     </td>
+   <td><code>GDK_KEY_KP_Decimal</code> (0xFFAE)</td>
    <td><code>KEYCODE_NUMPAD_DOT</code> (158)</td>
   </tr>
   <tr>
@@ -3621,8 +3622,7 @@ translation_of: Web/API/KeyboardEvent/key/Key_Values
    <td>The numeric keypad's places separator character (in the United States, this is a comma, but elsewhere it is frequently a period).</td>
    <td><code>VK_SEPARATOR</code> (0x6C)</td>
    <td><code>kVK_JIS_KeypadComma</code> (0x5F)</td>
-   <td><code>GDK_KEY_KP_Separator</code> (0xFFAC)<br>
-     </td>
+   <td><code>GDK_KEY_KP_Separator</code> (0xFFAC)</td>
    <td><code>KEYCODE_NUMPAD_COMMA</code> (159)</td>
   </tr>
   <tr>
